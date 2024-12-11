@@ -116,8 +116,6 @@ if ! shopt -oq posix; then
   fi
 fi
 
-export PATH=$PATH:/home/hitacium/.spicetify
-
 # Created by `pipx` on 2024-09-19 21:27:50
 export PATH="$PATH:/home/hitacium/.local/bin"
 
