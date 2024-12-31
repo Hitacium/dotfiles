@@ -1,19 +1,21 @@
 return {
 	{
-		"olimorris/onedarkpro.nvim",
-		config = function () 
-			vim.cmd("colorscheme onedark_vivid")
+		"catppuccin/nvim",
+		name = "catppuccin",
+		priority = 1000,
+		config = function ()
+			vim.cmd.colorscheme "catppuccin-macchiato"
 		end
 	},
 	{
-        'nvim-lualine/lualine.nvim',
-        dependencies = { 'nvim-tree/nvim-web-devicons' },
-        config = function ()
-            require("lualine").setup({
-                options = {
-                    theme = "onedark",
-                },
-            })
-        end
-    }
+		'nvim-lualine/lualine.nvim',
+		dependencies = { 'nvim-tree/nvim-web-devicons' },
+		config = function ()
+			require("lualine").setup({
+				options = {
+					theme = "auto",
+				},
+			})
+		end
+	}
 }
