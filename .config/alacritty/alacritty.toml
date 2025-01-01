@@ -6,6 +6,10 @@ import = [
   # "~/.config/alacritty/catppuccin-mocha.toml"
 ]
 
+[window]
+padding = { x = 10, y = 10 }
+opacity = 0.95
+
 [font]
 size = 12.0
 
