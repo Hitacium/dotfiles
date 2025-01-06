@@ -5,7 +5,6 @@ return {
 			lazy = false,
 			opts = {},
 		},
-
 		-- Autocompletion
 		{
 			'hrsh7th/nvim-cmp',
