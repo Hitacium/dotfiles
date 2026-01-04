@@ -20,8 +20,6 @@ local function ocamlformat()
         end
       end,
     })
-  else
-    print('Not an OCaml file!')
   end
 end
 
@@ -95,12 +93,14 @@ return {
             vim.keymap.set('n', 'gs', '<cmd>lua vim.lsp.buf.signature_help()<cr>',
               opts)
             vim.keymap.set('n', '<F2>', '<cmd>lua vim.lsp.buf.rename()<cr>', opts)
-            vim.keymap.set('n', '<F5>', '<cmd>lua vim.lsp.buf.format()<cr>', opts)
             vim.keymap.set('n', '<F4>', '<cmd>lua vim.lsp.buf.code_action()<cr>',
               opts)
 
-            -- F3 triggers OCamlFormat
-            vim.keymap.set('n', '<F3>', ocamlformat, opts)
+            -- formatting
+            vim.keymap.set('n', '<F3>', function()
+              vim.lsp.buf.format()
+              ocamlformat()
+            end, opts)
           end,
         })
 
