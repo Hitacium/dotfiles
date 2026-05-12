@@ -2,24 +2,24 @@
 vim.opt.number = true -- Show line numbers
 
 -- Tabs & indentation
-vim.opt.tabstop = 2        -- Number of spaces a <Tab> counts for
-vim.opt.softtabstop = 2    -- Number of spaces in editing operations
-vim.opt.shiftwidth = 2     -- Indent width
-vim.opt.expandtab = true   -- Use spaces instead of tabs
+vim.opt.tabstop = 2 -- Number of spaces a <Tab> counts for
+vim.opt.softtabstop = 2 -- Number of spaces in editing operations
+vim.opt.shiftwidth = 2 -- Indent width
+vim.opt.expandtab = true -- Use spaces instead of tabs
 vim.opt.smartindent = true -- Smart auto-indenting on new lines
-vim.opt.autoindent = true  -- Copy indent from current line
+vim.opt.autoindent = true -- Copy indent from current line
 
 -- Search
 vim.opt.ignorecase = true -- Ignore case in search
-vim.opt.smartcase = true  -- Override ignorecase if search contains uppercase
-vim.opt.hlsearch = false  -- Don't highlight all matches
-vim.opt.incsearch = true  -- Show matches while typing
+vim.opt.smartcase = true -- Override ignorecase if search contains uppercase
+vim.opt.hlsearch = false -- Don't highlight all matches
+vim.opt.incsearch = true -- Show matches while typing
 
 -- Appearance
 vim.opt.termguicolors = true -- True color support
-vim.opt.cursorline = true    -- Highlight the current line
-vim.opt.signcolumn = "yes"   -- Always show sign column (for LSP, git, etc.)
-vim.opt.wrap = false         -- Disable line wrapping
+vim.opt.cursorline = true -- Highlight the current line
+vim.opt.signcolumn = "yes" -- Always show sign column (for LSP, git, etc.)
+vim.opt.wrap = false -- Disable line wrapping
 
 -- Splits
 vim.opt.splitbelow = true -- Horizontal splits open below
