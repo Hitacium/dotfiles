@@ -254,6 +254,7 @@ hl.animation({
 hl.config({
 	input = {
 		kb_layout = "fr",
+		kb_options = "caps:swapescape", -- swap caps lock and escape
 		numlock_by_default = true,
 		repeat_delay = 250,
 		repeat_rate = 35,
