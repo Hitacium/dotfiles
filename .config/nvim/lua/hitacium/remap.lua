@@ -1,5 +1,4 @@
 local opts_1 = { noremap = true, silent = true }
-local opts_2 = { noremap = false, silent = true }
 
 vim.g.mapleader = " "
 vim.g.maplocalleader = " "
@@ -9,8 +8,7 @@ local keymap = vim.api.nvim_set_keymap
 local keyset = vim.keymap.set
 
 -- Delete without yanking
-keymap("n", "D", '"_d', opts_1)
-keymap("n", "D", '"_d', opts_1)
+keymap("n", "d", '"_d', opts_1)
 
 -- Line Nav
 keymap("n", "é", "0", opts_1) -- line beginning
