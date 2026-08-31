@@ -1,0 +1,47 @@
+[INFO] argc: 0
+[INFO] MiniMeters Launching: v1.0.24 - build: 172
+[INFO] Startup locale: C
+[INFO] Successfully set locale to: C.UTF-8
+[INFO] Locale: C
+[INFO] Loaded theme: Direct
+[INFO] ReloadThemeList()
+[INFO] Theme found: Direct
+[INFO] primary_display: 0.000000x53.000000 2560.000000x1546.000000
+[INFO] Loaded theme: Direct
+[INFO] ReloadThemeList()
+[INFO] Theme found: Direct
+[INFO] loading colormaps...
+[INFO] Prefs::save_if_needed: saving to the running preset: Plug-In Instance Preset
+[INFO] [Audio Engine] Starting with SR: 48000.000000
+[WARN] WindowX11: Running under Xwayland.
+[INFO] UpdateChecker: Using cached value: 1.0.24
+[INFO] adjust_size: min: 512.000000x512.000000, max: 65535.000000x65535.000000
+[INFO] temp_w: 1820.000000 h:980.000000
+[INFO] Found 2 Vulkan device(s):
+[INFO]  0 - NVIDIA GeForce RTX 3060 Laptop GPU (Discrete GPU) - VRAM: 6144MB - Score: 11000
+[INFO]  1 - AMD Radeon 660M (RADV REMBRANDT) (Integrated GPU) - VRAM: 10764MB - Score: 6000
+[INFO] Selected GPU: NVIDIA GeForce RTX 3060 Laptop GPU (score: 11000)
+[INFO] done creating renderer
+[WARN] optional_setup() took 294.023243ms
+[WARN] resize took 0.031623ms
+[WARN] make_buffer took 22.238936ms
+[WARN] FinalizeAttributes took 0.004569ms
+[WARN] new RDrawer() took 22.316240ms
+[WARN] new FramebufferDrawer() took 0.014670ms
+[WARN] texture_rect_buffer () took 0.002785ms
+[WARN] initialize_fixed_function_text() took 3.065757ms
+[WARN] initialize_fixed_function_pipeline() took 26.189008ms
+[WARN] first pre_draw() took 91.817536ms
+[INFO] Spectrogram: Time Correction Multiplier changed from 0.000000 to 32.000000
+[INFO] Samples Per Frame: 128.000000
+[INFO] Fade setting changed. Updating LUT: 0.500000
+[INFO] UpdateChecker: MiniMeters is up to date, found version: 1.0.24
+[INFO] Spectrogram: Time Correction Multiplier changed from 32.000000 to 29.467627
+[INFO] Samples Per Frame: 139.000000
+[INFO] Prefs::save_if_needed: saving to the running preset: Plug-In Instance Preset
+[INFO] Prefs::save_if_needed: saving to the running preset: Plug-In Instance Preset
+[INFO] ~App
+[INFO] Prefs::save_to_preset: saving to the current preset: Plug-In Instance Preset
+[INFO] Destroyed window with id: 0
+[INFO] ~UpdateChecker
+[INFO] ~UpdateChecker Finished

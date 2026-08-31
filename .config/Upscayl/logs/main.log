@@ -1,0 +1,3417 @@
+[2025-07-26 13:02:36.917] [info]  🆙 Upscayl version: 2.15.0 FOSS
+[2025-07-26 13:02:36.919] [info]  🚀 UPSCAYL EXEC PATH:  /usr/share/upscayl/bin/upscayl-bin
+[2025-07-26 13:02:36.919] [info]  🚀 MODELS PATH:  /usr/share/upscayl/models
+[2025-07-26 13:02:36.920] [info]  🚃 App Path:  /usr/share/upscayl/app.asar
+[2025-07-26 13:02:37.632] [info]  💻 System Info: {"platform":"linux","release":"6.15.8-arch1-1","arch":"x64","model":"AMD Ryzen 5 6600H with Radeon Graphics","cpuCount":12,"gpu":{"active":true,"cudaComputeCapabilityMajor":0,"deviceId":5761,"gpuPreference":0,"vendorId":4098}}
+[2025-07-26 13:02:48.786] [info]  💻 System Info: {"platform":"linux","release":"6.15.8-arch1-1","arch":"x64","model":"AMD Ryzen 5 6600H with Radeon Graphics","cpuCount":12,"gpu":{"active":true,"cudaComputeCapabilityMajor":0,"deviceId":5761,"gpuPreference":0,"vendorId":4098}}
+[2025-07-26 13:21:20.810] [info]  🆙 Upscayl version: 2.15.0 FOSS
+[2025-07-26 13:21:20.815] [info]  🚀 UPSCAYL EXEC PATH:  /usr/share/upscayl/bin/upscayl-bin
+[2025-07-26 13:21:20.816] [info]  🚀 MODELS PATH:  /usr/share/upscayl/models
+[2025-07-26 13:21:20.818] [info]  🚃 App Path:  /usr/share/upscayl/app.asar
+[2025-07-26 13:21:21.923] [info]  💻 System Info: {"platform":"linux","release":"6.15.8-arch1-1","arch":"x64","model":"AMD Ryzen 5 6600H with Radeon Graphics","cpuCount":12,"gpu":{"active":true,"cudaComputeCapabilityMajor":0,"deviceId":5761,"gpuPreference":0,"vendorId":4098}}
+[2025-07-26 13:29:11.778] [info]  🆙 Upscayl version: 2.15.0 FOSS
+[2025-07-26 13:29:11.782] [info]  🚀 UPSCAYL EXEC PATH:  /usr/share/upscayl/bin/upscayl-bin
+[2025-07-26 13:29:11.782] [info]  🚀 MODELS PATH:  /usr/share/upscayl/models
+[2025-07-26 13:29:11.784] [info]  🚃 App Path:  /usr/share/upscayl/app.asar
+[2025-07-26 13:29:12.562] [info]  💻 System Info: {"platform":"linux","release":"6.15.8-arch1-1","arch":"x64","model":"AMD Ryzen 5 6600H with Radeon Graphics","cpuCount":12,"gpu":{"active":true,"cudaComputeCapabilityMajor":0,"deviceId":5761,"gpuPreference":0,"vendorId":4098}}
+[2025-07-26 13:29:19.369] [info]  🔄 Resetting image paths
+[2025-07-26 13:29:50.831] [info]  🖼️ Updating Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image.png
+[2025-07-26 13:29:50.832] [info]  📄 Selected File Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image.png
+[2025-07-26 13:29:50.837] [info]  🎒 BACKEND REPORTED:  🖼️ Updating Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image.png
+[2025-07-26 13:29:50.838] [info]  🎒 BACKEND REPORTED:  🖼️ Updating Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image.png
+[2025-07-26 13:29:50.838] [info]  🖼 Selected Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image.png
+[2025-07-26 13:29:50.839] [info]  📁 Selected Image Directory:  /home/hitacium/Pictures/Wallpapers
+[2025-07-26 13:29:50.841] [info]  🖼 imagePath:  /home/hitacium/Pictures/Wallpapers/konachan_random_image.png
+[2025-07-26 13:29:50.841] [info]  🔤 Extension:  png
+[2025-07-26 13:29:50.875] [info]  🎒 BACKEND REPORTED:  📄 Selected File Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image.png
+[2025-07-26 13:29:50.876] [info]  🎒 BACKEND REPORTED:  📄 Selected File Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image.png
+[2025-07-26 13:29:53.723] [info]  🔄 Resetting image paths
+[2025-07-26 13:29:54.750] [info]  🖼️ Updating Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 13:29:54.751] [info]  📄 Selected File Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 13:29:54.758] [info]  🎒 BACKEND REPORTED:  🖼️ Updating Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 13:29:54.759] [info]  🎒 BACKEND REPORTED:  🖼️ Updating Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 13:29:54.759] [info]  🖼 Selected Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 13:29:54.759] [info]  📁 Selected Image Directory:  /home/hitacium/Pictures/Wallpapers
+[2025-07-26 13:29:54.760] [info]  🖼 imagePath:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 13:29:54.760] [info]  🔤 Extension:  png
+[2025-07-26 13:29:54.761] [info]  🎒 BACKEND REPORTED:  📄 Selected File Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 13:29:54.762] [info]  🎒 BACKEND REPORTED:  📄 Selected File Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 13:29:56.366] [info]  🔄 Resetting image paths
+[2025-07-26 13:30:17.551] [info]  🚫 File Operation Cancelled
+[2025-07-26 13:30:17.556] [info]  🎒 BACKEND REPORTED:  🚫 File Operation Cancelled
+[2025-07-26 13:30:17.557] [info]  🎒 BACKEND REPORTED:  🚫 File Operation Cancelled
+[2025-07-26 13:37:32.478] [info]  🆙 Upscayl version: 2.15.0 FOSS
+[2025-07-26 13:37:32.480] [info]  🚀 UPSCAYL EXEC PATH:  /usr/share/upscayl/bin/upscayl-bin
+[2025-07-26 13:37:32.480] [info]  🚀 MODELS PATH:  /usr/share/upscayl/models
+[2025-07-26 13:37:32.481] [info]  🚃 App Path:  /usr/share/upscayl/app.asar
+[2025-07-26 13:37:33.217] [info]  💻 System Info: {"platform":"linux","release":"6.15.8-arch1-1","arch":"x64","model":"AMD Ryzen 5 6600H with Radeon Graphics","cpuCount":12,"gpu":{"active":true,"cudaComputeCapabilityMajor":0,"deviceId":5761,"gpuPreference":0,"vendorId":4098}}
+[2025-07-26 13:37:34.929] [info]  🔄 Resetting image paths
+[2025-07-26 13:37:36.503] [info]  🖼️ Updating Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 13:37:36.504] [info]  📄 Selected File Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 13:37:36.506] [info]  🎒 BACKEND REPORTED:  🖼️ Updating Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 13:37:36.511] [info]  🎒 BACKEND REPORTED:  🖼️ Updating Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 13:37:36.512] [info]  🖼 Selected Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 13:37:36.512] [info]  📁 Selected Image Directory:  /home/hitacium/Pictures/Wallpapers
+[2025-07-26 13:37:36.513] [info]  🖼 imagePath:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 13:37:36.513] [info]  🔤 Extension:  png
+[2025-07-26 13:37:36.538] [info]  🎒 BACKEND REPORTED:  📄 Selected File Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 13:37:36.539] [info]  🎒 BACKEND REPORTED:  📄 Selected File Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 13:37:49.768] [info]  🔄 Resetting Upscaled Image Path
+[2025-07-26 13:37:49.770] [info]  ✅ Upscayl Variables:  {"model":"upscayl-standard-4x","gpuId":null,"saveImageAs":"png","inputDir":"/home/hitacium/Pictures/Wallpapers","fileNameWithExt":"konachan_random_image-1.png","outputDir":"/home/hitacium/Pictures/Wallpapers","outFile":"/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png","fileName":"konachan_random_image-1","scale":"4","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2025-07-26 13:37:49.771] [info]  📢 Upscayl Command:  [
+  '-i',
+  '/home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png',
+  '-o',
+  '/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png',
+  '-m',
+  '/usr/share/upscayl/models',
+  '-n',
+  'upscayl-standard-4x',
+  '-f',
+  'png',
+  '-c',
+  '0'
+]
+[2025-07-26 13:37:49.787] [info]  👶 Updating Child Processes:  {"binary":"/usr/share/upscayl/bin/upscayl-bin","args":["/usr/share/upscayl/bin/upscayl-bin","-i","/home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png","-o","/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png","-m","/usr/share/upscayl/models","-n","upscayl-standard-4x","-f","png","-c","0"]}
+[2025-07-26 13:37:49.787] [info]  🛑 Updating Stopped:  false
+[2025-07-26 13:37:49.789] [info]  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-07-26 13:37:49.790] [info]  🏁 UPSCAYL
+[2025-07-26 13:37:49.790] [info]  🎒 BACKEND REPORTED:  ✅ Upscayl Variables:  {"model":"upscayl-standard-4x","gpuId":null,"saveImageAs":"png","inputDir":"/home/hitacium/Pictures/Wallpapers","fileNameWithExt":"konachan_random_image-1.png","outputDir":"/home/hitacium/Pictures/Wallpapers","outFile":"/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png","fileName":"konachan_random_image-1","scale":"4","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2025-07-26 13:37:49.791] [info]  🎒 BACKEND REPORTED:  ✅ Upscayl Variables:  {"model":"upscayl-standard-4x","gpuId":null,"saveImageAs":"png","inputDir":"/home/hitacium/Pictures/Wallpapers","fileNameWithExt":"konachan_random_image-1.png","outputDir":"/home/hitacium/Pictures/Wallpapers","outFile":"/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png","fileName":"konachan_random_image-1","scale":"4","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2025-07-26 13:37:49.791] [info]  🎒 BACKEND REPORTED:  📢 Upscayl Command:  -i,/home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png,-o,/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png,-m,/usr/share/upscayl/models,-n,upscayl-standard-4x,-f,png,-c,0
+[2025-07-26 13:37:49.792] [info]  🎒 BACKEND REPORTED:  📢 Upscayl Command:  -i,/home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png,-o,/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png,-m,/usr/share/upscayl/models,-n,upscayl-standard-4x,-f,png,-c,0
+[2025-07-26 13:37:49.797] [info]  🎒 BACKEND REPORTED:  👶 Updating Child Processes:  {"binary":"/usr/share/upscayl/bin/upscayl-bin","args":["/usr/share/upscayl/bin/upscayl-bin","-i","/home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png","-o","/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png","-m","/usr/share/upscayl/models","-n","upscayl-standard-4x","-f","png","-c","0"]}
+[2025-07-26 13:37:49.798] [info]  🎒 BACKEND REPORTED:  👶 Updating Child Processes:  {"binary":"/usr/share/upscayl/bin/upscayl-bin","args":["/usr/share/upscayl/bin/upscayl-bin","-i","/home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png","-o","/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png","-m","/usr/share/upscayl/models","-n","upscayl-standard-4x","-f","png","-c","0"]}
+[2025-07-26 13:37:49.799] [info]  🎒 BACKEND REPORTED:  🛑 Updating Stopped:  false
+[2025-07-26 13:37:49.799] [info]  🎒 BACKEND REPORTED:  🛑 Updating Stopped:  false
+[2025-07-26 13:37:49.800] [info]  🎒 BACKEND REPORTED:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-07-26 13:37:49.800] [info]  🎒 BACKEND REPORTED:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-07-26 13:37:49.800] [info]  🚧 UPSCAYL_PROGRESS:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-07-26 13:37:49.801] [info]  🚧 UPSCAYL_PROGRESS:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-07-26 13:37:49.869] [info]  [0 NVIDIA GeForce RTX 3060 Laptop GPU]  queueC=2[8]  queueG=0[16]  queueT=1[2]
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+
+[2025-07-26 13:37:49.871] [info]  🎒 BACKEND REPORTED:  [0 NVIDIA GeForce RTX 3060 Laptop GPU]  queueC=2[8]  queueG=0[16]  queueT=1[2]
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+
+[2025-07-26 13:37:49.872] [info]  🎒 BACKEND REPORTED:  [0 NVIDIA GeForce RTX 3060 Laptop GPU]  queueC=2[8]  queueG=0[16]  queueT=1[2]
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+
+[2025-07-26 13:37:49.874] [info]  🚧 UPSCAYL_PROGRESS:  [0 NVIDIA GeForce RTX 3060 Laptop GPU]  queueC=2[8]  queueG=0[16]  queueT=1[2]
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+
+[2025-07-26 13:37:49.874] [info]  🚧 UPSCAYL_PROGRESS:  [0 NVIDIA GeForce RTX 3060 Laptop GPU]  queueC=2[8]  queueG=0[16]  queueT=1[2]
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+
+[2025-07-26 13:37:59.685] [info]  0,00%
+
+[2025-07-26 13:37:59.687] [info]  🎒 BACKEND REPORTED:  0,00%
+
+[2025-07-26 13:37:59.687] [info]  🎒 BACKEND REPORTED:  0,00%
+
+[2025-07-26 13:37:59.690] [info]  🚧 UPSCAYL_PROGRESS:  0,00%
+
+[2025-07-26 13:37:59.691] [info]  🚧 UPSCAYL_PROGRESS:  0,00%
+
+[2025-07-26 13:38:02.794] [info]  0,33%
+
+[2025-07-26 13:38:02.796] [info]  🎒 BACKEND REPORTED:  0,33%
+
+[2025-07-26 13:38:02.797] [info]  🎒 BACKEND REPORTED:  0,33%
+
+[2025-07-26 13:38:02.799] [info]  🚧 UPSCAYL_PROGRESS:  0,33%
+
+[2025-07-26 13:38:02.800] [info]  🚧 UPSCAYL_PROGRESS:  0,33%
+
+[2025-07-26 13:38:06.099] [info]  0,67%
+
+[2025-07-26 13:38:06.101] [info]  🎒 BACKEND REPORTED:  0,67%
+
+[2025-07-26 13:38:06.102] [info]  🎒 BACKEND REPORTED:  0,67%
+
+[2025-07-26 13:38:06.105] [info]  🚧 UPSCAYL_PROGRESS:  0,67%
+
+[2025-07-26 13:38:06.106] [info]  🚧 UPSCAYL_PROGRESS:  0,67%
+
+[2025-07-26 13:38:09.695] [info]  1,00%
+
+[2025-07-26 13:38:09.697] [info]  🎒 BACKEND REPORTED:  1,00%
+
+[2025-07-26 13:38:09.698] [info]  🎒 BACKEND REPORTED:  1,00%
+
+[2025-07-26 13:38:09.701] [info]  🚧 UPSCAYL_PROGRESS:  1,00%
+
+[2025-07-26 13:38:09.701] [info]  🚧 UPSCAYL_PROGRESS:  1,00%
+
+[2025-07-26 13:38:12.663] [info]  1,33%
+
+[2025-07-26 13:38:12.665] [info]  🎒 BACKEND REPORTED:  1,33%
+
+[2025-07-26 13:38:12.666] [info]  🎒 BACKEND REPORTED:  1,33%
+
+[2025-07-26 13:38:12.668] [info]  🚧 UPSCAYL_PROGRESS:  1,33%
+
+[2025-07-26 13:38:12.669] [info]  🚧 UPSCAYL_PROGRESS:  1,33%
+
+[2025-07-26 19:25:26.476] [info]  🆙 Upscayl version: 2.15.0 FOSS
+[2025-07-26 19:25:26.481] [info]  🚀 UPSCAYL EXEC PATH:  /usr/share/upscayl/bin/upscayl-bin
+[2025-07-26 19:25:26.481] [info]  🚀 MODELS PATH:  /usr/share/upscayl/models
+[2025-07-26 19:25:26.483] [info]  🚃 App Path:  /usr/share/upscayl/app.asar
+[2025-07-26 19:25:27.365] [info]  💻 System Info: {"platform":"linux","release":"6.15.8-arch1-1","arch":"x64","model":"AMD Ryzen 5 6600H with Radeon Graphics","cpuCount":12,"gpu":{"active":true,"cudaComputeCapabilityMajor":0,"deviceId":5761,"gpuPreference":0,"vendorId":4098}}
+[2025-07-26 19:25:32.108] [info]  🔄 Resetting image paths
+[2025-07-26 19:25:34.138] [info]  🖼️ Updating Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 19:25:34.139] [info]  📄 Selected File Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 19:25:34.144] [info]  🎒 BACKEND REPORTED:  🖼️ Updating Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 19:25:34.145] [info]  🎒 BACKEND REPORTED:  🖼️ Updating Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 19:25:34.146] [info]  🖼 Selected Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 19:25:34.146] [info]  📁 Selected Image Directory:  /home/hitacium/Pictures/Wallpapers
+[2025-07-26 19:25:34.148] [info]  🖼 imagePath:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 19:25:34.148] [info]  🔤 Extension:  png
+[2025-07-26 19:25:34.149] [info]  🎒 BACKEND REPORTED:  📄 Selected File Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 19:25:34.150] [info]  🎒 BACKEND REPORTED:  📄 Selected File Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 19:25:41.952] [info]  🔄 Resetting Upscaled Image Path
+[2025-07-26 19:25:41.954] [info]  ✅ Upscayl Variables:  {"model":"upscayl-standard-4x","gpuId":null,"saveImageAs":"png","inputDir":"/home/hitacium/Pictures/Wallpapers","fileNameWithExt":"konachan_random_image-1.png","outputDir":"/home/hitacium/Pictures/Wallpapers","outFile":"/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png","fileName":"konachan_random_image-1","scale":"4","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2025-07-26 19:25:41.955] [info]  📢 Upscayl Command:  [
+  '-i',
+  '/home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png',
+  '-o',
+  '/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png',
+  '-m',
+  '/usr/share/upscayl/models',
+  '-n',
+  'upscayl-standard-4x',
+  '-f',
+  'png',
+  '-c',
+  '0'
+]
+[2025-07-26 19:25:41.981] [info]  👶 Updating Child Processes:  {"binary":"/usr/share/upscayl/bin/upscayl-bin","args":["/usr/share/upscayl/bin/upscayl-bin","-i","/home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png","-o","/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png","-m","/usr/share/upscayl/models","-n","upscayl-standard-4x","-f","png","-c","0"]}
+[2025-07-26 19:25:41.982] [info]  🛑 Updating Stopped:  false
+[2025-07-26 19:25:41.984] [info]  🏁 UPSCAYL
+[2025-07-26 19:25:41.985] [info]  🎒 BACKEND REPORTED:  ✅ Upscayl Variables:  {"model":"upscayl-standard-4x","gpuId":null,"saveImageAs":"png","inputDir":"/home/hitacium/Pictures/Wallpapers","fileNameWithExt":"konachan_random_image-1.png","outputDir":"/home/hitacium/Pictures/Wallpapers","outFile":"/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png","fileName":"konachan_random_image-1","scale":"4","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2025-07-26 19:25:41.985] [info]  🎒 BACKEND REPORTED:  ✅ Upscayl Variables:  {"model":"upscayl-standard-4x","gpuId":null,"saveImageAs":"png","inputDir":"/home/hitacium/Pictures/Wallpapers","fileNameWithExt":"konachan_random_image-1.png","outputDir":"/home/hitacium/Pictures/Wallpapers","outFile":"/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png","fileName":"konachan_random_image-1","scale":"4","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2025-07-26 19:25:41.986] [info]  🎒 BACKEND REPORTED:  📢 Upscayl Command:  -i,/home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png,-o,/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png,-m,/usr/share/upscayl/models,-n,upscayl-standard-4x,-f,png,-c,0
+[2025-07-26 19:25:41.986] [info]  🎒 BACKEND REPORTED:  📢 Upscayl Command:  -i,/home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png,-o,/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png,-m,/usr/share/upscayl/models,-n,upscayl-standard-4x,-f,png,-c,0
+[2025-07-26 19:25:41.987] [info]  🎒 BACKEND REPORTED:  👶 Updating Child Processes:  {"binary":"/usr/share/upscayl/bin/upscayl-bin","args":["/usr/share/upscayl/bin/upscayl-bin","-i","/home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png","-o","/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png","-m","/usr/share/upscayl/models","-n","upscayl-standard-4x","-f","png","-c","0"]}
+[2025-07-26 19:25:41.988] [info]  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-07-26 19:25:41.989] [info]  🎒 BACKEND REPORTED:  👶 Updating Child Processes:  {"binary":"/usr/share/upscayl/bin/upscayl-bin","args":["/usr/share/upscayl/bin/upscayl-bin","-i","/home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png","-o","/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png","-m","/usr/share/upscayl/models","-n","upscayl-standard-4x","-f","png","-c","0"]}
+[2025-07-26 19:25:41.990] [info]  🎒 BACKEND REPORTED:  🛑 Updating Stopped:  false
+[2025-07-26 19:25:41.990] [info]  🎒 BACKEND REPORTED:  🛑 Updating Stopped:  false
+[2025-07-26 19:25:41.993] [info]  🎒 BACKEND REPORTED:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-07-26 19:25:41.994] [info]  🎒 BACKEND REPORTED:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-07-26 19:25:41.995] [info]  🚧 UPSCAYL_PROGRESS:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-07-26 19:25:41.995] [info]  🚧 UPSCAYL_PROGRESS:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-07-26 19:25:42.057] [info]  [0 NVIDIA GeForce RTX 3060 Laptop GPU]  queueC=2[8]  queueG=0[16]  queueT=1[2]
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+
+[2025-07-26 19:25:42.058] [info]  🎒 BACKEND REPORTED:  [0 NVIDIA GeForce RTX 3060 Laptop GPU]  queueC=2[8]  queueG=0[16]  queueT=1[2]
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+
+[2025-07-26 19:25:42.059] [info]  🎒 BACKEND REPORTED:  [0 NVIDIA GeForce RTX 3060 Laptop GPU]  queueC=2[8]  queueG=0[16]  queueT=1[2]
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+
+[2025-07-26 19:25:42.062] [info]  🚧 UPSCAYL_PROGRESS:  [0 NVIDIA GeForce RTX 3060 Laptop GPU]  queueC=2[8]  queueG=0[16]  queueT=1[2]
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+
+[2025-07-26 19:25:42.062] [info]  🚧 UPSCAYL_PROGRESS:  [0 NVIDIA GeForce RTX 3060 Laptop GPU]  queueC=2[8]  queueG=0[16]  queueT=1[2]
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+
+[2025-07-26 19:25:43.833] [info]  🛑 Updating Stopped:  true
+[2025-07-26 19:25:43.835] [info]  🛑 Stopping Upscaling Process 35233
+[2025-07-26 19:25:43.841] [info]  🛑 Stopping Upscayl
+[2025-07-26 19:25:43.841] [info]  🔄 Resetting image paths
+[2025-07-26 19:25:43.847] [info]  🎒 BACKEND REPORTED:  🛑 Updating Stopped:  true
+[2025-07-26 19:25:43.848] [info]  🎒 BACKEND REPORTED:  🛑 Updating Stopped:  true
+[2025-07-26 19:25:43.851] [info]  🎒 BACKEND REPORTED:  🛑 Stopping Upscaling Process 35233
+[2025-07-26 19:25:43.852] [info]  🎒 BACKEND REPORTED:  🛑 Stopping Upscaling Process 35233
+[2025-07-26 19:25:47.316] [info]  🔄 Resetting Upscaled Image Path
+[2025-07-26 19:25:47.316] [info]  🚫 No valid image selected
+[2025-07-26 19:25:49.128] [info]  🔄 Resetting image paths
+[2025-07-26 19:25:50.861] [info]  🖼️ Updating Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 19:25:50.861] [info]  📄 Selected File Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 19:25:50.864] [info]  🎒 BACKEND REPORTED:  🖼️ Updating Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 19:25:50.864] [info]  🎒 BACKEND REPORTED:  🖼️ Updating Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 19:25:50.868] [info]  🖼 Selected Image Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 19:25:50.868] [info]  📁 Selected Image Directory:  /home/hitacium/Pictures/Wallpapers
+[2025-07-26 19:25:50.869] [info]  🖼 imagePath:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 19:25:50.869] [info]  🔤 Extension:  png
+[2025-07-26 19:25:50.870] [info]  🎒 BACKEND REPORTED:  📄 Selected File Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 19:25:50.871] [info]  🎒 BACKEND REPORTED:  📄 Selected File Path:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png
+[2025-07-26 19:25:53.546] [info]  🔄 Resetting Upscaled Image Path
+[2025-07-26 19:25:53.547] [info]  ✅ Upscayl Variables:  {"model":"upscayl-standard-4x","gpuId":null,"saveImageAs":"png","inputDir":"/home/hitacium/Pictures/Wallpapers","fileNameWithExt":"konachan_random_image-1.png","outputDir":"/home/hitacium/Pictures/Wallpapers","outFile":"/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_2x_upscayl-standard-4x.png","fileName":"konachan_random_image-1","scale":"2","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2025-07-26 19:25:53.548] [info]  📢 Upscayl Command:  [
+  '-i',
+  '/home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png',
+  '-o',
+  '/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_2x_upscayl-standard-4x.png',
+  '-s',
+  '2',
+  '-m',
+  '/usr/share/upscayl/models',
+  '-n',
+  'upscayl-standard-4x',
+  '-f',
+  'png',
+  '-c',
+  '0'
+]
+[2025-07-26 19:25:53.561] [info]  👶 Updating Child Processes:  {"binary":"/usr/share/upscayl/bin/upscayl-bin","args":["/usr/share/upscayl/bin/upscayl-bin","-i","/home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png","-o","/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png","-m","/usr/share/upscayl/models","-n","upscayl-standard-4x","-f","png","-c","0"]}
+[2025-07-26 19:25:53.561] [info]  🛑 Updating Stopped:  false
+[2025-07-26 19:25:53.562] [info]  🏁 UPSCAYL
+[2025-07-26 19:25:53.563] [info]  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-07-26 19:25:53.563] [info]  🎒 BACKEND REPORTED:  ✅ Upscayl Variables:  {"model":"upscayl-standard-4x","gpuId":null,"saveImageAs":"png","inputDir":"/home/hitacium/Pictures/Wallpapers","fileNameWithExt":"konachan_random_image-1.png","outputDir":"/home/hitacium/Pictures/Wallpapers","outFile":"/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_2x_upscayl-standard-4x.png","fileName":"konachan_random_image-1","scale":"2","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2025-07-26 19:25:53.564] [info]  🎒 BACKEND REPORTED:  ✅ Upscayl Variables:  {"model":"upscayl-standard-4x","gpuId":null,"saveImageAs":"png","inputDir":"/home/hitacium/Pictures/Wallpapers","fileNameWithExt":"konachan_random_image-1.png","outputDir":"/home/hitacium/Pictures/Wallpapers","outFile":"/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_2x_upscayl-standard-4x.png","fileName":"konachan_random_image-1","scale":"2","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2025-07-26 19:25:53.564] [info]  🎒 BACKEND REPORTED:  📢 Upscayl Command:  -i,/home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png,-o,/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_2x_upscayl-standard-4x.png,-s,2,-m,/usr/share/upscayl/models,-n,upscayl-standard-4x,-f,png,-c,0
+[2025-07-26 19:25:53.565] [info]  🎒 BACKEND REPORTED:  📢 Upscayl Command:  -i,/home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png,-o,/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_2x_upscayl-standard-4x.png,-s,2,-m,/usr/share/upscayl/models,-n,upscayl-standard-4x,-f,png,-c,0
+[2025-07-26 19:25:53.565] [info]  🎒 BACKEND REPORTED:  👶 Updating Child Processes:  {"binary":"/usr/share/upscayl/bin/upscayl-bin","args":["/usr/share/upscayl/bin/upscayl-bin","-i","/home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png","-o","/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png","-m","/usr/share/upscayl/models","-n","upscayl-standard-4x","-f","png","-c","0"]}
+[2025-07-26 19:25:53.566] [info]  🎒 BACKEND REPORTED:  👶 Updating Child Processes:  {"binary":"/usr/share/upscayl/bin/upscayl-bin","args":["/usr/share/upscayl/bin/upscayl-bin","-i","/home/hitacium/Pictures/Wallpapers/konachan_random_image-1.png","-o","/home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_4x_upscayl-standard-4x.png","-m","/usr/share/upscayl/models","-n","upscayl-standard-4x","-f","png","-c","0"]}
+[2025-07-26 19:25:53.566] [info]  🎒 BACKEND REPORTED:  🛑 Updating Stopped:  false
+[2025-07-26 19:25:53.566] [info]  🎒 BACKEND REPORTED:  🛑 Updating Stopped:  false
+[2025-07-26 19:25:53.569] [info]  🎒 BACKEND REPORTED:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-07-26 19:25:53.569] [info]  🎒 BACKEND REPORTED:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-07-26 19:25:53.570] [info]  🚧 UPSCAYL_PROGRESS:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-07-26 19:25:53.570] [info]  🚧 UPSCAYL_PROGRESS:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-07-26 19:25:53.669] [info]  [0 NVIDIA GeForce RTX 3060 Laptop GPU]  queueC=2[8]  queueG=0[16]  queueT=1[2]
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+
+[2025-07-26 19:25:53.671] [info]  🎒 BACKEND REPORTED:  [0 NVIDIA GeForce RTX 3060 Laptop GPU]  queueC=2[8]  queueG=0[16]  queueT=1[2]
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+
+[2025-07-26 19:25:53.672] [info]  🎒 BACKEND REPORTED:  [0 NVIDIA GeForce RTX 3060 Laptop GPU]  queueC=2[8]  queueG=0[16]  queueT=1[2]
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+
+[2025-07-26 19:25:53.675] [info]  🚧 UPSCAYL_PROGRESS:  [0 NVIDIA GeForce RTX 3060 Laptop GPU]  queueC=2[8]  queueG=0[16]  queueT=1[2]
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+
+[2025-07-26 19:25:53.676] [info]  🚧 UPSCAYL_PROGRESS:  [0 NVIDIA GeForce RTX 3060 Laptop GPU]  queueC=2[8]  queueG=0[16]  queueT=1[2]
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 NVIDIA GeForce RTX 3060 Laptop GPU]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+
+[2025-07-26 19:25:57.533] [info]  0,00%
+
+[2025-07-26 19:25:57.535] [info]  🎒 BACKEND REPORTED:  0,00%
+
+[2025-07-26 19:25:57.535] [info]  🎒 BACKEND REPORTED:  0,00%
+
+[2025-07-26 19:25:57.536] [info]  🚧 UPSCAYL_PROGRESS:  0,00%
+
+[2025-07-26 19:25:57.536] [info]  🚧 UPSCAYL_PROGRESS:  0,00%
+
+[2025-07-26 19:25:57.825] [info]  0,33%
+
+[2025-07-26 19:25:57.827] [info]  🎒 BACKEND REPORTED:  0,33%
+
+[2025-07-26 19:25:57.827] [info]  🎒 BACKEND REPORTED:  0,33%
+
+[2025-07-26 19:25:57.828] [info]  🚧 UPSCAYL_PROGRESS:  0,33%
+
+[2025-07-26 19:25:57.828] [info]  🚧 UPSCAYL_PROGRESS:  0,33%
+
+[2025-07-26 19:25:58.163] [info]  0,67%
+
+[2025-07-26 19:25:58.165] [info]  🎒 BACKEND REPORTED:  0,67%
+
+[2025-07-26 19:25:58.166] [info]  🎒 BACKEND REPORTED:  0,67%
+
+[2025-07-26 19:25:58.168] [info]  🚧 UPSCAYL_PROGRESS:  0,67%
+
+[2025-07-26 19:25:58.169] [info]  🚧 UPSCAYL_PROGRESS:  0,67%
+
+[2025-07-26 19:25:58.509] [info]  1,00%
+
+[2025-07-26 19:25:58.510] [info]  🎒 BACKEND REPORTED:  1,00%
+
+[2025-07-26 19:25:58.511] [info]  🎒 BACKEND REPORTED:  1,00%
+
+[2025-07-26 19:25:58.514] [info]  🚧 UPSCAYL_PROGRESS:  1,00%
+
+[2025-07-26 19:25:58.514] [info]  🚧 UPSCAYL_PROGRESS:  1,00%
+
+[2025-07-26 19:25:58.827] [info]  1,33%
+
+[2025-07-26 19:25:58.829] [info]  🎒 BACKEND REPORTED:  1,33%
+
+[2025-07-26 19:25:58.829] [info]  🎒 BACKEND REPORTED:  1,33%
+
+[2025-07-26 19:25:58.831] [info]  🚧 UPSCAYL_PROGRESS:  1,33%
+
+[2025-07-26 19:25:58.832] [info]  🚧 UPSCAYL_PROGRESS:  1,33%
+
+[2025-07-26 19:25:59.147] [info]  1,67%
+
+[2025-07-26 19:25:59.149] [info]  🎒 BACKEND REPORTED:  1,67%
+
+[2025-07-26 19:25:59.149] [info]  🎒 BACKEND REPORTED:  1,67%
+
+[2025-07-26 19:25:59.152] [info]  🚧 UPSCAYL_PROGRESS:  1,67%
+
+[2025-07-26 19:25:59.153] [info]  🚧 UPSCAYL_PROGRESS:  1,67%
+
+[2025-07-26 19:25:59.451] [info]  2,00%
+
+[2025-07-26 19:25:59.453] [info]  🎒 BACKEND REPORTED:  2,00%
+
+[2025-07-26 19:25:59.454] [info]  🎒 BACKEND REPORTED:  2,00%
+
+[2025-07-26 19:25:59.456] [info]  🚧 UPSCAYL_PROGRESS:  2,00%
+
+[2025-07-26 19:25:59.456] [info]  🚧 UPSCAYL_PROGRESS:  2,00%
+
+[2025-07-26 19:25:59.777] [info]  2,33%
+
+[2025-07-26 19:25:59.779] [info]  🎒 BACKEND REPORTED:  2,33%
+
+[2025-07-26 19:25:59.780] [info]  🎒 BACKEND REPORTED:  2,33%
+
+[2025-07-26 19:25:59.784] [info]  🚧 UPSCAYL_PROGRESS:  2,33%
+
+[2025-07-26 19:25:59.784] [info]  🚧 UPSCAYL_PROGRESS:  2,33%
+
+[2025-07-26 19:26:00.174] [info]  2,67%
+
+[2025-07-26 19:26:00.177] [info]  🎒 BACKEND REPORTED:  2,67%
+
+[2025-07-26 19:26:00.177] [info]  🎒 BACKEND REPORTED:  2,67%
+
+[2025-07-26 19:26:00.180] [info]  🚧 UPSCAYL_PROGRESS:  2,67%
+
+[2025-07-26 19:26:00.180] [info]  🚧 UPSCAYL_PROGRESS:  2,67%
+
+[2025-07-26 19:26:00.596] [info]  3,00%
+
+[2025-07-26 19:26:00.598] [info]  🎒 BACKEND REPORTED:  3,00%
+
+[2025-07-26 19:26:00.598] [info]  🎒 BACKEND REPORTED:  3,00%
+
+[2025-07-26 19:26:00.601] [info]  🚧 UPSCAYL_PROGRESS:  3,00%
+
+[2025-07-26 19:26:00.602] [info]  🚧 UPSCAYL_PROGRESS:  3,00%
+
+[2025-07-26 19:26:01.020] [info]  3,33%
+
+[2025-07-26 19:26:01.022] [info]  🎒 BACKEND REPORTED:  3,33%
+
+[2025-07-26 19:26:01.022] [info]  🎒 BACKEND REPORTED:  3,33%
+
+[2025-07-26 19:26:01.024] [info]  🚧 UPSCAYL_PROGRESS:  3,33%
+
+[2025-07-26 19:26:01.024] [info]  🚧 UPSCAYL_PROGRESS:  3,33%
+
+[2025-07-26 19:26:01.476] [info]  3,67%
+
+[2025-07-26 19:26:01.477] [info]  🎒 BACKEND REPORTED:  3,67%
+
+[2025-07-26 19:26:01.478] [info]  🎒 BACKEND REPORTED:  3,67%
+
+[2025-07-26 19:26:01.481] [info]  🚧 UPSCAYL_PROGRESS:  3,67%
+
+[2025-07-26 19:26:01.481] [info]  🚧 UPSCAYL_PROGRESS:  3,67%
+
+[2025-07-26 19:26:01.789] [info]  4,00%
+
+[2025-07-26 19:26:01.791] [info]  🎒 BACKEND REPORTED:  4,00%
+
+[2025-07-26 19:26:01.791] [info]  🎒 BACKEND REPORTED:  4,00%
+
+[2025-07-26 19:26:01.793] [info]  🚧 UPSCAYL_PROGRESS:  4,00%
+
+[2025-07-26 19:26:01.794] [info]  🚧 UPSCAYL_PROGRESS:  4,00%
+
+[2025-07-26 19:26:02.112] [info]  4,33%
+
+[2025-07-26 19:26:02.113] [info]  🎒 BACKEND REPORTED:  4,33%
+
+[2025-07-26 19:26:02.114] [info]  🎒 BACKEND REPORTED:  4,33%
+
+[2025-07-26 19:26:02.115] [info]  🚧 UPSCAYL_PROGRESS:  4,33%
+
+[2025-07-26 19:26:02.116] [info]  🚧 UPSCAYL_PROGRESS:  4,33%
+
+[2025-07-26 19:26:02.482] [info]  4,67%
+
+[2025-07-26 19:26:02.484] [info]  🎒 BACKEND REPORTED:  4,67%
+
+[2025-07-26 19:26:02.484] [info]  🎒 BACKEND REPORTED:  4,67%
+
+[2025-07-26 19:26:02.487] [info]  🚧 UPSCAYL_PROGRESS:  4,67%
+
+[2025-07-26 19:26:02.487] [info]  🚧 UPSCAYL_PROGRESS:  4,67%
+
+[2025-07-26 19:26:02.874] [info]  5,00%
+
+[2025-07-26 19:26:02.876] [info]  🎒 BACKEND REPORTED:  5,00%
+
+[2025-07-26 19:26:02.876] [info]  🎒 BACKEND REPORTED:  5,00%
+
+[2025-07-26 19:26:02.878] [info]  🚧 UPSCAYL_PROGRESS:  5,00%
+
+[2025-07-26 19:26:02.879] [info]  🚧 UPSCAYL_PROGRESS:  5,00%
+
+[2025-07-26 19:26:03.263] [info]  5,33%
+
+[2025-07-26 19:26:03.265] [info]  🎒 BACKEND REPORTED:  5,33%
+
+[2025-07-26 19:26:03.265] [info]  🎒 BACKEND REPORTED:  5,33%
+
+[2025-07-26 19:26:03.268] [info]  🚧 UPSCAYL_PROGRESS:  5,33%
+
+[2025-07-26 19:26:03.268] [info]  🚧 UPSCAYL_PROGRESS:  5,33%
+
+[2025-07-26 19:26:03.651] [info]  5,67%
+
+[2025-07-26 19:26:03.652] [info]  🎒 BACKEND REPORTED:  5,67%
+
+[2025-07-26 19:26:03.653] [info]  🎒 BACKEND REPORTED:  5,67%
+
+[2025-07-26 19:26:03.655] [info]  🚧 UPSCAYL_PROGRESS:  5,67%
+
+[2025-07-26 19:26:03.655] [info]  🚧 UPSCAYL_PROGRESS:  5,67%
+
+[2025-07-26 19:26:03.980] [info]  6,00%
+
+[2025-07-26 19:26:03.982] [info]  🎒 BACKEND REPORTED:  6,00%
+
+[2025-07-26 19:26:03.982] [info]  🎒 BACKEND REPORTED:  6,00%
+
+[2025-07-26 19:26:03.984] [info]  🚧 UPSCAYL_PROGRESS:  6,00%
+
+[2025-07-26 19:26:03.985] [info]  🚧 UPSCAYL_PROGRESS:  6,00%
+
+[2025-07-26 19:26:04.344] [info]  6,33%
+
+[2025-07-26 19:26:04.346] [info]  🎒 BACKEND REPORTED:  6,33%
+
+[2025-07-26 19:26:04.347] [info]  🎒 BACKEND REPORTED:  6,33%
+
+[2025-07-26 19:26:04.350] [info]  🚧 UPSCAYL_PROGRESS:  6,33%
+
+[2025-07-26 19:26:04.351] [info]  🚧 UPSCAYL_PROGRESS:  6,33%
+
+[2025-07-26 19:26:04.776] [info]  6,67%
+
+[2025-07-26 19:26:04.778] [info]  🎒 BACKEND REPORTED:  6,67%
+
+[2025-07-26 19:26:04.779] [info]  🎒 BACKEND REPORTED:  6,67%
+
+[2025-07-26 19:26:04.780] [info]  🚧 UPSCAYL_PROGRESS:  6,67%
+
+[2025-07-26 19:26:04.781] [info]  🚧 UPSCAYL_PROGRESS:  6,67%
+
+[2025-07-26 19:26:05.132] [info]  7,00%
+
+[2025-07-26 19:26:05.134] [info]  🎒 BACKEND REPORTED:  7,00%
+
+[2025-07-26 19:26:05.135] [info]  🎒 BACKEND REPORTED:  7,00%
+
+[2025-07-26 19:26:05.136] [info]  🚧 UPSCAYL_PROGRESS:  7,00%
+
+[2025-07-26 19:26:05.137] [info]  🚧 UPSCAYL_PROGRESS:  7,00%
+
+[2025-07-26 19:26:05.499] [info]  7,33%
+
+[2025-07-26 19:26:05.501] [info]  🎒 BACKEND REPORTED:  7,33%
+
+[2025-07-26 19:26:05.502] [info]  🎒 BACKEND REPORTED:  7,33%
+
+[2025-07-26 19:26:05.504] [info]  🚧 UPSCAYL_PROGRESS:  7,33%
+
+[2025-07-26 19:26:05.504] [info]  🚧 UPSCAYL_PROGRESS:  7,33%
+
+[2025-07-26 19:26:05.877] [info]  7,67%
+
+[2025-07-26 19:26:05.879] [info]  🎒 BACKEND REPORTED:  7,67%
+
+[2025-07-26 19:26:05.879] [info]  🎒 BACKEND REPORTED:  7,67%
+
+[2025-07-26 19:26:05.881] [info]  🚧 UPSCAYL_PROGRESS:  7,67%
+
+[2025-07-26 19:26:05.882] [info]  🚧 UPSCAYL_PROGRESS:  7,67%
+
+[2025-07-26 19:26:06.180] [info]  8,00%
+
+[2025-07-26 19:26:06.182] [info]  🎒 BACKEND REPORTED:  8,00%
+
+[2025-07-26 19:26:06.182] [info]  🎒 BACKEND REPORTED:  8,00%
+
+[2025-07-26 19:26:06.184] [info]  🚧 UPSCAYL_PROGRESS:  8,00%
+
+[2025-07-26 19:26:06.184] [info]  🚧 UPSCAYL_PROGRESS:  8,00%
+
+[2025-07-26 19:26:06.509] [info]  8,33%
+
+[2025-07-26 19:26:06.511] [info]  🎒 BACKEND REPORTED:  8,33%
+
+[2025-07-26 19:26:06.511] [info]  🎒 BACKEND REPORTED:  8,33%
+
+[2025-07-26 19:26:06.513] [info]  🚧 UPSCAYL_PROGRESS:  8,33%
+
+[2025-07-26 19:26:06.514] [info]  🚧 UPSCAYL_PROGRESS:  8,33%
+
+[2025-07-26 19:26:06.795] [info]  8,67%
+
+[2025-07-26 19:26:06.797] [info]  🎒 BACKEND REPORTED:  8,67%
+
+[2025-07-26 19:26:06.798] [info]  🎒 BACKEND REPORTED:  8,67%
+
+[2025-07-26 19:26:06.800] [info]  🚧 UPSCAYL_PROGRESS:  8,67%
+
+[2025-07-26 19:26:06.800] [info]  🚧 UPSCAYL_PROGRESS:  8,67%
+
+[2025-07-26 19:26:07.073] [info]  9,00%
+
+[2025-07-26 19:26:07.075] [info]  🎒 BACKEND REPORTED:  9,00%
+
+[2025-07-26 19:26:07.075] [info]  🎒 BACKEND REPORTED:  9,00%
+
+[2025-07-26 19:26:07.077] [info]  🚧 UPSCAYL_PROGRESS:  9,00%
+
+[2025-07-26 19:26:07.077] [info]  🚧 UPSCAYL_PROGRESS:  9,00%
+
+[2025-07-26 19:26:07.385] [info]  9,33%
+
+[2025-07-26 19:26:07.386] [info]  🎒 BACKEND REPORTED:  9,33%
+
+[2025-07-26 19:26:07.387] [info]  🎒 BACKEND REPORTED:  9,33%
+
+[2025-07-26 19:26:07.389] [info]  🚧 UPSCAYL_PROGRESS:  9,33%
+
+[2025-07-26 19:26:07.389] [info]  🚧 UPSCAYL_PROGRESS:  9,33%
+
+[2025-07-26 19:26:07.675] [info]  9,67%
+
+[2025-07-26 19:26:07.677] [info]  🎒 BACKEND REPORTED:  9,67%
+
+[2025-07-26 19:26:07.677] [info]  🎒 BACKEND REPORTED:  9,67%
+
+[2025-07-26 19:26:07.679] [info]  🚧 UPSCAYL_PROGRESS:  9,67%
+
+[2025-07-26 19:26:07.680] [info]  🚧 UPSCAYL_PROGRESS:  9,67%
+
+[2025-07-26 19:26:07.954] [info]  10,00%
+
+[2025-07-26 19:26:07.956] [info]  🎒 BACKEND REPORTED:  10,00%
+
+[2025-07-26 19:26:07.956] [info]  🎒 BACKEND REPORTED:  10,00%
+
+[2025-07-26 19:26:07.958] [info]  🚧 UPSCAYL_PROGRESS:  10,00%
+
+[2025-07-26 19:26:07.959] [info]  🚧 UPSCAYL_PROGRESS:  10,00%
+
+[2025-07-26 19:26:08.240] [info]  10,33%
+
+[2025-07-26 19:26:08.242] [info]  🎒 BACKEND REPORTED:  10,33%
+
+[2025-07-26 19:26:08.242] [info]  🎒 BACKEND REPORTED:  10,33%
+
+[2025-07-26 19:26:08.244] [info]  🚧 UPSCAYL_PROGRESS:  10,33%
+
+[2025-07-26 19:26:08.245] [info]  🚧 UPSCAYL_PROGRESS:  10,33%
+
+[2025-07-26 19:26:08.529] [info]  10,67%
+
+[2025-07-26 19:26:08.531] [info]  🎒 BACKEND REPORTED:  10,67%
+
+[2025-07-26 19:26:08.532] [info]  🎒 BACKEND REPORTED:  10,67%
+
+[2025-07-26 19:26:08.534] [info]  🚧 UPSCAYL_PROGRESS:  10,67%
+
+[2025-07-26 19:26:08.534] [info]  🚧 UPSCAYL_PROGRESS:  10,67%
+
+[2025-07-26 19:26:08.825] [info]  11,00%
+
+[2025-07-26 19:26:08.827] [info]  🎒 BACKEND REPORTED:  11,00%
+
+[2025-07-26 19:26:08.827] [info]  🎒 BACKEND REPORTED:  11,00%
+
+[2025-07-26 19:26:08.830] [info]  🚧 UPSCAYL_PROGRESS:  11,00%
+
+[2025-07-26 19:26:08.830] [info]  🚧 UPSCAYL_PROGRESS:  11,00%
+
+[2025-07-26 19:26:09.197] [info]  11,33%
+
+[2025-07-26 19:26:09.198] [info]  🎒 BACKEND REPORTED:  11,33%
+
+[2025-07-26 19:26:09.199] [info]  🎒 BACKEND REPORTED:  11,33%
+
+[2025-07-26 19:26:09.200] [info]  🚧 UPSCAYL_PROGRESS:  11,33%
+
+[2025-07-26 19:26:09.201] [info]  🚧 UPSCAYL_PROGRESS:  11,33%
+
+[2025-07-26 19:26:09.524] [info]  11,67%
+
+[2025-07-26 19:26:09.526] [info]  🎒 BACKEND REPORTED:  11,67%
+
+[2025-07-26 19:26:09.527] [info]  🎒 BACKEND REPORTED:  11,67%
+
+[2025-07-26 19:26:09.529] [info]  🚧 UPSCAYL_PROGRESS:  11,67%
+
+[2025-07-26 19:26:09.529] [info]  🚧 UPSCAYL_PROGRESS:  11,67%
+
+[2025-07-26 19:26:09.823] [info]  12,00%
+
+[2025-07-26 19:26:09.825] [info]  🎒 BACKEND REPORTED:  12,00%
+
+[2025-07-26 19:26:09.825] [info]  🎒 BACKEND REPORTED:  12,00%
+
+[2025-07-26 19:26:09.827] [info]  🚧 UPSCAYL_PROGRESS:  12,00%
+
+[2025-07-26 19:26:09.827] [info]  🚧 UPSCAYL_PROGRESS:  12,00%
+
+[2025-07-26 19:26:10.114] [info]  12,33%
+
+[2025-07-26 19:26:10.117] [info]  🎒 BACKEND REPORTED:  12,33%
+
+[2025-07-26 19:26:10.117] [info]  🎒 BACKEND REPORTED:  12,33%
+
+[2025-07-26 19:26:10.119] [info]  🚧 UPSCAYL_PROGRESS:  12,33%
+
+[2025-07-26 19:26:10.119] [info]  🚧 UPSCAYL_PROGRESS:  12,33%
+
+[2025-07-26 19:26:10.435] [info]  12,67%
+
+[2025-07-26 19:26:10.437] [info]  🎒 BACKEND REPORTED:  12,67%
+
+[2025-07-26 19:26:10.445] [info]  🎒 BACKEND REPORTED:  12,67%
+
+[2025-07-26 19:26:10.445] [info]  🚧 UPSCAYL_PROGRESS:  12,67%
+
+[2025-07-26 19:26:10.445] [info]  🚧 UPSCAYL_PROGRESS:  12,67%
+
+[2025-07-26 19:26:10.733] [info]  13,00%
+
+[2025-07-26 19:26:10.735] [info]  🎒 BACKEND REPORTED:  13,00%
+
+[2025-07-26 19:26:10.735] [info]  🎒 BACKEND REPORTED:  13,00%
+
+[2025-07-26 19:26:10.737] [info]  🚧 UPSCAYL_PROGRESS:  13,00%
+
+[2025-07-26 19:26:10.737] [info]  🚧 UPSCAYL_PROGRESS:  13,00%
+
+[2025-07-26 19:26:11.021] [info]  13,33%
+
+[2025-07-26 19:26:11.022] [info]  🎒 BACKEND REPORTED:  13,33%
+
+[2025-07-26 19:26:11.023] [info]  🎒 BACKEND REPORTED:  13,33%
+
+[2025-07-26 19:26:11.025] [info]  🚧 UPSCAYL_PROGRESS:  13,33%
+
+[2025-07-26 19:26:11.025] [info]  🚧 UPSCAYL_PROGRESS:  13,33%
+
+[2025-07-26 19:26:11.291] [info]  13,67%
+
+[2025-07-26 19:26:11.293] [info]  🎒 BACKEND REPORTED:  13,67%
+
+[2025-07-26 19:26:11.293] [info]  🎒 BACKEND REPORTED:  13,67%
+
+[2025-07-26 19:26:11.295] [info]  🚧 UPSCAYL_PROGRESS:  13,67%
+
+[2025-07-26 19:26:11.295] [info]  🚧 UPSCAYL_PROGRESS:  13,67%
+
+[2025-07-26 19:26:11.570] [info]  14,00%
+
+[2025-07-26 19:26:11.573] [info]  🎒 BACKEND REPORTED:  14,00%
+
+[2025-07-26 19:26:11.573] [info]  🎒 BACKEND REPORTED:  14,00%
+
+[2025-07-26 19:26:11.575] [info]  🚧 UPSCAYL_PROGRESS:  14,00%
+
+[2025-07-26 19:26:11.575] [info]  🚧 UPSCAYL_PROGRESS:  14,00%
+
+[2025-07-26 19:26:11.867] [info]  14,33%
+
+[2025-07-26 19:26:11.868] [info]  🎒 BACKEND REPORTED:  14,33%
+
+[2025-07-26 19:26:11.869] [info]  🎒 BACKEND REPORTED:  14,33%
+
+[2025-07-26 19:26:11.871] [info]  🚧 UPSCAYL_PROGRESS:  14,33%
+
+[2025-07-26 19:26:11.871] [info]  🚧 UPSCAYL_PROGRESS:  14,33%
+
+[2025-07-26 19:26:12.158] [info]  14,67%
+
+[2025-07-26 19:26:12.160] [info]  🎒 BACKEND REPORTED:  14,67%
+
+[2025-07-26 19:26:12.160] [info]  🎒 BACKEND REPORTED:  14,67%
+
+[2025-07-26 19:26:12.162] [info]  🚧 UPSCAYL_PROGRESS:  14,67%
+
+[2025-07-26 19:26:12.163] [info]  🚧 UPSCAYL_PROGRESS:  14,67%
+
+[2025-07-26 19:26:12.452] [info]  15,00%
+
+[2025-07-26 19:26:12.454] [info]  🎒 BACKEND REPORTED:  15,00%
+
+[2025-07-26 19:26:12.454] [info]  🎒 BACKEND REPORTED:  15,00%
+
+[2025-07-26 19:26:12.456] [info]  🚧 UPSCAYL_PROGRESS:  15,00%
+
+[2025-07-26 19:26:12.456] [info]  🚧 UPSCAYL_PROGRESS:  15,00%
+
+[2025-07-26 19:26:12.763] [info]  15,33%
+
+[2025-07-26 19:26:12.765] [info]  🎒 BACKEND REPORTED:  15,33%
+
+[2025-07-26 19:26:12.765] [info]  🎒 BACKEND REPORTED:  15,33%
+
+[2025-07-26 19:26:12.767] [info]  🚧 UPSCAYL_PROGRESS:  15,33%
+
+[2025-07-26 19:26:12.768] [info]  🚧 UPSCAYL_PROGRESS:  15,33%
+
+[2025-07-26 19:26:13.060] [info]  15,67%
+
+[2025-07-26 19:26:13.062] [info]  🎒 BACKEND REPORTED:  15,67%
+
+[2025-07-26 19:26:13.062] [info]  🎒 BACKEND REPORTED:  15,67%
+
+[2025-07-26 19:26:13.064] [info]  🚧 UPSCAYL_PROGRESS:  15,67%
+
+[2025-07-26 19:26:13.064] [info]  🚧 UPSCAYL_PROGRESS:  15,67%
+
+[2025-07-26 19:26:13.369] [info]  16,00%
+
+[2025-07-26 19:26:13.371] [info]  🎒 BACKEND REPORTED:  16,00%
+
+[2025-07-26 19:26:13.372] [info]  🎒 BACKEND REPORTED:  16,00%
+
+[2025-07-26 19:26:13.374] [info]  🚧 UPSCAYL_PROGRESS:  16,00%
+
+[2025-07-26 19:26:13.375] [info]  🚧 UPSCAYL_PROGRESS:  16,00%
+
+[2025-07-26 19:26:13.694] [info]  16,33%
+
+[2025-07-26 19:26:13.696] [info]  🎒 BACKEND REPORTED:  16,33%
+
+[2025-07-26 19:26:13.696] [info]  🎒 BACKEND REPORTED:  16,33%
+
+[2025-07-26 19:26:13.699] [info]  🚧 UPSCAYL_PROGRESS:  16,33%
+
+[2025-07-26 19:26:13.699] [info]  🚧 UPSCAYL_PROGRESS:  16,33%
+
+[2025-07-26 19:26:13.989] [info]  16,67%
+
+[2025-07-26 19:26:13.991] [info]  🎒 BACKEND REPORTED:  16,67%
+
+[2025-07-26 19:26:13.991] [info]  🎒 BACKEND REPORTED:  16,67%
+
+[2025-07-26 19:26:13.993] [info]  🚧 UPSCAYL_PROGRESS:  16,67%
+
+[2025-07-26 19:26:13.993] [info]  🚧 UPSCAYL_PROGRESS:  16,67%
+
+[2025-07-26 19:26:14.287] [info]  17,00%
+
+[2025-07-26 19:26:14.289] [info]  🎒 BACKEND REPORTED:  17,00%
+
+[2025-07-26 19:26:14.289] [info]  🎒 BACKEND REPORTED:  17,00%
+
+[2025-07-26 19:26:14.291] [info]  🚧 UPSCAYL_PROGRESS:  17,00%
+
+[2025-07-26 19:26:14.291] [info]  🚧 UPSCAYL_PROGRESS:  17,00%
+
+[2025-07-26 19:26:14.654] [info]  17,33%
+
+[2025-07-26 19:26:14.656] [info]  🎒 BACKEND REPORTED:  17,33%
+
+[2025-07-26 19:26:14.657] [info]  🎒 BACKEND REPORTED:  17,33%
+
+[2025-07-26 19:26:14.660] [info]  🚧 UPSCAYL_PROGRESS:  17,33%
+
+[2025-07-26 19:26:14.660] [info]  🚧 UPSCAYL_PROGRESS:  17,33%
+
+[2025-07-26 19:26:14.949] [info]  17,67%
+
+[2025-07-26 19:26:14.950] [info]  🎒 BACKEND REPORTED:  17,67%
+
+[2025-07-26 19:26:14.951] [info]  🎒 BACKEND REPORTED:  17,67%
+
+[2025-07-26 19:26:14.953] [info]  🚧 UPSCAYL_PROGRESS:  17,67%
+
+[2025-07-26 19:26:14.953] [info]  🚧 UPSCAYL_PROGRESS:  17,67%
+
+[2025-07-26 19:26:15.236] [info]  18,00%
+
+[2025-07-26 19:26:15.237] [info]  🎒 BACKEND REPORTED:  18,00%
+
+[2025-07-26 19:26:15.238] [info]  🎒 BACKEND REPORTED:  18,00%
+
+[2025-07-26 19:26:15.240] [info]  🚧 UPSCAYL_PROGRESS:  18,00%
+
+[2025-07-26 19:26:15.240] [info]  🚧 UPSCAYL_PROGRESS:  18,00%
+
+[2025-07-26 19:26:15.555] [info]  18,33%
+
+[2025-07-26 19:26:15.557] [info]  🎒 BACKEND REPORTED:  18,33%
+
+[2025-07-26 19:26:15.558] [info]  🎒 BACKEND REPORTED:  18,33%
+
+[2025-07-26 19:26:15.559] [info]  🚧 UPSCAYL_PROGRESS:  18,33%
+
+[2025-07-26 19:26:15.560] [info]  🚧 UPSCAYL_PROGRESS:  18,33%
+
+[2025-07-26 19:26:15.858] [info]  18,67%
+
+[2025-07-26 19:26:15.859] [info]  🎒 BACKEND REPORTED:  18,67%
+
+[2025-07-26 19:26:15.860] [info]  🎒 BACKEND REPORTED:  18,67%
+
+[2025-07-26 19:26:15.862] [info]  🚧 UPSCAYL_PROGRESS:  18,67%
+
+[2025-07-26 19:26:15.863] [info]  🚧 UPSCAYL_PROGRESS:  18,67%
+
+[2025-07-26 19:26:16.158] [info]  19,00%
+
+[2025-07-26 19:26:16.160] [info]  🎒 BACKEND REPORTED:  19,00%
+
+[2025-07-26 19:26:16.161] [info]  🎒 BACKEND REPORTED:  19,00%
+
+[2025-07-26 19:26:16.164] [info]  🚧 UPSCAYL_PROGRESS:  19,00%
+
+[2025-07-26 19:26:16.165] [info]  🚧 UPSCAYL_PROGRESS:  19,00%
+
+[2025-07-26 19:26:16.474] [info]  19,33%
+
+[2025-07-26 19:26:16.476] [info]  🎒 BACKEND REPORTED:  19,33%
+
+[2025-07-26 19:26:16.477] [info]  🎒 BACKEND REPORTED:  19,33%
+
+[2025-07-26 19:26:16.479] [info]  🚧 UPSCAYL_PROGRESS:  19,33%
+
+[2025-07-26 19:26:16.479] [info]  🚧 UPSCAYL_PROGRESS:  19,33%
+
+[2025-07-26 19:26:16.762] [info]  19,67%
+
+[2025-07-26 19:26:16.764] [info]  🎒 BACKEND REPORTED:  19,67%
+
+[2025-07-26 19:26:16.765] [info]  🎒 BACKEND REPORTED:  19,67%
+
+[2025-07-26 19:26:16.766] [info]  🚧 UPSCAYL_PROGRESS:  19,67%
+
+[2025-07-26 19:26:16.767] [info]  🚧 UPSCAYL_PROGRESS:  19,67%
+
+[2025-07-26 19:26:17.111] [info]  20,00%
+
+[2025-07-26 19:26:17.113] [info]  🎒 BACKEND REPORTED:  20,00%
+
+[2025-07-26 19:26:17.113] [info]  🎒 BACKEND REPORTED:  20,00%
+
+[2025-07-26 19:26:17.115] [info]  🚧 UPSCAYL_PROGRESS:  20,00%
+
+[2025-07-26 19:26:17.115] [info]  🚧 UPSCAYL_PROGRESS:  20,00%
+
+[2025-07-26 19:26:17.437] [info]  20,33%
+
+[2025-07-26 19:26:17.439] [info]  🎒 BACKEND REPORTED:  20,33%
+
+[2025-07-26 19:26:17.439] [info]  🎒 BACKEND REPORTED:  20,33%
+
+[2025-07-26 19:26:17.441] [info]  🚧 UPSCAYL_PROGRESS:  20,33%
+
+[2025-07-26 19:26:17.442] [info]  🚧 UPSCAYL_PROGRESS:  20,33%
+
+[2025-07-26 19:26:17.749] [info]  20,67%
+
+[2025-07-26 19:26:17.751] [info]  🎒 BACKEND REPORTED:  20,67%
+
+[2025-07-26 19:26:17.751] [info]  🎒 BACKEND REPORTED:  20,67%
+
+[2025-07-26 19:26:17.753] [info]  🚧 UPSCAYL_PROGRESS:  20,67%
+
+[2025-07-26 19:26:17.753] [info]  🚧 UPSCAYL_PROGRESS:  20,67%
+
+[2025-07-26 19:26:18.062] [info]  21,00%
+
+[2025-07-26 19:26:18.064] [info]  🎒 BACKEND REPORTED:  21,00%
+
+[2025-07-26 19:26:18.065] [info]  🎒 BACKEND REPORTED:  21,00%
+
+[2025-07-26 19:26:18.067] [info]  🚧 UPSCAYL_PROGRESS:  21,00%
+
+[2025-07-26 19:26:18.067] [info]  🚧 UPSCAYL_PROGRESS:  21,00%
+
+[2025-07-26 19:26:18.460] [info]  21,33%
+
+[2025-07-26 19:26:18.462] [info]  🎒 BACKEND REPORTED:  21,33%
+
+[2025-07-26 19:26:18.463] [info]  🎒 BACKEND REPORTED:  21,33%
+
+[2025-07-26 19:26:18.465] [info]  🚧 UPSCAYL_PROGRESS:  21,33%
+
+[2025-07-26 19:26:18.466] [info]  🚧 UPSCAYL_PROGRESS:  21,33%
+
+[2025-07-26 19:26:18.863] [info]  21,67%
+
+[2025-07-26 19:26:18.865] [info]  🎒 BACKEND REPORTED:  21,67%
+
+[2025-07-26 19:26:18.865] [info]  🎒 BACKEND REPORTED:  21,67%
+
+[2025-07-26 19:26:18.867] [info]  🚧 UPSCAYL_PROGRESS:  21,67%
+
+[2025-07-26 19:26:18.868] [info]  🚧 UPSCAYL_PROGRESS:  21,67%
+
+[2025-07-26 19:26:19.276] [info]  22,00%
+
+[2025-07-26 19:26:19.278] [info]  🎒 BACKEND REPORTED:  22,00%
+
+[2025-07-26 19:26:19.279] [info]  🎒 BACKEND REPORTED:  22,00%
+
+[2025-07-26 19:26:19.280] [info]  🚧 UPSCAYL_PROGRESS:  22,00%
+
+[2025-07-26 19:26:19.281] [info]  🚧 UPSCAYL_PROGRESS:  22,00%
+
+[2025-07-26 19:26:19.683] [info]  22,33%
+
+[2025-07-26 19:26:19.684] [info]  🎒 BACKEND REPORTED:  22,33%
+
+[2025-07-26 19:26:19.685] [info]  🎒 BACKEND REPORTED:  22,33%
+
+[2025-07-26 19:26:19.687] [info]  🚧 UPSCAYL_PROGRESS:  22,33%
+
+[2025-07-26 19:26:19.688] [info]  🚧 UPSCAYL_PROGRESS:  22,33%
+
+[2025-07-26 19:26:20.096] [info]  22,67%
+
+[2025-07-26 19:26:20.098] [info]  🎒 BACKEND REPORTED:  22,67%
+
+[2025-07-26 19:26:20.098] [info]  🎒 BACKEND REPORTED:  22,67%
+
+[2025-07-26 19:26:20.101] [info]  🚧 UPSCAYL_PROGRESS:  22,67%
+
+[2025-07-26 19:26:20.102] [info]  🚧 UPSCAYL_PROGRESS:  22,67%
+
+[2025-07-26 19:26:20.473] [info]  23,00%
+
+[2025-07-26 19:26:20.475] [info]  🎒 BACKEND REPORTED:  23,00%
+
+[2025-07-26 19:26:20.476] [info]  🎒 BACKEND REPORTED:  23,00%
+
+[2025-07-26 19:26:20.477] [info]  🚧 UPSCAYL_PROGRESS:  23,00%
+
+[2025-07-26 19:26:20.478] [info]  🚧 UPSCAYL_PROGRESS:  23,00%
+
+[2025-07-26 19:26:20.793] [info]  23,33%
+
+[2025-07-26 19:26:20.795] [info]  🎒 BACKEND REPORTED:  23,33%
+
+[2025-07-26 19:26:20.795] [info]  🎒 BACKEND REPORTED:  23,33%
+
+[2025-07-26 19:26:20.797] [info]  🚧 UPSCAYL_PROGRESS:  23,33%
+
+[2025-07-26 19:26:20.797] [info]  🚧 UPSCAYL_PROGRESS:  23,33%
+
+[2025-07-26 19:26:21.125] [info]  23,67%
+
+[2025-07-26 19:26:21.126] [info]  🎒 BACKEND REPORTED:  23,67%
+
+[2025-07-26 19:26:21.127] [info]  🎒 BACKEND REPORTED:  23,67%
+
+[2025-07-26 19:26:21.129] [info]  🚧 UPSCAYL_PROGRESS:  23,67%
+
+[2025-07-26 19:26:21.129] [info]  🚧 UPSCAYL_PROGRESS:  23,67%
+
+[2025-07-26 19:26:21.516] [info]  24,00%
+
+[2025-07-26 19:26:21.518] [info]  🎒 BACKEND REPORTED:  24,00%
+
+[2025-07-26 19:26:21.518] [info]  🎒 BACKEND REPORTED:  24,00%
+
+[2025-07-26 19:26:21.520] [info]  🚧 UPSCAYL_PROGRESS:  24,00%
+
+[2025-07-26 19:26:21.520] [info]  🚧 UPSCAYL_PROGRESS:  24,00%
+
+[2025-07-26 19:26:21.854] [info]  24,33%
+
+[2025-07-26 19:26:21.856] [info]  🎒 BACKEND REPORTED:  24,33%
+
+[2025-07-26 19:26:21.857] [info]  🎒 BACKEND REPORTED:  24,33%
+
+[2025-07-26 19:26:21.859] [info]  🚧 UPSCAYL_PROGRESS:  24,33%
+
+[2025-07-26 19:26:21.859] [info]  🚧 UPSCAYL_PROGRESS:  24,33%
+
+[2025-07-26 19:26:22.157] [info]  24,67%
+
+[2025-07-26 19:26:22.158] [info]  🎒 BACKEND REPORTED:  24,67%
+
+[2025-07-26 19:26:22.159] [info]  🎒 BACKEND REPORTED:  24,67%
+
+[2025-07-26 19:26:22.161] [info]  🚧 UPSCAYL_PROGRESS:  24,67%
+
+[2025-07-26 19:26:22.161] [info]  🚧 UPSCAYL_PROGRESS:  24,67%
+
+[2025-07-26 19:26:22.446] [info]  25,00%
+
+[2025-07-26 19:26:22.448] [info]  🎒 BACKEND REPORTED:  25,00%
+
+[2025-07-26 19:26:22.449] [info]  🎒 BACKEND REPORTED:  25,00%
+
+[2025-07-26 19:26:22.450] [info]  🚧 UPSCAYL_PROGRESS:  25,00%
+
+[2025-07-26 19:26:22.451] [info]  🚧 UPSCAYL_PROGRESS:  25,00%
+
+[2025-07-26 19:26:22.722] [info]  25,33%
+
+[2025-07-26 19:26:22.725] [info]  🎒 BACKEND REPORTED:  25,33%
+
+[2025-07-26 19:26:22.725] [info]  🎒 BACKEND REPORTED:  25,33%
+
+[2025-07-26 19:26:22.727] [info]  🚧 UPSCAYL_PROGRESS:  25,33%
+
+[2025-07-26 19:26:22.727] [info]  🚧 UPSCAYL_PROGRESS:  25,33%
+
+[2025-07-26 19:26:23.105] [info]  25,67%
+
+[2025-07-26 19:26:23.107] [info]  🎒 BACKEND REPORTED:  25,67%
+
+[2025-07-26 19:26:23.107] [info]  🎒 BACKEND REPORTED:  25,67%
+
+[2025-07-26 19:26:23.109] [info]  🚧 UPSCAYL_PROGRESS:  25,67%
+
+[2025-07-26 19:26:23.109] [info]  🚧 UPSCAYL_PROGRESS:  25,67%
+
+[2025-07-26 19:26:23.480] [info]  26,00%
+
+[2025-07-26 19:26:23.482] [info]  🎒 BACKEND REPORTED:  26,00%
+
+[2025-07-26 19:26:23.482] [info]  🎒 BACKEND REPORTED:  26,00%
+
+[2025-07-26 19:26:23.484] [info]  🚧 UPSCAYL_PROGRESS:  26,00%
+
+[2025-07-26 19:26:23.484] [info]  🚧 UPSCAYL_PROGRESS:  26,00%
+
+[2025-07-26 19:26:23.785] [info]  26,33%
+
+[2025-07-26 19:26:23.787] [info]  🎒 BACKEND REPORTED:  26,33%
+
+[2025-07-26 19:26:23.787] [info]  🎒 BACKEND REPORTED:  26,33%
+
+[2025-07-26 19:26:23.789] [info]  🚧 UPSCAYL_PROGRESS:  26,33%
+
+[2025-07-26 19:26:23.789] [info]  🚧 UPSCAYL_PROGRESS:  26,33%
+
+[2025-07-26 19:26:24.090] [info]  26,67%
+
+[2025-07-26 19:26:24.092] [info]  🎒 BACKEND REPORTED:  26,67%
+
+[2025-07-26 19:26:24.092] [info]  🎒 BACKEND REPORTED:  26,67%
+
+[2025-07-26 19:26:24.094] [info]  🚧 UPSCAYL_PROGRESS:  26,67%
+
+[2025-07-26 19:26:24.094] [info]  🚧 UPSCAYL_PROGRESS:  26,67%
+
+[2025-07-26 19:26:24.365] [info]  27,00%
+
+[2025-07-26 19:26:24.367] [info]  🎒 BACKEND REPORTED:  27,00%
+
+[2025-07-26 19:26:24.368] [info]  🎒 BACKEND REPORTED:  27,00%
+
+[2025-07-26 19:26:24.370] [info]  🚧 UPSCAYL_PROGRESS:  27,00%
+
+[2025-07-26 19:26:24.371] [info]  🚧 UPSCAYL_PROGRESS:  27,00%
+
+[2025-07-26 19:26:24.642] [info]  27,33%
+
+[2025-07-26 19:26:24.645] [info]  🎒 BACKEND REPORTED:  27,33%
+
+[2025-07-26 19:26:24.646] [info]  🎒 BACKEND REPORTED:  27,33%
+
+[2025-07-26 19:26:24.648] [info]  🚧 UPSCAYL_PROGRESS:  27,33%
+
+[2025-07-26 19:26:24.648] [info]  🚧 UPSCAYL_PROGRESS:  27,33%
+
+[2025-07-26 19:26:24.934] [info]  27,67%
+
+[2025-07-26 19:26:24.936] [info]  🎒 BACKEND REPORTED:  27,67%
+
+[2025-07-26 19:26:24.937] [info]  🎒 BACKEND REPORTED:  27,67%
+
+[2025-07-26 19:26:24.940] [info]  🚧 UPSCAYL_PROGRESS:  27,67%
+
+[2025-07-26 19:26:24.940] [info]  🚧 UPSCAYL_PROGRESS:  27,67%
+
+[2025-07-26 19:26:25.234] [info]  28,00%
+
+[2025-07-26 19:26:25.236] [info]  🎒 BACKEND REPORTED:  28,00%
+
+[2025-07-26 19:26:25.236] [info]  🎒 BACKEND REPORTED:  28,00%
+
+[2025-07-26 19:26:25.238] [info]  🚧 UPSCAYL_PROGRESS:  28,00%
+
+[2025-07-26 19:26:25.238] [info]  🚧 UPSCAYL_PROGRESS:  28,00%
+
+[2025-07-26 19:26:25.524] [info]  28,33%
+
+[2025-07-26 19:26:25.526] [info]  🎒 BACKEND REPORTED:  28,33%
+
+[2025-07-26 19:26:25.535] [info]  🎒 BACKEND REPORTED:  28,33%
+
+[2025-07-26 19:26:25.535] [info]  🚧 UPSCAYL_PROGRESS:  28,33%
+
+[2025-07-26 19:26:25.535] [info]  🚧 UPSCAYL_PROGRESS:  28,33%
+
+[2025-07-26 19:26:25.876] [info]  28,67%
+
+[2025-07-26 19:26:25.878] [info]  🎒 BACKEND REPORTED:  28,67%
+
+[2025-07-26 19:26:25.878] [info]  🎒 BACKEND REPORTED:  28,67%
+
+[2025-07-26 19:26:25.880] [info]  🚧 UPSCAYL_PROGRESS:  28,67%
+
+[2025-07-26 19:26:25.881] [info]  🚧 UPSCAYL_PROGRESS:  28,67%
+
+[2025-07-26 19:26:26.241] [info]  29,00%
+
+[2025-07-26 19:26:26.243] [info]  🎒 BACKEND REPORTED:  29,00%
+
+[2025-07-26 19:26:26.243] [info]  🎒 BACKEND REPORTED:  29,00%
+
+[2025-07-26 19:26:26.245] [info]  🚧 UPSCAYL_PROGRESS:  29,00%
+
+[2025-07-26 19:26:26.246] [info]  🚧 UPSCAYL_PROGRESS:  29,00%
+
+[2025-07-26 19:26:26.594] [info]  29,33%
+
+[2025-07-26 19:26:26.597] [info]  🎒 BACKEND REPORTED:  29,33%
+
+[2025-07-26 19:26:26.598] [info]  🎒 BACKEND REPORTED:  29,33%
+
+[2025-07-26 19:26:26.600] [info]  🚧 UPSCAYL_PROGRESS:  29,33%
+
+[2025-07-26 19:26:26.600] [info]  🚧 UPSCAYL_PROGRESS:  29,33%
+
+[2025-07-26 19:26:27.008] [info]  29,67%
+
+[2025-07-26 19:26:27.010] [info]  🎒 BACKEND REPORTED:  29,67%
+
+[2025-07-26 19:26:27.010] [info]  🎒 BACKEND REPORTED:  29,67%
+
+[2025-07-26 19:26:27.012] [info]  🚧 UPSCAYL_PROGRESS:  29,67%
+
+[2025-07-26 19:26:27.013] [info]  🚧 UPSCAYL_PROGRESS:  29,67%
+
+[2025-07-26 19:26:27.423] [info]  30,00%
+
+[2025-07-26 19:26:27.424] [info]  🎒 BACKEND REPORTED:  30,00%
+
+[2025-07-26 19:26:27.424] [info]  🎒 BACKEND REPORTED:  30,00%
+
+[2025-07-26 19:26:27.426] [info]  🚧 UPSCAYL_PROGRESS:  30,00%
+
+[2025-07-26 19:26:27.427] [info]  🚧 UPSCAYL_PROGRESS:  30,00%
+
+[2025-07-26 19:26:27.779] [info]  30,33%
+
+[2025-07-26 19:26:27.781] [info]  🎒 BACKEND REPORTED:  30,33%
+
+[2025-07-26 19:26:27.782] [info]  🎒 BACKEND REPORTED:  30,33%
+
+[2025-07-26 19:26:27.783] [info]  🚧 UPSCAYL_PROGRESS:  30,33%
+
+[2025-07-26 19:26:27.784] [info]  🚧 UPSCAYL_PROGRESS:  30,33%
+
+[2025-07-26 19:26:28.078] [info]  30,67%
+
+[2025-07-26 19:26:28.079] [info]  🎒 BACKEND REPORTED:  30,67%
+
+[2025-07-26 19:26:28.080] [info]  🎒 BACKEND REPORTED:  30,67%
+
+[2025-07-26 19:26:28.081] [info]  🚧 UPSCAYL_PROGRESS:  30,67%
+
+[2025-07-26 19:26:28.082] [info]  🚧 UPSCAYL_PROGRESS:  30,67%
+
+[2025-07-26 19:26:28.491] [info]  31,00%
+
+[2025-07-26 19:26:28.493] [info]  🎒 BACKEND REPORTED:  31,00%
+
+[2025-07-26 19:26:28.493] [info]  🎒 BACKEND REPORTED:  31,00%
+
+[2025-07-26 19:26:28.495] [info]  🚧 UPSCAYL_PROGRESS:  31,00%
+
+[2025-07-26 19:26:28.495] [info]  🚧 UPSCAYL_PROGRESS:  31,00%
+
+[2025-07-26 19:26:28.902] [info]  31,33%
+
+[2025-07-26 19:26:28.904] [info]  🎒 BACKEND REPORTED:  31,33%
+
+[2025-07-26 19:26:28.905] [info]  🎒 BACKEND REPORTED:  31,33%
+
+[2025-07-26 19:26:28.908] [info]  🚧 UPSCAYL_PROGRESS:  31,33%
+
+[2025-07-26 19:26:28.908] [info]  🚧 UPSCAYL_PROGRESS:  31,33%
+
+[2025-07-26 19:26:29.240] [info]  31,67%
+
+[2025-07-26 19:26:29.242] [info]  🎒 BACKEND REPORTED:  31,67%
+
+[2025-07-26 19:26:29.242] [info]  🎒 BACKEND REPORTED:  31,67%
+
+[2025-07-26 19:26:29.244] [info]  🚧 UPSCAYL_PROGRESS:  31,67%
+
+[2025-07-26 19:26:29.244] [info]  🚧 UPSCAYL_PROGRESS:  31,67%
+
+[2025-07-26 19:26:29.531] [info]  32,00%
+
+[2025-07-26 19:26:29.533] [info]  🎒 BACKEND REPORTED:  32,00%
+
+[2025-07-26 19:26:29.533] [info]  🎒 BACKEND REPORTED:  32,00%
+
+[2025-07-26 19:26:29.535] [info]  🚧 UPSCAYL_PROGRESS:  32,00%
+
+[2025-07-26 19:26:29.535] [info]  🚧 UPSCAYL_PROGRESS:  32,00%
+
+[2025-07-26 19:26:29.816] [info]  32,33%
+
+[2025-07-26 19:26:29.818] [info]  🎒 BACKEND REPORTED:  32,33%
+
+[2025-07-26 19:26:29.819] [info]  🎒 BACKEND REPORTED:  32,33%
+
+[2025-07-26 19:26:29.821] [info]  🚧 UPSCAYL_PROGRESS:  32,33%
+
+[2025-07-26 19:26:29.822] [info]  🚧 UPSCAYL_PROGRESS:  32,33%
+
+[2025-07-26 19:26:30.111] [info]  32,67%
+
+[2025-07-26 19:26:30.112] [info]  🎒 BACKEND REPORTED:  32,67%
+
+[2025-07-26 19:26:30.113] [info]  🎒 BACKEND REPORTED:  32,67%
+
+[2025-07-26 19:26:30.114] [info]  🚧 UPSCAYL_PROGRESS:  32,67%
+
+[2025-07-26 19:26:30.115] [info]  🚧 UPSCAYL_PROGRESS:  32,67%
+
+[2025-07-26 19:26:30.394] [info]  33,00%
+
+[2025-07-26 19:26:30.396] [info]  🎒 BACKEND REPORTED:  33,00%
+
+[2025-07-26 19:26:30.396] [info]  🎒 BACKEND REPORTED:  33,00%
+
+[2025-07-26 19:26:30.398] [info]  🚧 UPSCAYL_PROGRESS:  33,00%
+
+[2025-07-26 19:26:30.398] [info]  🚧 UPSCAYL_PROGRESS:  33,00%
+
+[2025-07-26 19:26:30.687] [info]  33,33%
+
+[2025-07-26 19:26:30.688] [info]  🎒 BACKEND REPORTED:  33,33%
+
+[2025-07-26 19:26:30.688] [info]  🎒 BACKEND REPORTED:  33,33%
+
+[2025-07-26 19:26:30.689] [info]  🚧 UPSCAYL_PROGRESS:  33,33%
+
+[2025-07-26 19:26:30.690] [info]  🚧 UPSCAYL_PROGRESS:  33,33%
+
+[2025-07-26 19:26:31.025] [info]  33,67%
+
+[2025-07-26 19:26:31.027] [info]  🎒 BACKEND REPORTED:  33,67%
+
+[2025-07-26 19:26:31.027] [info]  🎒 BACKEND REPORTED:  33,67%
+
+[2025-07-26 19:26:31.028] [info]  🚧 UPSCAYL_PROGRESS:  33,67%
+
+[2025-07-26 19:26:31.028] [info]  🚧 UPSCAYL_PROGRESS:  33,67%
+
+[2025-07-26 19:26:31.395] [info]  34,00%
+
+[2025-07-26 19:26:31.396] [info]  🎒 BACKEND REPORTED:  34,00%
+
+[2025-07-26 19:26:31.397] [info]  🎒 BACKEND REPORTED:  34,00%
+
+[2025-07-26 19:26:31.398] [info]  🚧 UPSCAYL_PROGRESS:  34,00%
+
+[2025-07-26 19:26:31.398] [info]  🚧 UPSCAYL_PROGRESS:  34,00%
+
+[2025-07-26 19:26:31.746] [info]  34,33%
+
+[2025-07-26 19:26:31.748] [info]  🎒 BACKEND REPORTED:  34,33%
+
+[2025-07-26 19:26:31.748] [info]  🎒 BACKEND REPORTED:  34,33%
+
+[2025-07-26 19:26:31.749] [info]  🚧 UPSCAYL_PROGRESS:  34,33%
+
+[2025-07-26 19:26:31.749] [info]  🚧 UPSCAYL_PROGRESS:  34,33%
+
+[2025-07-26 19:26:32.132] [info]  34,67%
+
+[2025-07-26 19:26:32.133] [info]  🎒 BACKEND REPORTED:  34,67%
+
+[2025-07-26 19:26:32.133] [info]  🎒 BACKEND REPORTED:  34,67%
+
+[2025-07-26 19:26:32.135] [info]  🚧 UPSCAYL_PROGRESS:  34,67%
+
+[2025-07-26 19:26:32.135] [info]  🚧 UPSCAYL_PROGRESS:  34,67%
+
+[2025-07-26 19:26:32.442] [info]  35,00%
+
+[2025-07-26 19:26:32.443] [info]  🎒 BACKEND REPORTED:  35,00%
+
+[2025-07-26 19:26:32.444] [info]  🎒 BACKEND REPORTED:  35,00%
+
+[2025-07-26 19:26:32.444] [info]  🚧 UPSCAYL_PROGRESS:  35,00%
+
+[2025-07-26 19:26:32.445] [info]  🚧 UPSCAYL_PROGRESS:  35,00%
+
+[2025-07-26 19:26:32.726] [info]  35,33%
+
+[2025-07-26 19:26:32.728] [info]  🎒 BACKEND REPORTED:  35,33%
+
+[2025-07-26 19:26:32.728] [info]  🎒 BACKEND REPORTED:  35,33%
+
+[2025-07-26 19:26:32.729] [info]  🚧 UPSCAYL_PROGRESS:  35,33%
+
+[2025-07-26 19:26:32.729] [info]  🚧 UPSCAYL_PROGRESS:  35,33%
+
+[2025-07-26 19:26:33.017] [info]  35,67%
+
+[2025-07-26 19:26:33.019] [info]  🎒 BACKEND REPORTED:  35,67%
+
+[2025-07-26 19:26:33.019] [info]  🎒 BACKEND REPORTED:  35,67%
+
+[2025-07-26 19:26:33.020] [info]  🚧 UPSCAYL_PROGRESS:  35,67%
+
+[2025-07-26 19:26:33.021] [info]  🚧 UPSCAYL_PROGRESS:  35,67%
+
+[2025-07-26 19:26:33.319] [info]  36,00%
+
+[2025-07-26 19:26:33.321] [info]  🎒 BACKEND REPORTED:  36,00%
+
+[2025-07-26 19:26:33.322] [info]  🎒 BACKEND REPORTED:  36,00%
+
+[2025-07-26 19:26:33.323] [info]  🚧 UPSCAYL_PROGRESS:  36,00%
+
+[2025-07-26 19:26:33.324] [info]  🚧 UPSCAYL_PROGRESS:  36,00%
+
+[2025-07-26 19:26:33.610] [info]  36,33%
+
+[2025-07-26 19:26:33.612] [info]  🎒 BACKEND REPORTED:  36,33%
+
+[2025-07-26 19:26:33.612] [info]  🎒 BACKEND REPORTED:  36,33%
+
+[2025-07-26 19:26:33.614] [info]  🚧 UPSCAYL_PROGRESS:  36,33%
+
+[2025-07-26 19:26:33.614] [info]  🚧 UPSCAYL_PROGRESS:  36,33%
+
+[2025-07-26 19:26:33.885] [info]  36,67%
+
+[2025-07-26 19:26:33.886] [info]  🎒 BACKEND REPORTED:  36,67%
+
+[2025-07-26 19:26:33.887] [info]  🎒 BACKEND REPORTED:  36,67%
+
+[2025-07-26 19:26:33.889] [info]  🚧 UPSCAYL_PROGRESS:  36,67%
+
+[2025-07-26 19:26:33.889] [info]  🚧 UPSCAYL_PROGRESS:  36,67%
+
+[2025-07-26 19:26:34.169] [info]  37,00%
+
+[2025-07-26 19:26:34.172] [info]  🎒 BACKEND REPORTED:  37,00%
+
+[2025-07-26 19:26:34.172] [info]  🎒 BACKEND REPORTED:  37,00%
+
+[2025-07-26 19:26:34.175] [info]  🚧 UPSCAYL_PROGRESS:  37,00%
+
+[2025-07-26 19:26:34.176] [info]  🚧 UPSCAYL_PROGRESS:  37,00%
+
+[2025-07-26 19:26:34.460] [info]  37,33%
+
+[2025-07-26 19:26:34.462] [info]  🎒 BACKEND REPORTED:  37,33%
+
+[2025-07-26 19:26:34.462] [info]  🎒 BACKEND REPORTED:  37,33%
+
+[2025-07-26 19:26:34.464] [info]  🚧 UPSCAYL_PROGRESS:  37,33%
+
+[2025-07-26 19:26:34.464] [info]  🚧 UPSCAYL_PROGRESS:  37,33%
+
+[2025-07-26 19:26:34.749] [info]  37,67%
+
+[2025-07-26 19:26:34.750] [info]  🎒 BACKEND REPORTED:  37,67%
+
+[2025-07-26 19:26:34.751] [info]  🎒 BACKEND REPORTED:  37,67%
+
+[2025-07-26 19:26:34.753] [info]  🚧 UPSCAYL_PROGRESS:  37,67%
+
+[2025-07-26 19:26:34.753] [info]  🚧 UPSCAYL_PROGRESS:  37,67%
+
+[2025-07-26 19:26:35.025] [info]  38,00%
+
+[2025-07-26 19:26:35.027] [info]  🎒 BACKEND REPORTED:  38,00%
+
+[2025-07-26 19:26:35.028] [info]  🎒 BACKEND REPORTED:  38,00%
+
+[2025-07-26 19:26:35.029] [info]  🚧 UPSCAYL_PROGRESS:  38,00%
+
+[2025-07-26 19:26:35.029] [info]  🚧 UPSCAYL_PROGRESS:  38,00%
+
+[2025-07-26 19:26:35.325] [info]  38,33%
+
+[2025-07-26 19:26:35.327] [info]  🎒 BACKEND REPORTED:  38,33%
+
+[2025-07-26 19:26:35.327] [info]  🎒 BACKEND REPORTED:  38,33%
+
+[2025-07-26 19:26:35.330] [info]  🚧 UPSCAYL_PROGRESS:  38,33%
+
+[2025-07-26 19:26:35.331] [info]  🚧 UPSCAYL_PROGRESS:  38,33%
+
+[2025-07-26 19:26:35.619] [info]  38,67%
+
+[2025-07-26 19:26:35.620] [info]  🎒 BACKEND REPORTED:  38,67%
+
+[2025-07-26 19:26:35.621] [info]  🎒 BACKEND REPORTED:  38,67%
+
+[2025-07-26 19:26:35.623] [info]  🚧 UPSCAYL_PROGRESS:  38,67%
+
+[2025-07-26 19:26:35.623] [info]  🚧 UPSCAYL_PROGRESS:  38,67%
+
+[2025-07-26 19:26:35.906] [info]  39,00%
+
+[2025-07-26 19:26:35.907] [info]  🎒 BACKEND REPORTED:  39,00%
+
+[2025-07-26 19:26:35.908] [info]  🎒 BACKEND REPORTED:  39,00%
+
+[2025-07-26 19:26:35.910] [info]  🚧 UPSCAYL_PROGRESS:  39,00%
+
+[2025-07-26 19:26:35.910] [info]  🚧 UPSCAYL_PROGRESS:  39,00%
+
+[2025-07-26 19:26:36.199] [info]  39,33%
+
+[2025-07-26 19:26:36.201] [info]  🎒 BACKEND REPORTED:  39,33%
+
+[2025-07-26 19:26:36.201] [info]  🎒 BACKEND REPORTED:  39,33%
+
+[2025-07-26 19:26:36.203] [info]  🚧 UPSCAYL_PROGRESS:  39,33%
+
+[2025-07-26 19:26:36.203] [info]  🚧 UPSCAYL_PROGRESS:  39,33%
+
+[2025-07-26 19:26:36.483] [info]  39,67%
+
+[2025-07-26 19:26:36.485] [info]  🎒 BACKEND REPORTED:  39,67%
+
+[2025-07-26 19:26:36.486] [info]  🎒 BACKEND REPORTED:  39,67%
+
+[2025-07-26 19:26:36.487] [info]  🚧 UPSCAYL_PROGRESS:  39,67%
+
+[2025-07-26 19:26:36.488] [info]  🚧 UPSCAYL_PROGRESS:  39,67%
+
+[2025-07-26 19:26:36.784] [info]  40,00%
+
+[2025-07-26 19:26:36.786] [info]  🎒 BACKEND REPORTED:  40,00%
+
+[2025-07-26 19:26:36.787] [info]  🎒 BACKEND REPORTED:  40,00%
+
+[2025-07-26 19:26:36.789] [info]  🚧 UPSCAYL_PROGRESS:  40,00%
+
+[2025-07-26 19:26:36.789] [info]  🚧 UPSCAYL_PROGRESS:  40,00%
+
+[2025-07-26 19:26:37.077] [info]  40,33%
+
+[2025-07-26 19:26:37.078] [info]  🎒 BACKEND REPORTED:  40,33%
+
+[2025-07-26 19:26:37.079] [info]  🎒 BACKEND REPORTED:  40,33%
+
+[2025-07-26 19:26:37.082] [info]  🚧 UPSCAYL_PROGRESS:  40,33%
+
+[2025-07-26 19:26:37.082] [info]  🚧 UPSCAYL_PROGRESS:  40,33%
+
+[2025-07-26 19:26:37.375] [info]  40,67%
+
+[2025-07-26 19:26:37.376] [info]  🎒 BACKEND REPORTED:  40,67%
+
+[2025-07-26 19:26:37.377] [info]  🎒 BACKEND REPORTED:  40,67%
+
+[2025-07-26 19:26:37.378] [info]  🚧 UPSCAYL_PROGRESS:  40,67%
+
+[2025-07-26 19:26:37.379] [info]  🚧 UPSCAYL_PROGRESS:  40,67%
+
+[2025-07-26 19:26:37.666] [info]  41,00%
+
+[2025-07-26 19:26:37.668] [info]  🎒 BACKEND REPORTED:  41,00%
+
+[2025-07-26 19:26:37.668] [info]  🎒 BACKEND REPORTED:  41,00%
+
+[2025-07-26 19:26:37.669] [info]  🚧 UPSCAYL_PROGRESS:  41,00%
+
+[2025-07-26 19:26:37.670] [info]  🚧 UPSCAYL_PROGRESS:  41,00%
+
+[2025-07-26 19:26:37.964] [info]  41,33%
+
+[2025-07-26 19:26:37.966] [info]  🎒 BACKEND REPORTED:  41,33%
+
+[2025-07-26 19:26:37.967] [info]  🎒 BACKEND REPORTED:  41,33%
+
+[2025-07-26 19:26:37.969] [info]  🚧 UPSCAYL_PROGRESS:  41,33%
+
+[2025-07-26 19:26:37.970] [info]  🚧 UPSCAYL_PROGRESS:  41,33%
+
+[2025-07-26 19:26:38.287] [info]  41,67%
+
+[2025-07-26 19:26:38.288] [info]  🎒 BACKEND REPORTED:  41,67%
+
+[2025-07-26 19:26:38.289] [info]  🎒 BACKEND REPORTED:  41,67%
+
+[2025-07-26 19:26:38.291] [info]  🚧 UPSCAYL_PROGRESS:  41,67%
+
+[2025-07-26 19:26:38.291] [info]  🚧 UPSCAYL_PROGRESS:  41,67%
+
+[2025-07-26 19:26:38.585] [info]  42,00%
+
+[2025-07-26 19:26:38.586] [info]  🎒 BACKEND REPORTED:  42,00%
+
+[2025-07-26 19:26:38.587] [info]  🎒 BACKEND REPORTED:  42,00%
+
+[2025-07-26 19:26:38.589] [info]  🚧 UPSCAYL_PROGRESS:  42,00%
+
+[2025-07-26 19:26:38.589] [info]  🚧 UPSCAYL_PROGRESS:  42,00%
+
+[2025-07-26 19:26:38.886] [info]  42,33%
+
+[2025-07-26 19:26:38.887] [info]  🎒 BACKEND REPORTED:  42,33%
+
+[2025-07-26 19:26:38.888] [info]  🎒 BACKEND REPORTED:  42,33%
+
+[2025-07-26 19:26:38.890] [info]  🚧 UPSCAYL_PROGRESS:  42,33%
+
+[2025-07-26 19:26:38.891] [info]  🚧 UPSCAYL_PROGRESS:  42,33%
+
+[2025-07-26 19:26:39.204] [info]  42,67%
+
+[2025-07-26 19:26:39.206] [info]  🎒 BACKEND REPORTED:  42,67%
+
+[2025-07-26 19:26:39.206] [info]  🎒 BACKEND REPORTED:  42,67%
+
+[2025-07-26 19:26:39.208] [info]  🚧 UPSCAYL_PROGRESS:  42,67%
+
+[2025-07-26 19:26:39.209] [info]  🚧 UPSCAYL_PROGRESS:  42,67%
+
+[2025-07-26 19:26:39.504] [info]  43,00%
+
+[2025-07-26 19:26:39.506] [info]  🎒 BACKEND REPORTED:  43,00%
+
+[2025-07-26 19:26:39.506] [info]  🎒 BACKEND REPORTED:  43,00%
+
+[2025-07-26 19:26:39.508] [info]  🚧 UPSCAYL_PROGRESS:  43,00%
+
+[2025-07-26 19:26:39.508] [info]  🚧 UPSCAYL_PROGRESS:  43,00%
+
+[2025-07-26 19:26:39.781] [info]  43,33%
+
+[2025-07-26 19:26:39.782] [info]  🎒 BACKEND REPORTED:  43,33%
+
+[2025-07-26 19:26:39.782] [info]  🎒 BACKEND REPORTED:  43,33%
+
+[2025-07-26 19:26:39.783] [info]  🚧 UPSCAYL_PROGRESS:  43,33%
+
+[2025-07-26 19:26:39.783] [info]  🚧 UPSCAYL_PROGRESS:  43,33%
+
+[2025-07-26 19:26:40.088] [info]  43,67%
+
+[2025-07-26 19:26:40.090] [info]  🎒 BACKEND REPORTED:  43,67%
+
+[2025-07-26 19:26:40.090] [info]  🎒 BACKEND REPORTED:  43,67%
+
+[2025-07-26 19:26:40.092] [info]  🚧 UPSCAYL_PROGRESS:  43,67%
+
+[2025-07-26 19:26:40.092] [info]  🚧 UPSCAYL_PROGRESS:  43,67%
+
+[2025-07-26 19:26:40.379] [info]  44,00%
+
+[2025-07-26 19:26:40.380] [info]  🎒 BACKEND REPORTED:  44,00%
+
+[2025-07-26 19:26:40.381] [info]  🎒 BACKEND REPORTED:  44,00%
+
+[2025-07-26 19:26:40.383] [info]  🚧 UPSCAYL_PROGRESS:  44,00%
+
+[2025-07-26 19:26:40.384] [info]  🚧 UPSCAYL_PROGRESS:  44,00%
+
+[2025-07-26 19:26:40.681] [info]  44,33%
+
+[2025-07-26 19:26:40.682] [info]  🎒 BACKEND REPORTED:  44,33%
+
+[2025-07-26 19:26:40.683] [info]  🎒 BACKEND REPORTED:  44,33%
+
+[2025-07-26 19:26:40.684] [info]  🚧 UPSCAYL_PROGRESS:  44,33%
+
+[2025-07-26 19:26:40.685] [info]  🚧 UPSCAYL_PROGRESS:  44,33%
+
+[2025-07-26 19:26:40.958] [info]  44,67%
+
+[2025-07-26 19:26:40.959] [info]  🎒 BACKEND REPORTED:  44,67%
+
+[2025-07-26 19:26:40.960] [info]  🎒 BACKEND REPORTED:  44,67%
+
+[2025-07-26 19:26:40.961] [info]  🚧 UPSCAYL_PROGRESS:  44,67%
+
+[2025-07-26 19:26:40.961] [info]  🚧 UPSCAYL_PROGRESS:  44,67%
+
+[2025-07-26 19:26:41.265] [info]  45,00%
+
+[2025-07-26 19:26:41.267] [info]  🎒 BACKEND REPORTED:  45,00%
+
+[2025-07-26 19:26:41.267] [info]  🎒 BACKEND REPORTED:  45,00%
+
+[2025-07-26 19:26:41.269] [info]  🚧 UPSCAYL_PROGRESS:  45,00%
+
+[2025-07-26 19:26:41.269] [info]  🚧 UPSCAYL_PROGRESS:  45,00%
+
+[2025-07-26 19:26:41.551] [info]  45,33%
+
+[2025-07-26 19:26:41.552] [info]  🎒 BACKEND REPORTED:  45,33%
+
+[2025-07-26 19:26:41.552] [info]  🎒 BACKEND REPORTED:  45,33%
+
+[2025-07-26 19:26:41.553] [info]  🚧 UPSCAYL_PROGRESS:  45,33%
+
+[2025-07-26 19:26:41.554] [info]  🚧 UPSCAYL_PROGRESS:  45,33%
+
+[2025-07-26 19:26:41.846] [info]  45,67%
+
+[2025-07-26 19:26:41.847] [info]  🎒 BACKEND REPORTED:  45,67%
+
+[2025-07-26 19:26:41.847] [info]  🎒 BACKEND REPORTED:  45,67%
+
+[2025-07-26 19:26:41.848] [info]  🚧 UPSCAYL_PROGRESS:  45,67%
+
+[2025-07-26 19:26:41.849] [info]  🚧 UPSCAYL_PROGRESS:  45,67%
+
+[2025-07-26 19:26:42.141] [info]  46,00%
+
+[2025-07-26 19:26:42.142] [info]  🎒 BACKEND REPORTED:  46,00%
+
+[2025-07-26 19:26:42.142] [info]  🎒 BACKEND REPORTED:  46,00%
+
+[2025-07-26 19:26:42.143] [info]  🚧 UPSCAYL_PROGRESS:  46,00%
+
+[2025-07-26 19:26:42.143] [info]  🚧 UPSCAYL_PROGRESS:  46,00%
+
+[2025-07-26 19:26:42.429] [info]  46,33%
+
+[2025-07-26 19:26:42.430] [info]  🎒 BACKEND REPORTED:  46,33%
+
+[2025-07-26 19:26:42.430] [info]  🎒 BACKEND REPORTED:  46,33%
+
+[2025-07-26 19:26:42.431] [info]  🚧 UPSCAYL_PROGRESS:  46,33%
+
+[2025-07-26 19:26:42.431] [info]  🚧 UPSCAYL_PROGRESS:  46,33%
+
+[2025-07-26 19:26:42.745] [info]  46,67%
+
+[2025-07-26 19:26:42.746] [info]  🎒 BACKEND REPORTED:  46,67%
+
+[2025-07-26 19:26:42.746] [info]  🎒 BACKEND REPORTED:  46,67%
+
+[2025-07-26 19:26:42.747] [info]  🚧 UPSCAYL_PROGRESS:  46,67%
+
+[2025-07-26 19:26:42.747] [info]  🚧 UPSCAYL_PROGRESS:  46,67%
+
+[2025-07-26 19:26:43.044] [info]  47,00%
+
+[2025-07-26 19:26:43.046] [info]  🎒 BACKEND REPORTED:  47,00%
+
+[2025-07-26 19:26:43.046] [info]  🎒 BACKEND REPORTED:  47,00%
+
+[2025-07-26 19:26:43.048] [info]  🚧 UPSCAYL_PROGRESS:  47,00%
+
+[2025-07-26 19:26:43.048] [info]  🚧 UPSCAYL_PROGRESS:  47,00%
+
+[2025-07-26 19:26:43.333] [info]  47,33%
+
+[2025-07-26 19:26:43.334] [info]  🎒 BACKEND REPORTED:  47,33%
+
+[2025-07-26 19:26:43.335] [info]  🎒 BACKEND REPORTED:  47,33%
+
+[2025-07-26 19:26:43.336] [info]  🚧 UPSCAYL_PROGRESS:  47,33%
+
+[2025-07-26 19:26:43.337] [info]  🚧 UPSCAYL_PROGRESS:  47,33%
+
+[2025-07-26 19:26:43.636] [info]  47,67%
+
+[2025-07-26 19:26:43.638] [info]  🎒 BACKEND REPORTED:  47,67%
+
+[2025-07-26 19:26:43.638] [info]  🎒 BACKEND REPORTED:  47,67%
+
+[2025-07-26 19:26:43.640] [info]  🚧 UPSCAYL_PROGRESS:  47,67%
+
+[2025-07-26 19:26:43.640] [info]  🚧 UPSCAYL_PROGRESS:  47,67%
+
+[2025-07-26 19:26:43.920] [info]  48,00%
+
+[2025-07-26 19:26:43.922] [info]  🎒 BACKEND REPORTED:  48,00%
+
+[2025-07-26 19:26:43.923] [info]  🎒 BACKEND REPORTED:  48,00%
+
+[2025-07-26 19:26:43.925] [info]  🚧 UPSCAYL_PROGRESS:  48,00%
+
+[2025-07-26 19:26:43.925] [info]  🚧 UPSCAYL_PROGRESS:  48,00%
+
+[2025-07-26 19:26:44.221] [info]  48,33%
+
+[2025-07-26 19:26:44.223] [info]  🎒 BACKEND REPORTED:  48,33%
+
+[2025-07-26 19:26:44.223] [info]  🎒 BACKEND REPORTED:  48,33%
+
+[2025-07-26 19:26:44.225] [info]  🚧 UPSCAYL_PROGRESS:  48,33%
+
+[2025-07-26 19:26:44.225] [info]  🚧 UPSCAYL_PROGRESS:  48,33%
+
+[2025-07-26 19:26:44.522] [info]  48,67%
+
+[2025-07-26 19:26:44.524] [info]  🎒 BACKEND REPORTED:  48,67%
+
+[2025-07-26 19:26:44.525] [info]  🎒 BACKEND REPORTED:  48,67%
+
+[2025-07-26 19:26:44.527] [info]  🚧 UPSCAYL_PROGRESS:  48,67%
+
+[2025-07-26 19:26:44.527] [info]  🚧 UPSCAYL_PROGRESS:  48,67%
+
+[2025-07-26 19:26:44.807] [info]  49,00%
+
+[2025-07-26 19:26:44.809] [info]  🎒 BACKEND REPORTED:  49,00%
+
+[2025-07-26 19:26:44.810] [info]  🎒 BACKEND REPORTED:  49,00%
+
+[2025-07-26 19:26:44.811] [info]  🚧 UPSCAYL_PROGRESS:  49,00%
+
+[2025-07-26 19:26:44.812] [info]  🚧 UPSCAYL_PROGRESS:  49,00%
+
+[2025-07-26 19:26:45.104] [info]  49,33%
+
+[2025-07-26 19:26:45.106] [info]  🎒 BACKEND REPORTED:  49,33%
+
+[2025-07-26 19:26:45.106] [info]  🎒 BACKEND REPORTED:  49,33%
+
+[2025-07-26 19:26:45.108] [info]  🚧 UPSCAYL_PROGRESS:  49,33%
+
+[2025-07-26 19:26:45.108] [info]  🚧 UPSCAYL_PROGRESS:  49,33%
+
+[2025-07-26 19:26:45.406] [info]  49,67%
+
+[2025-07-26 19:26:45.408] [info]  🎒 BACKEND REPORTED:  49,67%
+
+[2025-07-26 19:26:45.408] [info]  🎒 BACKEND REPORTED:  49,67%
+
+[2025-07-26 19:26:45.411] [info]  🚧 UPSCAYL_PROGRESS:  49,67%
+
+[2025-07-26 19:26:45.411] [info]  🚧 UPSCAYL_PROGRESS:  49,67%
+
+[2025-07-26 19:26:45.694] [info]  50,00%
+
+[2025-07-26 19:26:45.696] [info]  🎒 BACKEND REPORTED:  50,00%
+
+[2025-07-26 19:26:45.696] [info]  🎒 BACKEND REPORTED:  50,00%
+
+[2025-07-26 19:26:45.698] [info]  🚧 UPSCAYL_PROGRESS:  50,00%
+
+[2025-07-26 19:26:45.698] [info]  🚧 UPSCAYL_PROGRESS:  50,00%
+
+[2025-07-26 19:26:45.985] [info]  50,33%
+
+[2025-07-26 19:26:45.987] [info]  🎒 BACKEND REPORTED:  50,33%
+
+[2025-07-26 19:26:45.987] [info]  🎒 BACKEND REPORTED:  50,33%
+
+[2025-07-26 19:26:45.989] [info]  🚧 UPSCAYL_PROGRESS:  50,33%
+
+[2025-07-26 19:26:45.989] [info]  🚧 UPSCAYL_PROGRESS:  50,33%
+
+[2025-07-26 19:26:46.280] [info]  50,67%
+
+[2025-07-26 19:26:46.283] [info]  🎒 BACKEND REPORTED:  50,67%
+
+[2025-07-26 19:26:46.283] [info]  🎒 BACKEND REPORTED:  50,67%
+
+[2025-07-26 19:26:46.285] [info]  🚧 UPSCAYL_PROGRESS:  50,67%
+
+[2025-07-26 19:26:46.285] [info]  🚧 UPSCAYL_PROGRESS:  50,67%
+
+[2025-07-26 19:26:46.559] [info]  51,00%
+
+[2025-07-26 19:26:46.561] [info]  🎒 BACKEND REPORTED:  51,00%
+
+[2025-07-26 19:26:46.561] [info]  🎒 BACKEND REPORTED:  51,00%
+
+[2025-07-26 19:26:46.562] [info]  🚧 UPSCAYL_PROGRESS:  51,00%
+
+[2025-07-26 19:26:46.563] [info]  🚧 UPSCAYL_PROGRESS:  51,00%
+
+[2025-07-26 19:26:46.837] [info]  51,33%
+
+[2025-07-26 19:26:46.838] [info]  🎒 BACKEND REPORTED:  51,33%
+
+[2025-07-26 19:26:46.838] [info]  🎒 BACKEND REPORTED:  51,33%
+
+[2025-07-26 19:26:46.839] [info]  🚧 UPSCAYL_PROGRESS:  51,33%
+
+[2025-07-26 19:26:46.839] [info]  🚧 UPSCAYL_PROGRESS:  51,33%
+
+[2025-07-26 19:26:47.128] [info]  51,67%
+
+[2025-07-26 19:26:47.129] [info]  🎒 BACKEND REPORTED:  51,67%
+
+[2025-07-26 19:26:47.129] [info]  🎒 BACKEND REPORTED:  51,67%
+
+[2025-07-26 19:26:47.130] [info]  🚧 UPSCAYL_PROGRESS:  51,67%
+
+[2025-07-26 19:26:47.130] [info]  🚧 UPSCAYL_PROGRESS:  51,67%
+
+[2025-07-26 19:26:47.414] [info]  52,00%
+
+[2025-07-26 19:26:47.416] [info]  🎒 BACKEND REPORTED:  52,00%
+
+[2025-07-26 19:26:47.416] [info]  🎒 BACKEND REPORTED:  52,00%
+
+[2025-07-26 19:26:47.417] [info]  🚧 UPSCAYL_PROGRESS:  52,00%
+
+[2025-07-26 19:26:47.417] [info]  🚧 UPSCAYL_PROGRESS:  52,00%
+
+[2025-07-26 19:26:47.694] [info]  52,33%
+
+[2025-07-26 19:26:47.695] [info]  🎒 BACKEND REPORTED:  52,33%
+
+[2025-07-26 19:26:47.695] [info]  🎒 BACKEND REPORTED:  52,33%
+
+[2025-07-26 19:26:47.696] [info]  🚧 UPSCAYL_PROGRESS:  52,33%
+
+[2025-07-26 19:26:47.696] [info]  🚧 UPSCAYL_PROGRESS:  52,33%
+
+[2025-07-26 19:26:47.985] [info]  52,67%
+
+[2025-07-26 19:26:47.987] [info]  🎒 BACKEND REPORTED:  52,67%
+
+[2025-07-26 19:26:47.987] [info]  🎒 BACKEND REPORTED:  52,67%
+
+[2025-07-26 19:26:47.988] [info]  🚧 UPSCAYL_PROGRESS:  52,67%
+
+[2025-07-26 19:26:47.989] [info]  🚧 UPSCAYL_PROGRESS:  52,67%
+
+[2025-07-26 19:26:48.324] [info]  53,00%
+
+[2025-07-26 19:26:48.325] [info]  🎒 BACKEND REPORTED:  53,00%
+
+[2025-07-26 19:26:48.326] [info]  🎒 BACKEND REPORTED:  53,00%
+
+[2025-07-26 19:26:48.327] [info]  🚧 UPSCAYL_PROGRESS:  53,00%
+
+[2025-07-26 19:26:48.327] [info]  🚧 UPSCAYL_PROGRESS:  53,00%
+
+[2025-07-26 19:26:48.708] [info]  53,33%
+
+[2025-07-26 19:26:48.710] [info]  🎒 BACKEND REPORTED:  53,33%
+
+[2025-07-26 19:26:48.710] [info]  🎒 BACKEND REPORTED:  53,33%
+
+[2025-07-26 19:26:48.712] [info]  🚧 UPSCAYL_PROGRESS:  53,33%
+
+[2025-07-26 19:26:48.712] [info]  🚧 UPSCAYL_PROGRESS:  53,33%
+
+[2025-07-26 19:26:49.049] [info]  53,67%
+
+[2025-07-26 19:26:49.051] [info]  🎒 BACKEND REPORTED:  53,67%
+
+[2025-07-26 19:26:49.052] [info]  🎒 BACKEND REPORTED:  53,67%
+
+[2025-07-26 19:26:49.054] [info]  🚧 UPSCAYL_PROGRESS:  53,67%
+
+[2025-07-26 19:26:49.054] [info]  🚧 UPSCAYL_PROGRESS:  53,67%
+
+[2025-07-26 19:26:49.382] [info]  54,00%
+
+[2025-07-26 19:26:49.383] [info]  🎒 BACKEND REPORTED:  54,00%
+
+[2025-07-26 19:26:49.384] [info]  🎒 BACKEND REPORTED:  54,00%
+
+[2025-07-26 19:26:49.385] [info]  🚧 UPSCAYL_PROGRESS:  54,00%
+
+[2025-07-26 19:26:49.386] [info]  🚧 UPSCAYL_PROGRESS:  54,00%
+
+[2025-07-26 19:26:49.673] [info]  54,33%
+
+[2025-07-26 19:26:49.674] [info]  🎒 BACKEND REPORTED:  54,33%
+
+[2025-07-26 19:26:49.675] [info]  🎒 BACKEND REPORTED:  54,33%
+
+[2025-07-26 19:26:49.676] [info]  🚧 UPSCAYL_PROGRESS:  54,33%
+
+[2025-07-26 19:26:49.677] [info]  🚧 UPSCAYL_PROGRESS:  54,33%
+
+[2025-07-26 19:26:49.982] [info]  54,67%
+
+[2025-07-26 19:26:49.984] [info]  🎒 BACKEND REPORTED:  54,67%
+
+[2025-07-26 19:26:49.984] [info]  🎒 BACKEND REPORTED:  54,67%
+
+[2025-07-26 19:26:49.986] [info]  🚧 UPSCAYL_PROGRESS:  54,67%
+
+[2025-07-26 19:26:49.987] [info]  🚧 UPSCAYL_PROGRESS:  54,67%
+
+[2025-07-26 19:26:50.321] [info]  55,00%
+
+[2025-07-26 19:26:50.323] [info]  🎒 BACKEND REPORTED:  55,00%
+
+[2025-07-26 19:26:50.323] [info]  🎒 BACKEND REPORTED:  55,00%
+
+[2025-07-26 19:26:50.325] [info]  🚧 UPSCAYL_PROGRESS:  55,00%
+
+[2025-07-26 19:26:50.325] [info]  🚧 UPSCAYL_PROGRESS:  55,00%
+
+[2025-07-26 19:26:50.609] [info]  55,33%
+
+[2025-07-26 19:26:50.611] [info]  🎒 BACKEND REPORTED:  55,33%
+
+[2025-07-26 19:26:50.611] [info]  🎒 BACKEND REPORTED:  55,33%
+
+[2025-07-26 19:26:50.613] [info]  🚧 UPSCAYL_PROGRESS:  55,33%
+
+[2025-07-26 19:26:50.613] [info]  🚧 UPSCAYL_PROGRESS:  55,33%
+
+[2025-07-26 19:26:50.901] [info]  55,67%
+
+[2025-07-26 19:26:50.903] [info]  🎒 BACKEND REPORTED:  55,67%
+
+[2025-07-26 19:26:50.903] [info]  🎒 BACKEND REPORTED:  55,67%
+
+[2025-07-26 19:26:50.905] [info]  🚧 UPSCAYL_PROGRESS:  55,67%
+
+[2025-07-26 19:26:50.905] [info]  🚧 UPSCAYL_PROGRESS:  55,67%
+
+[2025-07-26 19:26:51.212] [info]  56,00%
+
+[2025-07-26 19:26:51.214] [info]  🎒 BACKEND REPORTED:  56,00%
+
+[2025-07-26 19:26:51.215] [info]  🎒 BACKEND REPORTED:  56,00%
+
+[2025-07-26 19:26:51.217] [info]  🚧 UPSCAYL_PROGRESS:  56,00%
+
+[2025-07-26 19:26:51.218] [info]  🚧 UPSCAYL_PROGRESS:  56,00%
+
+[2025-07-26 19:26:51.534] [info]  56,33%
+
+[2025-07-26 19:26:51.536] [info]  🎒 BACKEND REPORTED:  56,33%
+
+[2025-07-26 19:26:51.536] [info]  🎒 BACKEND REPORTED:  56,33%
+
+[2025-07-26 19:26:51.538] [info]  🚧 UPSCAYL_PROGRESS:  56,33%
+
+[2025-07-26 19:26:51.538] [info]  🚧 UPSCAYL_PROGRESS:  56,33%
+
+[2025-07-26 19:26:51.859] [info]  56,67%
+
+[2025-07-26 19:26:51.860] [info]  🎒 BACKEND REPORTED:  56,67%
+
+[2025-07-26 19:26:51.861] [info]  🎒 BACKEND REPORTED:  56,67%
+
+[2025-07-26 19:26:51.863] [info]  🚧 UPSCAYL_PROGRESS:  56,67%
+
+[2025-07-26 19:26:51.863] [info]  🚧 UPSCAYL_PROGRESS:  56,67%
+
+[2025-07-26 19:26:52.192] [info]  57,00%
+
+[2025-07-26 19:26:52.194] [info]  🎒 BACKEND REPORTED:  57,00%
+
+[2025-07-26 19:26:52.194] [info]  🎒 BACKEND REPORTED:  57,00%
+
+[2025-07-26 19:26:52.196] [info]  🚧 UPSCAYL_PROGRESS:  57,00%
+
+[2025-07-26 19:26:52.197] [info]  🚧 UPSCAYL_PROGRESS:  57,00%
+
+[2025-07-26 19:26:52.490] [info]  57,33%
+
+[2025-07-26 19:26:52.492] [info]  🎒 BACKEND REPORTED:  57,33%
+
+[2025-07-26 19:26:52.492] [info]  🎒 BACKEND REPORTED:  57,33%
+
+[2025-07-26 19:26:52.494] [info]  🚧 UPSCAYL_PROGRESS:  57,33%
+
+[2025-07-26 19:26:52.494] [info]  🚧 UPSCAYL_PROGRESS:  57,33%
+
+[2025-07-26 19:26:52.819] [info]  57,67%
+
+[2025-07-26 19:26:52.821] [info]  🎒 BACKEND REPORTED:  57,67%
+
+[2025-07-26 19:26:52.822] [info]  🎒 BACKEND REPORTED:  57,67%
+
+[2025-07-26 19:26:52.824] [info]  🚧 UPSCAYL_PROGRESS:  57,67%
+
+[2025-07-26 19:26:52.824] [info]  🚧 UPSCAYL_PROGRESS:  57,67%
+
+[2025-07-26 19:26:53.134] [info]  58,00%
+
+[2025-07-26 19:26:53.135] [info]  🎒 BACKEND REPORTED:  58,00%
+
+[2025-07-26 19:26:53.138] [info]  🎒 BACKEND REPORTED:  58,00%
+
+[2025-07-26 19:26:53.139] [info]  🚧 UPSCAYL_PROGRESS:  58,00%
+
+[2025-07-26 19:26:53.140] [info]  🚧 UPSCAYL_PROGRESS:  58,00%
+
+[2025-07-26 19:26:53.461] [info]  58,33%
+
+[2025-07-26 19:26:53.463] [info]  🎒 BACKEND REPORTED:  58,33%
+
+[2025-07-26 19:26:53.464] [info]  🎒 BACKEND REPORTED:  58,33%
+
+[2025-07-26 19:26:53.465] [info]  🚧 UPSCAYL_PROGRESS:  58,33%
+
+[2025-07-26 19:26:53.466] [info]  🚧 UPSCAYL_PROGRESS:  58,33%
+
+[2025-07-26 19:26:53.762] [info]  58,67%
+
+[2025-07-26 19:26:53.764] [info]  🎒 BACKEND REPORTED:  58,67%
+
+[2025-07-26 19:26:53.765] [info]  🎒 BACKEND REPORTED:  58,67%
+
+[2025-07-26 19:26:53.766] [info]  🚧 UPSCAYL_PROGRESS:  58,67%
+
+[2025-07-26 19:26:53.767] [info]  🚧 UPSCAYL_PROGRESS:  58,67%
+
+[2025-07-26 19:26:54.053] [info]  59,00%
+
+[2025-07-26 19:26:54.055] [info]  🎒 BACKEND REPORTED:  59,00%
+
+[2025-07-26 19:26:54.055] [info]  🎒 BACKEND REPORTED:  59,00%
+
+[2025-07-26 19:26:54.057] [info]  🚧 UPSCAYL_PROGRESS:  59,00%
+
+[2025-07-26 19:26:54.058] [info]  🚧 UPSCAYL_PROGRESS:  59,00%
+
+[2025-07-26 19:26:54.387] [info]  59,33%
+
+[2025-07-26 19:26:54.389] [info]  🎒 BACKEND REPORTED:  59,33%
+
+[2025-07-26 19:26:54.389] [info]  🎒 BACKEND REPORTED:  59,33%
+
+[2025-07-26 19:26:54.391] [info]  🚧 UPSCAYL_PROGRESS:  59,33%
+
+[2025-07-26 19:26:54.391] [info]  🚧 UPSCAYL_PROGRESS:  59,33%
+
+[2025-07-26 19:26:54.680] [info]  59,67%
+
+[2025-07-26 19:26:54.682] [info]  🎒 BACKEND REPORTED:  59,67%
+
+[2025-07-26 19:26:54.691] [info]  🎒 BACKEND REPORTED:  59,67%
+
+[2025-07-26 19:26:54.692] [info]  🚧 UPSCAYL_PROGRESS:  59,67%
+
+[2025-07-26 19:26:54.692] [info]  🚧 UPSCAYL_PROGRESS:  59,67%
+
+[2025-07-26 19:26:54.976] [info]  60,00%
+
+[2025-07-26 19:26:54.978] [info]  🎒 BACKEND REPORTED:  60,00%
+
+[2025-07-26 19:26:54.978] [info]  🎒 BACKEND REPORTED:  60,00%
+
+[2025-07-26 19:26:54.980] [info]  🚧 UPSCAYL_PROGRESS:  60,00%
+
+[2025-07-26 19:26:54.980] [info]  🚧 UPSCAYL_PROGRESS:  60,00%
+
+[2025-07-26 19:26:55.299] [info]  60,33%
+
+[2025-07-26 19:26:55.301] [info]  🎒 BACKEND REPORTED:  60,33%
+
+[2025-07-26 19:26:55.301] [info]  🎒 BACKEND REPORTED:  60,33%
+
+[2025-07-26 19:26:55.303] [info]  🚧 UPSCAYL_PROGRESS:  60,33%
+
+[2025-07-26 19:26:55.303] [info]  🚧 UPSCAYL_PROGRESS:  60,33%
+
+[2025-07-26 19:26:55.632] [info]  60,67%
+
+[2025-07-26 19:26:55.634] [info]  🎒 BACKEND REPORTED:  60,67%
+
+[2025-07-26 19:26:55.635] [info]  🎒 BACKEND REPORTED:  60,67%
+
+[2025-07-26 19:26:55.636] [info]  🚧 UPSCAYL_PROGRESS:  60,67%
+
+[2025-07-26 19:26:55.636] [info]  🚧 UPSCAYL_PROGRESS:  60,67%
+
+[2025-07-26 19:26:55.931] [info]  61,00%
+
+[2025-07-26 19:26:55.933] [info]  🎒 BACKEND REPORTED:  61,00%
+
+[2025-07-26 19:26:55.933] [info]  🎒 BACKEND REPORTED:  61,00%
+
+[2025-07-26 19:26:55.936] [info]  🚧 UPSCAYL_PROGRESS:  61,00%
+
+[2025-07-26 19:26:55.936] [info]  🚧 UPSCAYL_PROGRESS:  61,00%
+
+[2025-07-26 19:26:56.240] [info]  61,33%
+
+[2025-07-26 19:26:56.242] [info]  🎒 BACKEND REPORTED:  61,33%
+
+[2025-07-26 19:26:56.242] [info]  🎒 BACKEND REPORTED:  61,33%
+
+[2025-07-26 19:26:56.244] [info]  🚧 UPSCAYL_PROGRESS:  61,33%
+
+[2025-07-26 19:26:56.244] [info]  🚧 UPSCAYL_PROGRESS:  61,33%
+
+[2025-07-26 19:26:56.554] [info]  61,67%
+
+[2025-07-26 19:26:56.556] [info]  🎒 BACKEND REPORTED:  61,67%
+
+[2025-07-26 19:26:56.557] [info]  🎒 BACKEND REPORTED:  61,67%
+
+[2025-07-26 19:26:56.559] [info]  🚧 UPSCAYL_PROGRESS:  61,67%
+
+[2025-07-26 19:26:56.559] [info]  🚧 UPSCAYL_PROGRESS:  61,67%
+
+[2025-07-26 19:26:56.875] [info]  62,00%
+
+[2025-07-26 19:26:56.876] [info]  🎒 BACKEND REPORTED:  62,00%
+
+[2025-07-26 19:26:56.877] [info]  🎒 BACKEND REPORTED:  62,00%
+
+[2025-07-26 19:26:56.878] [info]  🚧 UPSCAYL_PROGRESS:  62,00%
+
+[2025-07-26 19:26:56.879] [info]  🚧 UPSCAYL_PROGRESS:  62,00%
+
+[2025-07-26 19:26:57.206] [info]  62,33%
+
+[2025-07-26 19:26:57.208] [info]  🎒 BACKEND REPORTED:  62,33%
+
+[2025-07-26 19:26:57.209] [info]  🎒 BACKEND REPORTED:  62,33%
+
+[2025-07-26 19:26:57.210] [info]  🚧 UPSCAYL_PROGRESS:  62,33%
+
+[2025-07-26 19:26:57.211] [info]  🚧 UPSCAYL_PROGRESS:  62,33%
+
+[2025-07-26 19:26:57.528] [info]  62,67%
+
+[2025-07-26 19:26:57.530] [info]  🎒 BACKEND REPORTED:  62,67%
+
+[2025-07-26 19:26:57.530] [info]  🎒 BACKEND REPORTED:  62,67%
+
+[2025-07-26 19:26:57.532] [info]  🚧 UPSCAYL_PROGRESS:  62,67%
+
+[2025-07-26 19:26:57.533] [info]  🚧 UPSCAYL_PROGRESS:  62,67%
+
+[2025-07-26 19:26:57.847] [info]  63,00%
+
+[2025-07-26 19:26:57.848] [info]  🎒 BACKEND REPORTED:  63,00%
+
+[2025-07-26 19:26:57.849] [info]  🎒 BACKEND REPORTED:  63,00%
+
+[2025-07-26 19:26:57.850] [info]  🚧 UPSCAYL_PROGRESS:  63,00%
+
+[2025-07-26 19:26:57.851] [info]  🚧 UPSCAYL_PROGRESS:  63,00%
+
+[2025-07-26 19:26:58.180] [info]  63,33%
+
+[2025-07-26 19:26:58.181] [info]  🎒 BACKEND REPORTED:  63,33%
+
+[2025-07-26 19:26:58.181] [info]  🎒 BACKEND REPORTED:  63,33%
+
+[2025-07-26 19:26:58.183] [info]  🚧 UPSCAYL_PROGRESS:  63,33%
+
+[2025-07-26 19:26:58.183] [info]  🚧 UPSCAYL_PROGRESS:  63,33%
+
+[2025-07-26 19:26:58.495] [info]  63,67%
+
+[2025-07-26 19:26:58.497] [info]  🎒 BACKEND REPORTED:  63,67%
+
+[2025-07-26 19:26:58.498] [info]  🎒 BACKEND REPORTED:  63,67%
+
+[2025-07-26 19:26:58.499] [info]  🚧 UPSCAYL_PROGRESS:  63,67%
+
+[2025-07-26 19:26:58.500] [info]  🚧 UPSCAYL_PROGRESS:  63,67%
+
+[2025-07-26 19:26:58.810] [info]  64,00%
+
+[2025-07-26 19:26:58.812] [info]  🎒 BACKEND REPORTED:  64,00%
+
+[2025-07-26 19:26:58.812] [info]  🎒 BACKEND REPORTED:  64,00%
+
+[2025-07-26 19:26:58.814] [info]  🚧 UPSCAYL_PROGRESS:  64,00%
+
+[2025-07-26 19:26:58.814] [info]  🚧 UPSCAYL_PROGRESS:  64,00%
+
+[2025-07-26 19:26:59.128] [info]  64,33%
+
+[2025-07-26 19:26:59.130] [info]  🎒 BACKEND REPORTED:  64,33%
+
+[2025-07-26 19:26:59.131] [info]  🎒 BACKEND REPORTED:  64,33%
+
+[2025-07-26 19:26:59.132] [info]  🚧 UPSCAYL_PROGRESS:  64,33%
+
+[2025-07-26 19:26:59.133] [info]  🚧 UPSCAYL_PROGRESS:  64,33%
+
+[2025-07-26 19:26:59.442] [info]  64,67%
+
+[2025-07-26 19:26:59.443] [info]  🎒 BACKEND REPORTED:  64,67%
+
+[2025-07-26 19:26:59.444] [info]  🎒 BACKEND REPORTED:  64,67%
+
+[2025-07-26 19:26:59.447] [info]  🚧 UPSCAYL_PROGRESS:  64,67%
+
+[2025-07-26 19:26:59.447] [info]  🚧 UPSCAYL_PROGRESS:  64,67%
+
+[2025-07-26 19:26:59.762] [info]  65,00%
+
+[2025-07-26 19:26:59.764] [info]  🎒 BACKEND REPORTED:  65,00%
+
+[2025-07-26 19:26:59.764] [info]  🎒 BACKEND REPORTED:  65,00%
+
+[2025-07-26 19:26:59.766] [info]  🚧 UPSCAYL_PROGRESS:  65,00%
+
+[2025-07-26 19:26:59.767] [info]  🚧 UPSCAYL_PROGRESS:  65,00%
+
+[2025-07-26 19:27:00.079] [info]  65,33%
+
+[2025-07-26 19:27:00.081] [info]  🎒 BACKEND REPORTED:  65,33%
+
+[2025-07-26 19:27:00.082] [info]  🎒 BACKEND REPORTED:  65,33%
+
+[2025-07-26 19:27:00.083] [info]  🚧 UPSCAYL_PROGRESS:  65,33%
+
+[2025-07-26 19:27:00.084] [info]  🚧 UPSCAYL_PROGRESS:  65,33%
+
+[2025-07-26 19:27:00.462] [info]  65,67%
+
+[2025-07-26 19:27:00.463] [info]  🎒 BACKEND REPORTED:  65,67%
+
+[2025-07-26 19:27:00.464] [info]  🎒 BACKEND REPORTED:  65,67%
+
+[2025-07-26 19:27:00.465] [info]  🚧 UPSCAYL_PROGRESS:  65,67%
+
+[2025-07-26 19:27:00.466] [info]  🚧 UPSCAYL_PROGRESS:  65,67%
+
+[2025-07-26 19:27:00.798] [info]  66,00%
+
+[2025-07-26 19:27:00.800] [info]  🎒 BACKEND REPORTED:  66,00%
+
+[2025-07-26 19:27:00.800] [info]  🎒 BACKEND REPORTED:  66,00%
+
+[2025-07-26 19:27:00.801] [info]  🚧 UPSCAYL_PROGRESS:  66,00%
+
+[2025-07-26 19:27:00.802] [info]  🚧 UPSCAYL_PROGRESS:  66,00%
+
+[2025-07-26 19:27:01.120] [info]  66,33%
+
+[2025-07-26 19:27:01.122] [info]  🎒 BACKEND REPORTED:  66,33%
+
+[2025-07-26 19:27:01.123] [info]  🎒 BACKEND REPORTED:  66,33%
+
+[2025-07-26 19:27:01.124] [info]  🚧 UPSCAYL_PROGRESS:  66,33%
+
+[2025-07-26 19:27:01.125] [info]  🚧 UPSCAYL_PROGRESS:  66,33%
+
+[2025-07-26 19:27:01.435] [info]  66,67%
+
+[2025-07-26 19:27:01.437] [info]  🎒 BACKEND REPORTED:  66,67%
+
+[2025-07-26 19:27:01.438] [info]  🎒 BACKEND REPORTED:  66,67%
+
+[2025-07-26 19:27:01.439] [info]  🚧 UPSCAYL_PROGRESS:  66,67%
+
+[2025-07-26 19:27:01.440] [info]  🚧 UPSCAYL_PROGRESS:  66,67%
+
+[2025-07-26 19:27:01.720] [info]  67,00%
+
+[2025-07-26 19:27:01.722] [info]  🎒 BACKEND REPORTED:  67,00%
+
+[2025-07-26 19:27:01.722] [info]  🎒 BACKEND REPORTED:  67,00%
+
+[2025-07-26 19:27:01.724] [info]  🚧 UPSCAYL_PROGRESS:  67,00%
+
+[2025-07-26 19:27:01.725] [info]  🚧 UPSCAYL_PROGRESS:  67,00%
+
+[2025-07-26 19:27:02.014] [info]  67,33%
+
+[2025-07-26 19:27:02.015] [info]  🎒 BACKEND REPORTED:  67,33%
+
+[2025-07-26 19:27:02.016] [info]  🎒 BACKEND REPORTED:  67,33%
+
+[2025-07-26 19:27:02.018] [info]  🚧 UPSCAYL_PROGRESS:  67,33%
+
+[2025-07-26 19:27:02.018] [info]  🚧 UPSCAYL_PROGRESS:  67,33%
+
+[2025-07-26 19:27:02.347] [info]  67,67%
+
+[2025-07-26 19:27:02.349] [info]  🎒 BACKEND REPORTED:  67,67%
+
+[2025-07-26 19:27:02.350] [info]  🎒 BACKEND REPORTED:  67,67%
+
+[2025-07-26 19:27:02.352] [info]  🚧 UPSCAYL_PROGRESS:  67,67%
+
+[2025-07-26 19:27:02.352] [info]  🚧 UPSCAYL_PROGRESS:  67,67%
+
+[2025-07-26 19:27:02.661] [info]  68,00%
+
+[2025-07-26 19:27:02.663] [info]  🎒 BACKEND REPORTED:  68,00%
+
+[2025-07-26 19:27:02.663] [info]  🎒 BACKEND REPORTED:  68,00%
+
+[2025-07-26 19:27:02.665] [info]  🚧 UPSCAYL_PROGRESS:  68,00%
+
+[2025-07-26 19:27:02.665] [info]  🚧 UPSCAYL_PROGRESS:  68,00%
+
+[2025-07-26 19:27:02.973] [info]  68,33%
+
+[2025-07-26 19:27:02.975] [info]  🎒 BACKEND REPORTED:  68,33%
+
+[2025-07-26 19:27:02.975] [info]  🎒 BACKEND REPORTED:  68,33%
+
+[2025-07-26 19:27:02.977] [info]  🚧 UPSCAYL_PROGRESS:  68,33%
+
+[2025-07-26 19:27:02.977] [info]  🚧 UPSCAYL_PROGRESS:  68,33%
+
+[2025-07-26 19:27:03.291] [info]  68,67%
+
+[2025-07-26 19:27:03.293] [info]  🎒 BACKEND REPORTED:  68,67%
+
+[2025-07-26 19:27:03.293] [info]  🎒 BACKEND REPORTED:  68,67%
+
+[2025-07-26 19:27:03.295] [info]  🚧 UPSCAYL_PROGRESS:  68,67%
+
+[2025-07-26 19:27:03.295] [info]  🚧 UPSCAYL_PROGRESS:  68,67%
+
+[2025-07-26 19:27:03.590] [info]  69,00%
+
+[2025-07-26 19:27:03.592] [info]  🎒 BACKEND REPORTED:  69,00%
+
+[2025-07-26 19:27:03.593] [info]  🎒 BACKEND REPORTED:  69,00%
+
+[2025-07-26 19:27:03.594] [info]  🚧 UPSCAYL_PROGRESS:  69,00%
+
+[2025-07-26 19:27:03.595] [info]  🚧 UPSCAYL_PROGRESS:  69,00%
+
+[2025-07-26 19:27:03.896] [info]  69,33%
+
+[2025-07-26 19:27:03.898] [info]  🎒 BACKEND REPORTED:  69,33%
+
+[2025-07-26 19:27:03.898] [info]  🎒 BACKEND REPORTED:  69,33%
+
+[2025-07-26 19:27:03.900] [info]  🚧 UPSCAYL_PROGRESS:  69,33%
+
+[2025-07-26 19:27:03.900] [info]  🚧 UPSCAYL_PROGRESS:  69,33%
+
+[2025-07-26 19:27:04.206] [info]  69,67%
+
+[2025-07-26 19:27:04.208] [info]  🎒 BACKEND REPORTED:  69,67%
+
+[2025-07-26 19:27:04.208] [info]  🎒 BACKEND REPORTED:  69,67%
+
+[2025-07-26 19:27:04.210] [info]  🚧 UPSCAYL_PROGRESS:  69,67%
+
+[2025-07-26 19:27:04.210] [info]  🚧 UPSCAYL_PROGRESS:  69,67%
+
+[2025-07-26 19:27:04.522] [info]  70,00%
+
+[2025-07-26 19:27:04.524] [info]  🎒 BACKEND REPORTED:  70,00%
+
+[2025-07-26 19:27:04.525] [info]  🎒 BACKEND REPORTED:  70,00%
+
+[2025-07-26 19:27:04.526] [info]  🚧 UPSCAYL_PROGRESS:  70,00%
+
+[2025-07-26 19:27:04.527] [info]  🚧 UPSCAYL_PROGRESS:  70,00%
+
+[2025-07-26 19:27:04.814] [info]  70,33%
+
+[2025-07-26 19:27:04.815] [info]  🎒 BACKEND REPORTED:  70,33%
+
+[2025-07-26 19:27:04.816] [info]  🎒 BACKEND REPORTED:  70,33%
+
+[2025-07-26 19:27:04.817] [info]  🚧 UPSCAYL_PROGRESS:  70,33%
+
+[2025-07-26 19:27:04.818] [info]  🚧 UPSCAYL_PROGRESS:  70,33%
+
+[2025-07-26 19:27:05.117] [info]  70,67%
+
+[2025-07-26 19:27:05.119] [info]  🎒 BACKEND REPORTED:  70,67%
+
+[2025-07-26 19:27:05.119] [info]  🎒 BACKEND REPORTED:  70,67%
+
+[2025-07-26 19:27:05.121] [info]  🚧 UPSCAYL_PROGRESS:  70,67%
+
+[2025-07-26 19:27:05.122] [info]  🚧 UPSCAYL_PROGRESS:  70,67%
+
+[2025-07-26 19:27:05.421] [info]  71,00%
+
+[2025-07-26 19:27:05.422] [info]  🎒 BACKEND REPORTED:  71,00%
+
+[2025-07-26 19:27:05.423] [info]  🎒 BACKEND REPORTED:  71,00%
+
+[2025-07-26 19:27:05.425] [info]  🚧 UPSCAYL_PROGRESS:  71,00%
+
+[2025-07-26 19:27:05.425] [info]  🚧 UPSCAYL_PROGRESS:  71,00%
+
+[2025-07-26 19:27:05.728] [info]  71,33%
+
+[2025-07-26 19:27:05.730] [info]  🎒 BACKEND REPORTED:  71,33%
+
+[2025-07-26 19:27:05.731] [info]  🎒 BACKEND REPORTED:  71,33%
+
+[2025-07-26 19:27:05.732] [info]  🚧 UPSCAYL_PROGRESS:  71,33%
+
+[2025-07-26 19:27:05.732] [info]  🚧 UPSCAYL_PROGRESS:  71,33%
+
+[2025-07-26 19:27:06.018] [info]  71,67%
+
+[2025-07-26 19:27:06.020] [info]  🎒 BACKEND REPORTED:  71,67%
+
+[2025-07-26 19:27:06.020] [info]  🎒 BACKEND REPORTED:  71,67%
+
+[2025-07-26 19:27:06.022] [info]  🚧 UPSCAYL_PROGRESS:  71,67%
+
+[2025-07-26 19:27:06.022] [info]  🚧 UPSCAYL_PROGRESS:  71,67%
+
+[2025-07-26 19:27:06.326] [info]  72,00%
+
+[2025-07-26 19:27:06.328] [info]  🎒 BACKEND REPORTED:  72,00%
+
+[2025-07-26 19:27:06.328] [info]  🎒 BACKEND REPORTED:  72,00%
+
+[2025-07-26 19:27:06.330] [info]  🚧 UPSCAYL_PROGRESS:  72,00%
+
+[2025-07-26 19:27:06.330] [info]  🚧 UPSCAYL_PROGRESS:  72,00%
+
+[2025-07-26 19:27:06.626] [info]  72,33%
+
+[2025-07-26 19:27:06.628] [info]  🎒 BACKEND REPORTED:  72,33%
+
+[2025-07-26 19:27:06.629] [info]  🎒 BACKEND REPORTED:  72,33%
+
+[2025-07-26 19:27:06.630] [info]  🚧 UPSCAYL_PROGRESS:  72,33%
+
+[2025-07-26 19:27:06.631] [info]  🚧 UPSCAYL_PROGRESS:  72,33%
+
+[2025-07-26 19:27:06.904] [info]  72,67%
+
+[2025-07-26 19:27:06.906] [info]  🎒 BACKEND REPORTED:  72,67%
+
+[2025-07-26 19:27:06.906] [info]  🎒 BACKEND REPORTED:  72,67%
+
+[2025-07-26 19:27:06.908] [info]  🚧 UPSCAYL_PROGRESS:  72,67%
+
+[2025-07-26 19:27:06.908] [info]  🚧 UPSCAYL_PROGRESS:  72,67%
+
+[2025-07-26 19:27:07.197] [info]  73,00%
+
+[2025-07-26 19:27:07.199] [info]  🎒 BACKEND REPORTED:  73,00%
+
+[2025-07-26 19:27:07.199] [info]  🎒 BACKEND REPORTED:  73,00%
+
+[2025-07-26 19:27:07.201] [info]  🚧 UPSCAYL_PROGRESS:  73,00%
+
+[2025-07-26 19:27:07.201] [info]  🚧 UPSCAYL_PROGRESS:  73,00%
+
+[2025-07-26 19:27:07.551] [info]  73,33%
+
+[2025-07-26 19:27:07.552] [info]  🎒 BACKEND REPORTED:  73,33%
+
+[2025-07-26 19:27:07.553] [info]  🎒 BACKEND REPORTED:  73,33%
+
+[2025-07-26 19:27:07.554] [info]  🚧 UPSCAYL_PROGRESS:  73,33%
+
+[2025-07-26 19:27:07.555] [info]  🚧 UPSCAYL_PROGRESS:  73,33%
+
+[2025-07-26 19:27:07.830] [info]  73,67%
+
+[2025-07-26 19:27:07.832] [info]  🎒 BACKEND REPORTED:  73,67%
+
+[2025-07-26 19:27:07.832] [info]  🎒 BACKEND REPORTED:  73,67%
+
+[2025-07-26 19:27:07.834] [info]  🚧 UPSCAYL_PROGRESS:  73,67%
+
+[2025-07-26 19:27:07.834] [info]  🚧 UPSCAYL_PROGRESS:  73,67%
+
+[2025-07-26 19:27:08.106] [info]  74,00%
+
+[2025-07-26 19:27:08.108] [info]  🎒 BACKEND REPORTED:  74,00%
+
+[2025-07-26 19:27:08.108] [info]  🎒 BACKEND REPORTED:  74,00%
+
+[2025-07-26 19:27:08.110] [info]  🚧 UPSCAYL_PROGRESS:  74,00%
+
+[2025-07-26 19:27:08.110] [info]  🚧 UPSCAYL_PROGRESS:  74,00%
+
+[2025-07-26 19:27:08.395] [info]  74,33%
+
+[2025-07-26 19:27:08.397] [info]  🎒 BACKEND REPORTED:  74,33%
+
+[2025-07-26 19:27:08.397] [info]  🎒 BACKEND REPORTED:  74,33%
+
+[2025-07-26 19:27:08.399] [info]  🚧 UPSCAYL_PROGRESS:  74,33%
+
+[2025-07-26 19:27:08.399] [info]  🚧 UPSCAYL_PROGRESS:  74,33%
+
+[2025-07-26 19:27:08.716] [info]  74,67%
+
+[2025-07-26 19:27:08.718] [info]  🎒 BACKEND REPORTED:  74,67%
+
+[2025-07-26 19:27:08.718] [info]  🎒 BACKEND REPORTED:  74,67%
+
+[2025-07-26 19:27:08.720] [info]  🚧 UPSCAYL_PROGRESS:  74,67%
+
+[2025-07-26 19:27:08.721] [info]  🚧 UPSCAYL_PROGRESS:  74,67%
+
+[2025-07-26 19:27:09.016] [info]  75,00%
+
+[2025-07-26 19:27:09.018] [info]  🎒 BACKEND REPORTED:  75,00%
+
+[2025-07-26 19:27:09.018] [info]  🎒 BACKEND REPORTED:  75,00%
+
+[2025-07-26 19:27:09.020] [info]  🚧 UPSCAYL_PROGRESS:  75,00%
+
+[2025-07-26 19:27:09.021] [info]  🚧 UPSCAYL_PROGRESS:  75,00%
+
+[2025-07-26 19:27:09.347] [info]  75,33%
+
+[2025-07-26 19:27:09.349] [info]  🎒 BACKEND REPORTED:  75,33%
+
+[2025-07-26 19:27:09.349] [info]  🎒 BACKEND REPORTED:  75,33%
+
+[2025-07-26 19:27:09.351] [info]  🚧 UPSCAYL_PROGRESS:  75,33%
+
+[2025-07-26 19:27:09.352] [info]  🚧 UPSCAYL_PROGRESS:  75,33%
+
+[2025-07-26 19:27:09.646] [info]  75,67%
+
+[2025-07-26 19:27:09.648] [info]  🎒 BACKEND REPORTED:  75,67%
+
+[2025-07-26 19:27:09.648] [info]  🎒 BACKEND REPORTED:  75,67%
+
+[2025-07-26 19:27:09.650] [info]  🚧 UPSCAYL_PROGRESS:  75,67%
+
+[2025-07-26 19:27:09.650] [info]  🚧 UPSCAYL_PROGRESS:  75,67%
+
+[2025-07-26 19:27:09.927] [info]  76,00%
+
+[2025-07-26 19:27:09.929] [info]  🎒 BACKEND REPORTED:  76,00%
+
+[2025-07-26 19:27:09.929] [info]  🎒 BACKEND REPORTED:  76,00%
+
+[2025-07-26 19:27:09.931] [info]  🚧 UPSCAYL_PROGRESS:  76,00%
+
+[2025-07-26 19:27:09.932] [info]  🚧 UPSCAYL_PROGRESS:  76,00%
+
+[2025-07-26 19:27:10.236] [info]  76,33%
+
+[2025-07-26 19:27:10.237] [info]  🎒 BACKEND REPORTED:  76,33%
+
+[2025-07-26 19:27:10.238] [info]  🎒 BACKEND REPORTED:  76,33%
+
+[2025-07-26 19:27:10.240] [info]  🚧 UPSCAYL_PROGRESS:  76,33%
+
+[2025-07-26 19:27:10.241] [info]  🚧 UPSCAYL_PROGRESS:  76,33%
+
+[2025-07-26 19:27:10.537] [info]  76,67%
+
+[2025-07-26 19:27:10.538] [info]  🎒 BACKEND REPORTED:  76,67%
+
+[2025-07-26 19:27:10.539] [info]  🎒 BACKEND REPORTED:  76,67%
+
+[2025-07-26 19:27:10.541] [info]  🚧 UPSCAYL_PROGRESS:  76,67%
+
+[2025-07-26 19:27:10.541] [info]  🚧 UPSCAYL_PROGRESS:  76,67%
+
+[2025-07-26 19:27:10.826] [info]  77,00%
+
+[2025-07-26 19:27:10.828] [info]  🎒 BACKEND REPORTED:  77,00%
+
+[2025-07-26 19:27:10.829] [info]  🎒 BACKEND REPORTED:  77,00%
+
+[2025-07-26 19:27:10.830] [info]  🚧 UPSCAYL_PROGRESS:  77,00%
+
+[2025-07-26 19:27:10.831] [info]  🚧 UPSCAYL_PROGRESS:  77,00%
+
+[2025-07-26 19:27:11.154] [info]  77,33%
+
+[2025-07-26 19:27:11.155] [info]  🎒 BACKEND REPORTED:  77,33%
+
+[2025-07-26 19:27:11.156] [info]  🎒 BACKEND REPORTED:  77,33%
+
+[2025-07-26 19:27:11.159] [info]  🚧 UPSCAYL_PROGRESS:  77,33%
+
+[2025-07-26 19:27:11.159] [info]  🚧 UPSCAYL_PROGRESS:  77,33%
+
+[2025-07-26 19:27:11.464] [info]  77,67%
+
+[2025-07-26 19:27:11.466] [info]  🎒 BACKEND REPORTED:  77,67%
+
+[2025-07-26 19:27:11.466] [info]  🎒 BACKEND REPORTED:  77,67%
+
+[2025-07-26 19:27:11.468] [info]  🚧 UPSCAYL_PROGRESS:  77,67%
+
+[2025-07-26 19:27:11.468] [info]  🚧 UPSCAYL_PROGRESS:  77,67%
+
+[2025-07-26 19:27:11.754] [info]  78,00%
+
+[2025-07-26 19:27:11.756] [info]  🎒 BACKEND REPORTED:  78,00%
+
+[2025-07-26 19:27:11.756] [info]  🎒 BACKEND REPORTED:  78,00%
+
+[2025-07-26 19:27:11.758] [info]  🚧 UPSCAYL_PROGRESS:  78,00%
+
+[2025-07-26 19:27:11.758] [info]  🚧 UPSCAYL_PROGRESS:  78,00%
+
+[2025-07-26 19:27:12.061] [info]  78,33%
+
+[2025-07-26 19:27:12.062] [info]  🎒 BACKEND REPORTED:  78,33%
+
+[2025-07-26 19:27:12.063] [info]  🎒 BACKEND REPORTED:  78,33%
+
+[2025-07-26 19:27:12.065] [info]  🚧 UPSCAYL_PROGRESS:  78,33%
+
+[2025-07-26 19:27:12.065] [info]  🚧 UPSCAYL_PROGRESS:  78,33%
+
+[2025-07-26 19:27:12.355] [info]  78,67%
+
+[2025-07-26 19:27:12.357] [info]  🎒 BACKEND REPORTED:  78,67%
+
+[2025-07-26 19:27:12.357] [info]  🎒 BACKEND REPORTED:  78,67%
+
+[2025-07-26 19:27:12.359] [info]  🚧 UPSCAYL_PROGRESS:  78,67%
+
+[2025-07-26 19:27:12.359] [info]  🚧 UPSCAYL_PROGRESS:  78,67%
+
+[2025-07-26 19:27:12.653] [info]  79,00%
+
+[2025-07-26 19:27:12.655] [info]  🎒 BACKEND REPORTED:  79,00%
+
+[2025-07-26 19:27:12.655] [info]  🎒 BACKEND REPORTED:  79,00%
+
+[2025-07-26 19:27:12.657] [info]  🚧 UPSCAYL_PROGRESS:  79,00%
+
+[2025-07-26 19:27:12.657] [info]  🚧 UPSCAYL_PROGRESS:  79,00%
+
+[2025-07-26 19:27:12.987] [info]  79,33%
+
+[2025-07-26 19:27:12.989] [info]  🎒 BACKEND REPORTED:  79,33%
+
+[2025-07-26 19:27:12.989] [info]  🎒 BACKEND REPORTED:  79,33%
+
+[2025-07-26 19:27:12.991] [info]  🚧 UPSCAYL_PROGRESS:  79,33%
+
+[2025-07-26 19:27:12.991] [info]  🚧 UPSCAYL_PROGRESS:  79,33%
+
+[2025-07-26 19:27:13.311] [info]  79,67%
+
+[2025-07-26 19:27:13.313] [info]  🎒 BACKEND REPORTED:  79,67%
+
+[2025-07-26 19:27:13.314] [info]  🎒 BACKEND REPORTED:  79,67%
+
+[2025-07-26 19:27:13.315] [info]  🚧 UPSCAYL_PROGRESS:  79,67%
+
+[2025-07-26 19:27:13.316] [info]  🚧 UPSCAYL_PROGRESS:  79,67%
+
+[2025-07-26 19:27:13.638] [info]  80,00%
+
+[2025-07-26 19:27:13.640] [info]  🎒 BACKEND REPORTED:  80,00%
+
+[2025-07-26 19:27:13.640] [info]  🎒 BACKEND REPORTED:  80,00%
+
+[2025-07-26 19:27:13.642] [info]  🚧 UPSCAYL_PROGRESS:  80,00%
+
+[2025-07-26 19:27:13.642] [info]  🚧 UPSCAYL_PROGRESS:  80,00%
+
+[2025-07-26 19:27:13.910] [info]  80,33%
+
+[2025-07-26 19:27:13.912] [info]  🎒 BACKEND REPORTED:  80,33%
+
+[2025-07-26 19:27:13.913] [info]  🎒 BACKEND REPORTED:  80,33%
+
+[2025-07-26 19:27:13.914] [info]  🚧 UPSCAYL_PROGRESS:  80,33%
+
+[2025-07-26 19:27:13.915] [info]  🚧 UPSCAYL_PROGRESS:  80,33%
+
+[2025-07-26 19:27:14.182] [info]  80,67%
+
+[2025-07-26 19:27:14.184] [info]  🎒 BACKEND REPORTED:  80,67%
+
+[2025-07-26 19:27:14.185] [info]  🎒 BACKEND REPORTED:  80,67%
+
+[2025-07-26 19:27:14.186] [info]  🚧 UPSCAYL_PROGRESS:  80,67%
+
+[2025-07-26 19:27:14.187] [info]  🚧 UPSCAYL_PROGRESS:  80,67%
+
+[2025-07-26 19:27:14.523] [info]  81,00%
+
+[2025-07-26 19:27:14.525] [info]  🎒 BACKEND REPORTED:  81,00%
+
+[2025-07-26 19:27:14.525] [info]  🎒 BACKEND REPORTED:  81,00%
+
+[2025-07-26 19:27:14.527] [info]  🚧 UPSCAYL_PROGRESS:  81,00%
+
+[2025-07-26 19:27:14.527] [info]  🚧 UPSCAYL_PROGRESS:  81,00%
+
+[2025-07-26 19:27:14.902] [info]  81,33%
+
+[2025-07-26 19:27:14.904] [info]  🎒 BACKEND REPORTED:  81,33%
+
+[2025-07-26 19:27:14.904] [info]  🎒 BACKEND REPORTED:  81,33%
+
+[2025-07-26 19:27:14.905] [info]  🚧 UPSCAYL_PROGRESS:  81,33%
+
+[2025-07-26 19:27:14.906] [info]  🚧 UPSCAYL_PROGRESS:  81,33%
+
+[2025-07-26 19:27:15.287] [info]  81,67%
+
+[2025-07-26 19:27:15.509] [info]  🎒 BACKEND REPORTED:  81,67%
+
+[2025-07-26 19:27:15.509] [info]  🎒 BACKEND REPORTED:  81,67%
+
+[2025-07-26 19:27:15.514] [info]  🚧 UPSCAYL_PROGRESS:  81,67%
+
+[2025-07-26 19:27:15.515] [info]  🚧 UPSCAYL_PROGRESS:  81,67%
+
+[2025-07-26 19:27:15.699] [info]  82,00%
+
+[2025-07-26 19:27:15.701] [info]  🎒 BACKEND REPORTED:  82,00%
+
+[2025-07-26 19:27:15.701] [info]  🎒 BACKEND REPORTED:  82,00%
+
+[2025-07-26 19:27:15.703] [info]  🚧 UPSCAYL_PROGRESS:  82,00%
+
+[2025-07-26 19:27:15.704] [info]  🚧 UPSCAYL_PROGRESS:  82,00%
+
+[2025-07-26 19:27:16.047] [info]  82,33%
+
+[2025-07-26 19:27:16.048] [info]  🎒 BACKEND REPORTED:  82,33%
+
+[2025-07-26 19:27:16.049] [info]  🎒 BACKEND REPORTED:  82,33%
+
+[2025-07-26 19:27:16.051] [info]  🚧 UPSCAYL_PROGRESS:  82,33%
+
+[2025-07-26 19:27:16.051] [info]  🚧 UPSCAYL_PROGRESS:  82,33%
+
+[2025-07-26 19:27:16.395] [info]  82,67%
+
+[2025-07-26 19:27:16.396] [info]  🎒 BACKEND REPORTED:  82,67%
+
+[2025-07-26 19:27:16.397] [info]  🎒 BACKEND REPORTED:  82,67%
+
+[2025-07-26 19:27:16.399] [info]  🚧 UPSCAYL_PROGRESS:  82,67%
+
+[2025-07-26 19:27:16.399] [info]  🚧 UPSCAYL_PROGRESS:  82,67%
+
+[2025-07-26 19:27:16.727] [info]  83,00%
+
+[2025-07-26 19:27:16.728] [info]  🎒 BACKEND REPORTED:  83,00%
+
+[2025-07-26 19:27:16.729] [info]  🎒 BACKEND REPORTED:  83,00%
+
+[2025-07-26 19:27:16.731] [info]  🚧 UPSCAYL_PROGRESS:  83,00%
+
+[2025-07-26 19:27:16.731] [info]  🚧 UPSCAYL_PROGRESS:  83,00%
+
+[2025-07-26 19:27:17.037] [info]  83,33%
+
+[2025-07-26 19:27:17.039] [info]  🎒 BACKEND REPORTED:  83,33%
+
+[2025-07-26 19:27:17.040] [info]  🎒 BACKEND REPORTED:  83,33%
+
+[2025-07-26 19:27:17.042] [info]  🚧 UPSCAYL_PROGRESS:  83,33%
+
+[2025-07-26 19:27:17.043] [info]  🚧 UPSCAYL_PROGRESS:  83,33%
+
+[2025-07-26 19:27:17.359] [info]  83,67%
+
+[2025-07-26 19:27:17.361] [info]  🎒 BACKEND REPORTED:  83,67%
+
+[2025-07-26 19:27:17.361] [info]  🎒 BACKEND REPORTED:  83,67%
+
+[2025-07-26 19:27:17.363] [info]  🚧 UPSCAYL_PROGRESS:  83,67%
+
+[2025-07-26 19:27:17.363] [info]  🚧 UPSCAYL_PROGRESS:  83,67%
+
+[2025-07-26 19:27:17.675] [info]  84,00%
+
+[2025-07-26 19:27:17.677] [info]  🎒 BACKEND REPORTED:  84,00%
+
+[2025-07-26 19:27:17.677] [info]  🎒 BACKEND REPORTED:  84,00%
+
+[2025-07-26 19:27:17.680] [info]  🚧 UPSCAYL_PROGRESS:  84,00%
+
+[2025-07-26 19:27:17.680] [info]  🚧 UPSCAYL_PROGRESS:  84,00%
+
+[2025-07-26 19:27:17.987] [info]  84,33%
+
+[2025-07-26 19:27:17.989] [info]  🎒 BACKEND REPORTED:  84,33%
+
+[2025-07-26 19:27:17.990] [info]  🎒 BACKEND REPORTED:  84,33%
+
+[2025-07-26 19:27:17.992] [info]  🚧 UPSCAYL_PROGRESS:  84,33%
+
+[2025-07-26 19:27:17.992] [info]  🚧 UPSCAYL_PROGRESS:  84,33%
+
+[2025-07-26 19:27:18.307] [info]  84,67%
+
+[2025-07-26 19:27:18.309] [info]  🎒 BACKEND REPORTED:  84,67%
+
+[2025-07-26 19:27:18.309] [info]  🎒 BACKEND REPORTED:  84,67%
+
+[2025-07-26 19:27:18.311] [info]  🚧 UPSCAYL_PROGRESS:  84,67%
+
+[2025-07-26 19:27:18.312] [info]  🚧 UPSCAYL_PROGRESS:  84,67%
+
+[2025-07-26 19:27:18.626] [info]  85,00%
+
+[2025-07-26 19:27:18.627] [info]  🎒 BACKEND REPORTED:  85,00%
+
+[2025-07-26 19:27:18.628] [info]  🎒 BACKEND REPORTED:  85,00%
+
+[2025-07-26 19:27:18.630] [info]  🚧 UPSCAYL_PROGRESS:  85,00%
+
+[2025-07-26 19:27:18.630] [info]  🚧 UPSCAYL_PROGRESS:  85,00%
+
+[2025-07-26 19:27:18.935] [info]  85,33%
+
+[2025-07-26 19:27:18.937] [info]  🎒 BACKEND REPORTED:  85,33%
+
+[2025-07-26 19:27:18.937] [info]  🎒 BACKEND REPORTED:  85,33%
+
+[2025-07-26 19:27:18.939] [info]  🚧 UPSCAYL_PROGRESS:  85,33%
+
+[2025-07-26 19:27:18.939] [info]  🚧 UPSCAYL_PROGRESS:  85,33%
+
+[2025-07-26 19:27:19.266] [info]  85,67%
+
+[2025-07-26 19:27:19.268] [info]  🎒 BACKEND REPORTED:  85,67%
+
+[2025-07-26 19:27:19.268] [info]  🎒 BACKEND REPORTED:  85,67%
+
+[2025-07-26 19:27:19.270] [info]  🚧 UPSCAYL_PROGRESS:  85,67%
+
+[2025-07-26 19:27:19.271] [info]  🚧 UPSCAYL_PROGRESS:  85,67%
+
+[2025-07-26 19:27:19.598] [info]  86,00%
+
+[2025-07-26 19:27:19.600] [info]  🎒 BACKEND REPORTED:  86,00%
+
+[2025-07-26 19:27:19.601] [info]  🎒 BACKEND REPORTED:  86,00%
+
+[2025-07-26 19:27:19.602] [info]  🚧 UPSCAYL_PROGRESS:  86,00%
+
+[2025-07-26 19:27:19.602] [info]  🚧 UPSCAYL_PROGRESS:  86,00%
+
+[2025-07-26 19:27:19.910] [info]  86,33%
+
+[2025-07-26 19:27:19.912] [info]  🎒 BACKEND REPORTED:  86,33%
+
+[2025-07-26 19:27:19.912] [info]  🎒 BACKEND REPORTED:  86,33%
+
+[2025-07-26 19:27:19.913] [info]  🚧 UPSCAYL_PROGRESS:  86,33%
+
+[2025-07-26 19:27:19.914] [info]  🚧 UPSCAYL_PROGRESS:  86,33%
+
+[2025-07-26 19:27:20.247] [info]  86,67%
+
+[2025-07-26 19:27:20.249] [info]  🎒 BACKEND REPORTED:  86,67%
+
+[2025-07-26 19:27:20.249] [info]  🎒 BACKEND REPORTED:  86,67%
+
+[2025-07-26 19:27:20.251] [info]  🚧 UPSCAYL_PROGRESS:  86,67%
+
+[2025-07-26 19:27:20.251] [info]  🚧 UPSCAYL_PROGRESS:  86,67%
+
+[2025-07-26 19:27:20.554] [info]  87,00%
+
+[2025-07-26 19:27:20.556] [info]  🎒 BACKEND REPORTED:  87,00%
+
+[2025-07-26 19:27:20.556] [info]  🎒 BACKEND REPORTED:  87,00%
+
+[2025-07-26 19:27:20.558] [info]  🚧 UPSCAYL_PROGRESS:  87,00%
+
+[2025-07-26 19:27:20.558] [info]  🚧 UPSCAYL_PROGRESS:  87,00%
+
+[2025-07-26 19:27:20.855] [info]  87,33%
+
+[2025-07-26 19:27:20.857] [info]  🎒 BACKEND REPORTED:  87,33%
+
+[2025-07-26 19:27:20.857] [info]  🎒 BACKEND REPORTED:  87,33%
+
+[2025-07-26 19:27:20.859] [info]  🚧 UPSCAYL_PROGRESS:  87,33%
+
+[2025-07-26 19:27:20.859] [info]  🚧 UPSCAYL_PROGRESS:  87,33%
+
+[2025-07-26 19:27:21.187] [info]  87,67%
+
+[2025-07-26 19:27:21.188] [info]  🎒 BACKEND REPORTED:  87,67%
+
+[2025-07-26 19:27:21.189] [info]  🎒 BACKEND REPORTED:  87,67%
+
+[2025-07-26 19:27:21.190] [info]  🚧 UPSCAYL_PROGRESS:  87,67%
+
+[2025-07-26 19:27:21.190] [info]  🚧 UPSCAYL_PROGRESS:  87,67%
+
+[2025-07-26 19:27:21.611] [info]  88,00%
+
+[2025-07-26 19:27:21.613] [info]  🎒 BACKEND REPORTED:  88,00%
+
+[2025-07-26 19:27:21.613] [info]  🎒 BACKEND REPORTED:  88,00%
+
+[2025-07-26 19:27:21.614] [info]  🚧 UPSCAYL_PROGRESS:  88,00%
+
+[2025-07-26 19:27:21.615] [info]  🚧 UPSCAYL_PROGRESS:  88,00%
+
+[2025-07-26 19:27:22.002] [info]  88,33%
+
+[2025-07-26 19:27:22.003] [info]  🎒 BACKEND REPORTED:  88,33%
+
+[2025-07-26 19:27:22.004] [info]  🎒 BACKEND REPORTED:  88,33%
+
+[2025-07-26 19:27:22.005] [info]  🚧 UPSCAYL_PROGRESS:  88,33%
+
+[2025-07-26 19:27:22.006] [info]  🚧 UPSCAYL_PROGRESS:  88,33%
+
+[2025-07-26 19:27:22.425] [info]  88,67%
+
+[2025-07-26 19:27:22.427] [info]  🎒 BACKEND REPORTED:  88,67%
+
+[2025-07-26 19:27:22.427] [info]  🎒 BACKEND REPORTED:  88,67%
+
+[2025-07-26 19:27:22.430] [info]  🚧 UPSCAYL_PROGRESS:  88,67%
+
+[2025-07-26 19:27:22.430] [info]  🚧 UPSCAYL_PROGRESS:  88,67%
+
+[2025-07-26 19:27:22.799] [info]  89,00%
+
+[2025-07-26 19:27:22.800] [info]  🎒 BACKEND REPORTED:  89,00%
+
+[2025-07-26 19:27:22.801] [info]  🎒 BACKEND REPORTED:  89,00%
+
+[2025-07-26 19:27:22.803] [info]  🚧 UPSCAYL_PROGRESS:  89,00%
+
+[2025-07-26 19:27:22.803] [info]  🚧 UPSCAYL_PROGRESS:  89,00%
+
+[2025-07-26 19:27:23.119] [info]  89,33%
+
+[2025-07-26 19:27:23.121] [info]  🎒 BACKEND REPORTED:  89,33%
+
+[2025-07-26 19:27:23.129] [info]  🎒 BACKEND REPORTED:  89,33%
+
+[2025-07-26 19:27:23.129] [info]  🚧 UPSCAYL_PROGRESS:  89,33%
+
+[2025-07-26 19:27:23.130] [info]  🚧 UPSCAYL_PROGRESS:  89,33%
+
+[2025-07-26 19:27:23.421] [info]  89,67%
+
+[2025-07-26 19:27:23.423] [info]  🎒 BACKEND REPORTED:  89,67%
+
+[2025-07-26 19:27:23.424] [info]  🎒 BACKEND REPORTED:  89,67%
+
+[2025-07-26 19:27:23.425] [info]  🚧 UPSCAYL_PROGRESS:  89,67%
+
+[2025-07-26 19:27:23.425] [info]  🚧 UPSCAYL_PROGRESS:  89,67%
+
+[2025-07-26 19:27:23.699] [info]  90,00%
+
+[2025-07-26 19:27:23.701] [info]  🎒 BACKEND REPORTED:  90,00%
+
+[2025-07-26 19:27:23.701] [info]  🎒 BACKEND REPORTED:  90,00%
+
+[2025-07-26 19:27:23.703] [info]  🚧 UPSCAYL_PROGRESS:  90,00%
+
+[2025-07-26 19:27:23.703] [info]  🚧 UPSCAYL_PROGRESS:  90,00%
+
+[2025-07-26 19:27:23.995] [info]  90,33%
+
+[2025-07-26 19:27:23.996] [info]  🎒 BACKEND REPORTED:  90,33%
+
+[2025-07-26 19:27:23.997] [info]  🎒 BACKEND REPORTED:  90,33%
+
+[2025-07-26 19:27:23.998] [info]  🚧 UPSCAYL_PROGRESS:  90,33%
+
+[2025-07-26 19:27:23.999] [info]  🚧 UPSCAYL_PROGRESS:  90,33%
+
+[2025-07-26 19:27:24.301] [info]  90,67%
+
+[2025-07-26 19:27:24.302] [info]  🎒 BACKEND REPORTED:  90,67%
+
+[2025-07-26 19:27:24.303] [info]  🎒 BACKEND REPORTED:  90,67%
+
+[2025-07-26 19:27:24.304] [info]  🚧 UPSCAYL_PROGRESS:  90,67%
+
+[2025-07-26 19:27:24.305] [info]  🚧 UPSCAYL_PROGRESS:  90,67%
+
+[2025-07-26 19:27:24.596] [info]  91,00%
+
+[2025-07-26 19:27:24.598] [info]  🎒 BACKEND REPORTED:  91,00%
+
+[2025-07-26 19:27:24.598] [info]  🎒 BACKEND REPORTED:  91,00%
+
+[2025-07-26 19:27:24.600] [info]  🚧 UPSCAYL_PROGRESS:  91,00%
+
+[2025-07-26 19:27:24.600] [info]  🚧 UPSCAYL_PROGRESS:  91,00%
+
+[2025-07-26 19:27:24.891] [info]  91,33%
+
+[2025-07-26 19:27:24.893] [info]  🎒 BACKEND REPORTED:  91,33%
+
+[2025-07-26 19:27:24.894] [info]  🎒 BACKEND REPORTED:  91,33%
+
+[2025-07-26 19:27:24.895] [info]  🚧 UPSCAYL_PROGRESS:  91,33%
+
+[2025-07-26 19:27:24.895] [info]  🚧 UPSCAYL_PROGRESS:  91,33%
+
+[2025-07-26 19:27:25.223] [info]  91,67%
+
+[2025-07-26 19:27:25.225] [info]  🎒 BACKEND REPORTED:  91,67%
+
+[2025-07-26 19:27:25.225] [info]  🎒 BACKEND REPORTED:  91,67%
+
+[2025-07-26 19:27:25.227] [info]  🚧 UPSCAYL_PROGRESS:  91,67%
+
+[2025-07-26 19:27:25.227] [info]  🚧 UPSCAYL_PROGRESS:  91,67%
+
+[2025-07-26 19:27:25.631] [info]  92,00%
+
+[2025-07-26 19:27:25.632] [info]  🎒 BACKEND REPORTED:  92,00%
+
+[2025-07-26 19:27:25.633] [info]  🎒 BACKEND REPORTED:  92,00%
+
+[2025-07-26 19:27:25.634] [info]  🚧 UPSCAYL_PROGRESS:  92,00%
+
+[2025-07-26 19:27:25.635] [info]  🚧 UPSCAYL_PROGRESS:  92,00%
+
+[2025-07-26 19:27:26.041] [info]  92,33%
+
+[2025-07-26 19:27:26.042] [info]  🎒 BACKEND REPORTED:  92,33%
+
+[2025-07-26 19:27:26.043] [info]  🎒 BACKEND REPORTED:  92,33%
+
+[2025-07-26 19:27:26.044] [info]  🚧 UPSCAYL_PROGRESS:  92,33%
+
+[2025-07-26 19:27:26.044] [info]  🚧 UPSCAYL_PROGRESS:  92,33%
+
+[2025-07-26 19:27:26.415] [info]  92,67%
+
+[2025-07-26 19:27:26.417] [info]  🎒 BACKEND REPORTED:  92,67%
+
+[2025-07-26 19:27:26.417] [info]  🎒 BACKEND REPORTED:  92,67%
+
+[2025-07-26 19:27:26.419] [info]  🚧 UPSCAYL_PROGRESS:  92,67%
+
+[2025-07-26 19:27:26.419] [info]  🚧 UPSCAYL_PROGRESS:  92,67%
+
+[2025-07-26 19:27:26.738] [info]  93,00%
+
+[2025-07-26 19:27:26.740] [info]  🎒 BACKEND REPORTED:  93,00%
+
+[2025-07-26 19:27:26.741] [info]  🎒 BACKEND REPORTED:  93,00%
+
+[2025-07-26 19:27:26.742] [info]  🚧 UPSCAYL_PROGRESS:  93,00%
+
+[2025-07-26 19:27:26.743] [info]  🚧 UPSCAYL_PROGRESS:  93,00%
+
+[2025-07-26 19:27:27.149] [info]  93,33%
+
+[2025-07-26 19:27:27.151] [info]  🎒 BACKEND REPORTED:  93,33%
+
+[2025-07-26 19:27:27.151] [info]  🎒 BACKEND REPORTED:  93,33%
+
+[2025-07-26 19:27:27.153] [info]  🚧 UPSCAYL_PROGRESS:  93,33%
+
+[2025-07-26 19:27:27.154] [info]  🚧 UPSCAYL_PROGRESS:  93,33%
+
+[2025-07-26 19:27:27.518] [info]  93,67%
+
+[2025-07-26 19:27:27.520] [info]  🎒 BACKEND REPORTED:  93,67%
+
+[2025-07-26 19:27:27.520] [info]  🎒 BACKEND REPORTED:  93,67%
+
+[2025-07-26 19:27:27.522] [info]  🚧 UPSCAYL_PROGRESS:  93,67%
+
+[2025-07-26 19:27:27.522] [info]  🚧 UPSCAYL_PROGRESS:  93,67%
+
+[2025-07-26 19:27:27.878] [info]  94,00%
+
+[2025-07-26 19:27:27.880] [info]  🎒 BACKEND REPORTED:  94,00%
+
+[2025-07-26 19:27:27.880] [info]  🎒 BACKEND REPORTED:  94,00%
+
+[2025-07-26 19:27:27.882] [info]  🚧 UPSCAYL_PROGRESS:  94,00%
+
+[2025-07-26 19:27:27.883] [info]  🚧 UPSCAYL_PROGRESS:  94,00%
+
+[2025-07-26 19:27:28.224] [info]  94,33%
+
+[2025-07-26 19:27:28.225] [info]  🎒 BACKEND REPORTED:  94,33%
+
+[2025-07-26 19:27:28.225] [info]  🎒 BACKEND REPORTED:  94,33%
+
+[2025-07-26 19:27:28.227] [info]  🚧 UPSCAYL_PROGRESS:  94,33%
+
+[2025-07-26 19:27:28.227] [info]  🚧 UPSCAYL_PROGRESS:  94,33%
+
+[2025-07-26 19:27:28.542] [info]  94,67%
+
+[2025-07-26 19:27:28.543] [info]  🎒 BACKEND REPORTED:  94,67%
+
+[2025-07-26 19:27:28.544] [info]  🎒 BACKEND REPORTED:  94,67%
+
+[2025-07-26 19:27:28.546] [info]  🚧 UPSCAYL_PROGRESS:  94,67%
+
+[2025-07-26 19:27:28.546] [info]  🚧 UPSCAYL_PROGRESS:  94,67%
+
+[2025-07-26 19:27:28.849] [info]  95,00%
+
+[2025-07-26 19:27:28.850] [info]  🎒 BACKEND REPORTED:  95,00%
+
+[2025-07-26 19:27:28.851] [info]  🎒 BACKEND REPORTED:  95,00%
+
+[2025-07-26 19:27:28.853] [info]  🚧 UPSCAYL_PROGRESS:  95,00%
+
+[2025-07-26 19:27:28.853] [info]  🚧 UPSCAYL_PROGRESS:  95,00%
+
+[2025-07-26 19:27:29.147] [info]  95,33%
+
+[2025-07-26 19:27:29.149] [info]  🎒 BACKEND REPORTED:  95,33%
+
+[2025-07-26 19:27:29.149] [info]  🎒 BACKEND REPORTED:  95,33%
+
+[2025-07-26 19:27:29.152] [info]  🚧 UPSCAYL_PROGRESS:  95,33%
+
+[2025-07-26 19:27:29.152] [info]  🚧 UPSCAYL_PROGRESS:  95,33%
+
+[2025-07-26 19:27:29.436] [info]  95,67%
+
+[2025-07-26 19:27:29.438] [info]  🎒 BACKEND REPORTED:  95,67%
+
+[2025-07-26 19:27:29.439] [info]  🎒 BACKEND REPORTED:  95,67%
+
+[2025-07-26 19:27:29.443] [info]  🚧 UPSCAYL_PROGRESS:  95,67%
+
+[2025-07-26 19:27:29.443] [info]  🚧 UPSCAYL_PROGRESS:  95,67%
+
+[2025-07-26 19:27:29.747] [info]  96,00%
+
+[2025-07-26 19:27:29.749] [info]  🎒 BACKEND REPORTED:  96,00%
+
+[2025-07-26 19:27:29.750] [info]  🎒 BACKEND REPORTED:  96,00%
+
+[2025-07-26 19:27:29.751] [info]  🚧 UPSCAYL_PROGRESS:  96,00%
+
+[2025-07-26 19:27:29.751] [info]  🚧 UPSCAYL_PROGRESS:  96,00%
+
+[2025-07-26 19:27:30.049] [info]  96,33%
+
+[2025-07-26 19:27:30.050] [info]  🎒 BACKEND REPORTED:  96,33%
+
+[2025-07-26 19:27:30.051] [info]  🎒 BACKEND REPORTED:  96,33%
+
+[2025-07-26 19:27:30.055] [info]  🚧 UPSCAYL_PROGRESS:  96,33%
+
+[2025-07-26 19:27:30.055] [info]  🚧 UPSCAYL_PROGRESS:  96,33%
+
+[2025-07-26 19:27:30.340] [info]  96,67%
+
+[2025-07-26 19:27:30.341] [info]  🎒 BACKEND REPORTED:  96,67%
+
+[2025-07-26 19:27:30.342] [info]  🎒 BACKEND REPORTED:  96,67%
+
+[2025-07-26 19:27:30.344] [info]  🚧 UPSCAYL_PROGRESS:  96,67%
+
+[2025-07-26 19:27:30.344] [info]  🚧 UPSCAYL_PROGRESS:  96,67%
+
+[2025-07-26 19:27:30.641] [info]  97,00%
+
+[2025-07-26 19:27:30.643] [info]  🎒 BACKEND REPORTED:  97,00%
+
+[2025-07-26 19:27:30.643] [info]  🎒 BACKEND REPORTED:  97,00%
+
+[2025-07-26 19:27:30.645] [info]  🚧 UPSCAYL_PROGRESS:  97,00%
+
+[2025-07-26 19:27:30.645] [info]  🚧 UPSCAYL_PROGRESS:  97,00%
+
+[2025-07-26 19:27:30.944] [info]  97,33%
+
+[2025-07-26 19:27:30.946] [info]  🎒 BACKEND REPORTED:  97,33%
+
+[2025-07-26 19:27:30.947] [info]  🎒 BACKEND REPORTED:  97,33%
+
+[2025-07-26 19:27:30.948] [info]  🚧 UPSCAYL_PROGRESS:  97,33%
+
+[2025-07-26 19:27:30.949] [info]  🚧 UPSCAYL_PROGRESS:  97,33%
+
+[2025-07-26 19:27:31.254] [info]  97,67%
+
+[2025-07-26 19:27:31.256] [info]  🎒 BACKEND REPORTED:  97,67%
+
+[2025-07-26 19:27:31.256] [info]  🎒 BACKEND REPORTED:  97,67%
+
+[2025-07-26 19:27:31.258] [info]  🚧 UPSCAYL_PROGRESS:  97,67%
+
+[2025-07-26 19:27:31.258] [info]  🚧 UPSCAYL_PROGRESS:  97,67%
+
+[2025-07-26 19:27:31.554] [info]  98,00%
+
+[2025-07-26 19:27:31.556] [info]  🎒 BACKEND REPORTED:  98,00%
+
+[2025-07-26 19:27:31.558] [info]  🎒 BACKEND REPORTED:  98,00%
+
+[2025-07-26 19:27:31.559] [info]  🚧 UPSCAYL_PROGRESS:  98,00%
+
+[2025-07-26 19:27:31.560] [info]  🚧 UPSCAYL_PROGRESS:  98,00%
+
+[2025-07-26 19:27:31.921] [info]  98,33%
+
+[2025-07-26 19:27:31.923] [info]  🎒 BACKEND REPORTED:  98,33%
+
+[2025-07-26 19:27:31.923] [info]  🎒 BACKEND REPORTED:  98,33%
+
+[2025-07-26 19:27:31.925] [info]  🚧 UPSCAYL_PROGRESS:  98,33%
+
+[2025-07-26 19:27:31.926] [info]  🚧 UPSCAYL_PROGRESS:  98,33%
+
+[2025-07-26 19:27:32.236] [info]  98,67%
+
+[2025-07-26 19:27:32.238] [info]  🎒 BACKEND REPORTED:  98,67%
+
+[2025-07-26 19:27:32.238] [info]  🎒 BACKEND REPORTED:  98,67%
+
+[2025-07-26 19:27:32.240] [info]  🚧 UPSCAYL_PROGRESS:  98,67%
+
+[2025-07-26 19:27:32.240] [info]  🚧 UPSCAYL_PROGRESS:  98,67%
+
+[2025-07-26 19:27:32.534] [info]  99,00%
+
+[2025-07-26 19:27:32.536] [info]  🎒 BACKEND REPORTED:  99,00%
+
+[2025-07-26 19:27:32.537] [info]  🎒 BACKEND REPORTED:  99,00%
+
+[2025-07-26 19:27:32.539] [info]  🚧 UPSCAYL_PROGRESS:  99,00%
+
+[2025-07-26 19:27:32.540] [info]  🚧 UPSCAYL_PROGRESS:  99,00%
+
+[2025-07-26 19:27:32.824] [info]  99,33%
+
+[2025-07-26 19:27:32.826] [info]  🎒 BACKEND REPORTED:  99,33%
+
+[2025-07-26 19:27:32.827] [info]  🎒 BACKEND REPORTED:  99,33%
+
+[2025-07-26 19:27:32.829] [info]  🚧 UPSCAYL_PROGRESS:  99,33%
+
+[2025-07-26 19:27:32.830] [info]  🚧 UPSCAYL_PROGRESS:  99,33%
+
+[2025-07-26 19:27:33.110] [info]  99,67%
+
+[2025-07-26 19:27:33.111] [info]  🎒 BACKEND REPORTED:  99,67%
+
+[2025-07-26 19:27:33.112] [info]  🎒 BACKEND REPORTED:  99,67%
+
+[2025-07-26 19:27:33.113] [info]  🚧 UPSCAYL_PROGRESS:  99,67%
+
+[2025-07-26 19:27:33.114] [info]  🚧 UPSCAYL_PROGRESS:  99,67%
+
+[2025-07-26 19:27:33.137] [info]  🏞️ Resizing image according to output scale
+
+[2025-07-26 19:27:33.139] [info]  🎒 BACKEND REPORTED:  🏞️ Resizing image according to output scale
+
+[2025-07-26 19:27:33.139] [info]  🎒 BACKEND REPORTED:  🏞️ Resizing image according to output scale
+
+[2025-07-26 19:27:33.141] [info]  🚧 UPSCAYL_PROGRESS:  🏞️ Resizing image according to output scale
+
+[2025-07-26 19:27:33.141] [info]  🚧 UPSCAYL_PROGRESS:  🏞️ Resizing image according to output scale
+
+[2025-07-26 19:27:35.151] [info]  🏞️ Scaled image from 4000x3000 to 8000x6000
+
+[2025-07-26 19:27:35.152] [info]  🎒 BACKEND REPORTED:  🏞️ Scaled image from 4000x3000 to 8000x6000
+
+[2025-07-26 19:27:35.153] [info]  🎒 BACKEND REPORTED:  🏞️ Scaled image from 4000x3000 to 8000x6000
+
+[2025-07-26 19:27:35.156] [info]  🚧 UPSCAYL_PROGRESS:  🏞️ Scaled image from 4000x3000 to 8000x6000
+
+[2025-07-26 19:27:35.156] [info]  🚧 UPSCAYL_PROGRESS:  🏞️ Scaled image from 4000x3000 to 8000x6000
+
+[2025-07-26 19:27:41.060] [info]  100.00%
+
+🙌 Upscayled Successfully!
+
+[2025-07-26 19:27:41.061] [info]  🎒 BACKEND REPORTED:  100.00%
+
+🙌 Upscayled Successfully!
+
+[2025-07-26 19:27:41.061] [info]  🎒 BACKEND REPORTED:  100.00%
+
+🙌 Upscayled Successfully!
+
+[2025-07-26 19:27:41.063] [info]  🚧 UPSCAYL_PROGRESS:  100.00%
+
+🙌 Upscayled Successfully!
+
+[2025-07-26 19:27:41.064] [info]  🚧 UPSCAYL_PROGRESS:  100.00%
+
+🙌 Upscayled Successfully!
+
+[2025-07-26 19:27:41.496] [info]  💯 Done upscaling
+[2025-07-26 19:27:41.505] [info]  🎒 BACKEND REPORTED:  💯 Done upscaling
+[2025-07-26 19:27:41.506] [info]  🎒 BACKEND REPORTED:  💯 Done upscaling
+[2025-07-26 19:27:41.506] [info]  upscaledImagePath:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_2x_upscayl-standard-4x.png
+[2025-07-26 19:27:41.506] [info]  💯 UPSCAYL_DONE:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_2x_upscayl-standard-4x.png
+[2025-07-26 19:27:41.506] [info]  upscaledImagePath:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_2x_upscayl-standard-4x.png
+[2025-07-26 19:27:41.506] [info]  💯 UPSCAYL_DONE:  /home/hitacium/Pictures/Wallpapers/konachan_random_image-1_upscayl_2x_upscayl-standard-4x.png
+[2025-07-30 17:21:19.778] [info]  🆙 Upscayl version: 2.15.0 FOSS
+[2025-07-30 17:21:19.782] [info]  🚀 UPSCAYL EXEC PATH:  /usr/share/upscayl/bin/upscayl-bin
+[2025-07-30 17:21:19.782] [info]  🚀 MODELS PATH:  /usr/share/upscayl/models
+[2025-07-30 17:21:19.783] [info]  🚃 App Path:  /usr/share/upscayl/app.asar
+[2025-07-30 17:21:20.425] [info]  💻 System Info: {"platform":"linux","release":"6.15.8-arch1-1","arch":"x64","model":"AMD Ryzen 5 6600H with Radeon Graphics","cpuCount":12,"gpu":{"active":true,"cudaComputeCapabilityMajor":0,"deviceId":5761,"gpuPreference":0,"vendorId":4098}}
+[2025-07-30 17:21:35.682] [info]  🔄 Resetting image paths
+[2025-07-30 17:21:35.683] [info]  👎 No valid files dropped

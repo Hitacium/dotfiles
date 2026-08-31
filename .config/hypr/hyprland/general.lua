@@ -1,9 +1,9 @@
 -- MONITOR CONFIG
 hl.monitor({
 	output = "",
-	mode = "preferred",
+	mode = "2560x1600@165",
 	position = "auto",
-	scale = "1.3333",
+	scale = 1.67,
 })
 
 hl.gesture({

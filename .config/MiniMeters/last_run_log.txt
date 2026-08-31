@@ -1,0 +1,80 @@
+[INFO] argc: 1
+[INFO]   :MiniMeters
+[INFO] MiniMeters Launching: v1.0.24 - build: 172
+[INFO] Startup locale: C
+[INFO] Successfully set locale to: C.UTF-8
+[INFO] Locale: C
+[INFO] Loaded theme: Direct
+[INFO] ReloadThemeList()
+[INFO] Theme found: Direct
+[INFO] Loaded theme: Direct
+[INFO] ReloadThemeList()
+[INFO] Theme found: Direct
+[INFO] loading colormaps...
+[INFO] Prefs::save_if_needed: saving to the running preset: Default (Horizontal)
+[INFO] [Audio Engine] Found selected device with name: Monitor of Ryzen HD Audio Controller Stéréo analogique
+[INFO] AudioAbstraction: Found device with id: 0
+[INFO] AudioAbstraction: Found device with id AGAIN: 0
+[INFO] m_audio_device.value().id: Monitor of Ryzen HD Audio Controller Stéréo analogique
+[INFO] [Audio Engine] Starting with device named: Monitor of Ryzen HD Audio Controller Stéréo analogique, SR: 44100.000000, Channels: 2
+[INFO] [Audio Engine] check_channel_state: Monitor of Ryzen HD Audio Controller Stéréo analogique, trim: 0.000000
+[INFO] [Audio Engine] Starting with SR: 44100.000000
+[INFO] HorizontalBar: Connected displays at window creation:
+[INFO]  eDP-1
+[INFO]    rect:            0.000000x0.000000, 1920.000000x1200.000000
+[INFO]    visible rect:    0.000000x0.000000, 1920.000000x1200.000000
+[INFO]    bounds:          0.000000x0.000000, 1920.000000x1200.000000
+[INFO]    visible bounds:  0.000000x0.000000, 1920.000000x1200.000000
+[INFO]    scale:           1.000000
+[INFO]    current monitor: false
+[INFO]    primary monitor: true
+[INFO] Found x: 0, y: 0 in the preset
+[WARN] Unable to set the window pos with this window manager
+[INFO] Window::create(): Creating window with ID: '0' and parent ID: '-1'
+[INFO] Resolving account.minimeters.app
+[INFO] Found 2 Vulkan device(s):
+[INFO]  0 - NVIDIA GeForce RTX 3060 Laptop GPU (Discrete GPU) - VRAM: 6144MB - Score: 11000
+[INFO]  1 - AMD Radeon 660M (RADV REMBRANDT) (Integrated GPU) - VRAM: 10764MB - Score: 6000
+[INFO] Selected GPU: NVIDIA GeForce RTX 3060 Laptop GPU (score: 11000)
+[INFO] Restarting due to audio callback detecting sample rate change. Input SR: 48000. Current SR: 44100.000000
+[INFO] done creating renderer
+[WARN] optional_setup() took 236.156044ms
+[WARN] resize took 0.018205ms
+[WARN] make_buffer took 10.201591ms
+[WARN] FinalizeAttributes took 0.001954ms
+[WARN] new RDrawer() took 10.238133ms
+[WARN] new FramebufferDrawer() took 0.007995ms
+[WARN] texture_rect_buffer () took 0.001303ms
+[WARN] initialize_fixed_function_text() took 1.944420ms
+[WARN] initialize_fixed_function_pipeline() took 12.565255ms
+[WARN] first pre_draw() took 5.216185ms
+[INFO] HorizontalBar: Updating window position for primary window.
+[INFO] no startup display using primary instead: eDP-1
+[INFO] HorizontalBar: update_window_position_if_needed: primary 0x0 1920x128
+[INFO] [Audio Engine] Found selected device with name: Monitor of Ryzen HD Audio Controller Stéréo analogique
+[INFO] AudioAbstraction: Found device with id: 0
+[INFO] AudioAbstraction: Found device with id AGAIN: 0
+[INFO] m_audio_device.value().id: Monitor of Ryzen HD Audio Controller Stéréo analogique
+[INFO] [Audio Engine] Starting with device named: Monitor of Ryzen HD Audio Controller Stéréo analogique, SR: 48000.000000, Channels: 2
+[INFO] [Audio Engine] check_channel_state: Monitor of Ryzen HD Audio Controller Stéréo analogique, trim: 0.000000
+[INFO] [Audio Engine] Starting with SR: 48000.000000
+[INFO] Connecting to resolved address...
+[INFO] Spectrogram: Time Correction Multiplier changed from 0.000000 to 32.000000
+[INFO] Samples Per Frame: 128.000000
+[INFO] Fade setting changed. Updating LUT: 0.500000
+[INFO] Spectrogram: Time Correction Multiplier changed from 32.000000 to 14.733813
+[INFO] Samples Per Frame: 278.000000
+[INFO] Spectrogram: Time Correction Multiplier changed from 14.733813 to 19.692308
+[INFO] Samples Per Frame: 208.000000
+[INFO] TCP connection established
+[INFO] Starting SSL handshake
+[INFO] SSL handshake complete
+[INFO] Sending request
+[INFO] Reading response
+[INFO] Status code: 200
+[INFO] Status message: OK
+[ERR]  Location header not found in redirect
+[INFO] Received body:{"version":"1.0.29"}
+[INFO] UpdateChecker: found new version: 1.0.29
+[INFO] Prefs::save_if_needed: saving to the running preset: Default (Horizontal)
+[INFO] Prefs::save_if_needed: saving to the running preset: Default (Horizontal)

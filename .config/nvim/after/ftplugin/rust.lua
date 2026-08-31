@@ -1,0 +1,11 @@
+vim.keymap.set("n", "<leader>r", function()
+	vim.cmd("w")
+	vim.cmd("below split")
+	vim.cmd("term cargo run")
+end, { desc = "Run Rust code" })
+
+vim.keymap.set("n", "<leader>t", function()
+	vim.cmd("w")
+	vim.cmd("below split")
+	vim.cmd("term cargo test")
+end, { desc = "Test Rust code" })

@@ -1,0 +1,147 @@
+[Hotkey]
+# Méthode d'entrée du déclencheur
+#TriggerKey=CTRL_SPACE
+# N'utiliser la touche de déclenchement supplémentaire qu'après l'avoir utilisée pour désactiver
+# Valeur disponible :
+# True False
+#UseExtraTriggerKeyOnlyWhenUseItToInactivate=True
+# Touche supplémentaire pour la méthode d'entrée de déclenchement
+# Valeur disponible :
+# R_CTRL
+# R_SHIFT
+# L_SHIFT
+# L_CTRL
+# ALT_L_SHIFT
+# ALT_R_SHIFT
+# CTRL Both
+# SHIFT Both
+# L_ALT
+# R_ALT
+# ALT Both
+# Left Super
+# Right Super
+# Super Both
+# Ctrl+Left Super
+# Ctrl+Right Super
+# Super+Left Ctrl
+# Super+Right Ctrl
+# Disabled
+# Custom
+#SwitchKey=L_SHIFT
+# Touche de commutation personnalisée
+#CustomSwitchKey=
+# Activer la méthode de saisie
+#ActivateKey=
+# Désactiver la méthode de saisie
+#InactivateKey=
+# Activer le raccourci clavier pour faire défiler la méthode d'entrée
+# Valeur disponible :
+# True False
+#IMSwitchKey=True
+# Inclure Inactiver lors du défilement entre la méthode d'entrée
+# Valeur disponible :
+# True False
+#IMSwitchIncludeInactive=False
+# Faites défiler entre les méthodes de saisie
+# Valeur disponible :
+# CTRL_SHIFT
+# ALT_SHIFT
+# CTRL_SUPER
+# ALT_SUPER
+#IMSwitchHotkey=CTRL_SHIFT
+# Recharger la configuration
+#ReloadConfig=CTRL_5
+# Intervalle d'entrée à deux touches
+#TimeInterval=250
+# Basculer le clavier virtuel
+#VKSwitchKey=CTRL_ALT_B
+# Basculer le mode de rappel
+#RemindSwitchKey=
+# Basculer le mode de caractères pleine largeur
+#FullWidthSwitchKey=
+# Basculer le mode de perforation pleine largeur
+#PuncSwitchKey=CTRL_.
+# Page précédente
+#PrevPageKey=- UP
+# Page suivante
+#NextPageKey== DOWN
+# Choisir le deuxième et le troisième mot candidat
+#SecondThirdCandWordKey=
+# Enregistrement de toute la configuration et de l'historique des entrées
+#SaveAllKey=CTRL_ALT_S
+# Basculer la pré-édition intégrée
+#SwitchPreedit=CTRL_ALT_P
+# Mot précédent du candidat
+#PrevWord=SHIFT_TAB
+# Prochain mot candidat
+#NextWord=TAB
+
+[Program]
+# Dormir quelques secondes avant que fcitx ne démarre vraiment
+#DelayStart=0
+# Partager l'état entre la fenêtre
+# Valeur disponible :
+# No
+# All
+# PerProgram
+#ShareStateAmongWindow=No
+# État de la méthode d'entrée par défaut
+# Valeur disponible :
+# Inactive
+# Active
+#DefaultInputMethodState=Inactive
+
+[Output]
+# Taper le point demi-chasse après un nombre
+# Valeur disponible :
+# True False
+#HalfPuncAfterNumber=True
+# Désactiver la pagination en mode rappel
+# Valeur disponible :
+# True False
+#RemindModeDisablePaging=True
+# S'engager lors du basculement de l'état
+# Valeur disponible :
+# True False
+#SendTextWhenSwitchEng=True
+# Numéro du mot candidat
+#CandidateWordNumber=5
+# Donner les conseils de Phrase
+# Valeur disponible :
+# True False
+#PhraseTips=True
+# Ne valider pas le texte de pré-édition lorsque vous défocalisez une fenêtre
+# Valeur disponible :
+# True False
+#DontCommitPreeditWhenUnfocus=False
+
+[Appearance]
+# Afficher l'indice de méthode de saisie après la modification de la méthode de saisie
+# Valeur disponible :
+# True False
+#ShowInputWindowAfterTriggering=True
+# Afficher l'indice de méthode d'entrée après la modification de la méthode d'entrée et la mise au point dans
+# Valeur disponible :
+# True False
+#ShowInputWindowWhenFocusIn=False
+# L'indice de méthode d'entrée ne sera affiché que lorsque l'état est actif
+# Valeur disponible :
+# True False
+#ShowInputWindowOnlyWhenActive=True
+# Afficher la vitesse d'entrée
+# Valeur disponible :
+# True False
+#ShowInputSpeed=False
+# Afficher la version
+# Valeur disponible :
+# True False
+#ShowVersion=False
+# Ne pas afficher la fenêtre de saisie s'il n'y a qu'une chaîne de pré-édition
+# Valeur disponible :
+# True False
+#HideInputWindowWhenOnlyPreeditString=False
+# Ne pas afficher la fenêtre de saisie s'il n'y a qu'un seul candidat et pré-éditer
+# Valeur disponible :
+# True False
+#HideInputWindowWhenOnlyOneCandidate=False
+

@@ -1,0 +1,14 @@
+2025/07/30-17:21:20.200 8a3a Reusing MANIFEST /home/hitacium/.config/Upscayl/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2025/07/30-17:21:20.200 8a3a Recovering log #18
+2025/07/30-17:21:20.200 8a3a Reusing old log /home/hitacium/.config/Upscayl/IndexedDB/file__0.indexeddb.leveldb/000018.log 
+2025/07/30-17:21:20.200 8a3a Delete type=2 #16
+2025/07/30-17:21:20.435 8a75 Level-0 table #23: started
+2025/07/30-17:21:20.441 8a75 Level-0 table #23: 625 bytes OK
+2025/07/30-17:21:20.449 8a75 Delete type=0 #18
+2025/07/30-17:21:20.449 8a75 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 154 : 1
+2025/07/30-17:21:20.449 8a75 Compacting 1@0 + 1@1 files
+2025/07/30-17:21:20.461 8a75 Generated table #24@0: 38 keys, 1136 bytes
+2025/07/30-17:21:20.461 8a75 Compacted 1@0 + 1@1 files => 1136 bytes
+2025/07/30-17:21:20.468 8a75 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/30-17:21:20.469 8a75 Delete type=2 #23
+2025/07/30-17:21:20.469 8a3a Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 154 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

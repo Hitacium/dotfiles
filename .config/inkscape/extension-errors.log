@@ -1,0 +1,20 @@
+L'extension « XFIG Input » n'a pas été chargée, car une dépendance est manquante. Dépendance:
+	type: executable
+	emplacement: chemin
+	chaîne: fig2dev
+
+L'extension « Optimized PNG » n'a pas été chargée, car une dépendance est manquante. Dépendance:
+	type: executable
+	emplacement: chemin
+	chaîne: optipng
+
+L'extension « Export to PDF via Scribus » n'a pas été chargée, car une dépendance est manquante. Dépendance:
+	type: executable
+	emplacement: chemin
+	chaîne: scribus
+
+L'extension « GIMP XCF » n'a pas été chargée, car une dépendance est manquante. Dépendance:
+	type: executable
+	emplacement: chemin
+	chaîne: gimp
+
