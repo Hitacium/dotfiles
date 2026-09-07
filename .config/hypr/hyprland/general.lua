@@ -254,7 +254,6 @@ hl.animation({
 hl.config({
 	input = {
 		kb_layout = "fr",
-		kb_options = "caps:swapescape", -- swap caps lock and escape
 		numlock_by_default = true,
 		repeat_delay = 250,
 		repeat_rate = 35,
@@ -265,7 +264,7 @@ hl.config({
 		touchpad = {
 			natural_scroll = true,
 			disable_while_typing = true,
-			clickfinger_behavior = false,
+			clickfinger_behavior = true,
 			scroll_factor = 0.7,
 		},
 	},

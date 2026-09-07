@@ -316,6 +316,7 @@
 /home/hitacium/.config/quickshell/ii/assets/icons/gentoo-symbolic.svg
 /home/hitacium/.config/quickshell/ii/assets/icons/github-symbolic.svg
 /home/hitacium/.config/quickshell/ii/assets/icons/linux-symbolic.svg
+/home/hitacium/.config/quickshell/ii/assets/icons/manjaro-symbolic.svg
 /home/hitacium/.config/quickshell/ii/assets/icons/microsoft-symbolic.svg
 /home/hitacium/.config/quickshell/ii/assets/icons/mistral-symbolic.svg
 /home/hitacium/.config/quickshell/ii/assets/icons/nixos-symbolic.svg
@@ -346,6 +347,7 @@
 /home/hitacium/.config/quickshell/ii/modules/common/functions/levendist.js
 /home/hitacium/.config/quickshell/ii/modules/common/functions/Levendist.qml
 /home/hitacium/.config/quickshell/ii/modules/common/functions/NotificationUtils.qml
+/home/hitacium/.config/quickshell/ii/modules/common/functions/NumberUtils.qml
 /home/hitacium/.config/quickshell/ii/modules/common/functions/ObjectUtils.qml
 /home/hitacium/.config/quickshell/ii/modules/common/functions/Session.qml
 /home/hitacium/.config/quickshell/ii/modules/common/functions/StringUtils.qml
@@ -380,6 +382,7 @@
 /home/hitacium/.config/quickshell/ii/modules/common/models/quickToggles/PowerProfilesToggle.qml
 /home/hitacium/.config/quickshell/ii/modules/common/models/quickToggles/QuickToggleModel.qml
 /home/hitacium/.config/quickshell/ii/modules/common/models/quickToggles/ScreenSnipToggle.qml
+/home/hitacium/.config/quickshell/ii/modules/common/models/WorkspaceModel.qml
 /home/hitacium/.config/quickshell/ii/modules/common/panels/lock/LockContext.qml
 /home/hitacium/.config/quickshell/ii/modules/common/panels/lock/LockScreen.qml
 /home/hitacium/.config/quickshell/ii/modules/common/panels/lock/pam/fprintd.conf
@@ -390,13 +393,18 @@
 /home/hitacium/.config/quickshell/ii/modules/common/utils/TempScreenshotProcess.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/AddressBar.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/AddressBreadcrumb.qml
+/home/hitacium/.config/quickshell/ii/modules/common/widgets/AppIcon.qml
+/home/hitacium/.config/quickshell/ii/modules/common/widgets/BoxLayout.qml
+/home/hitacium/.config/quickshell/ii/modules/common/widgets/Box.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/ButtonGroup.qml
+/home/hitacium/.config/quickshell/ii/modules/common/widgets/ButtonMouseArea.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/CalendarView.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/Circle.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/CircularProgress.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/CliphistImage.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/ClippedFilledCircularProgress.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/ClippedProgressBar.qml
+/home/hitacium/.config/quickshell/ii/modules/common/widgets/Colorizer.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/ConfigRow.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/ConfigSelectionArray.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/ConfigSlider.qml
@@ -447,6 +455,7 @@
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/NotificationListView.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/OptionalMaterialSymbol.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/PagePlaceholder.qml
+/home/hitacium/.config/quickshell/ii/modules/common/widgets/Pill.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/PointingHandInteraction.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/PointingHandLinkHover.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/PopupToolTip.qml
@@ -482,6 +491,8 @@
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/shapes/shapes/utils.js
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/SineCookie.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/SqueezedAnnotationStyledText.qml
+/home/hitacium/.config/quickshell/ii/modules/common/widgets/StateLayer.qml
+/home/hitacium/.config/quickshell/ii/modules/common/widgets/StateOverlay.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/StyledBlurEffect.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/StyledComboBox.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/StyledDropShadow.qml
@@ -491,6 +502,7 @@
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/StyledListView.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/StyledProgressBar.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/StyledRadioButton.qml
+/home/hitacium/.config/quickshell/ii/modules/common/widgets/StyledRectangle.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/StyledRectangularShadow.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/StyledScrollBar.qml
 /home/hitacium/.config/quickshell/ii/modules/common/widgets/StyledSlider.qml
@@ -942,6 +954,7 @@
 /home/hitacium/.config/quickshell/ii/services/GlobalFocusGrab.qml
 /home/hitacium/.config/quickshell/ii/services/GoogleCloud.qml
 /home/hitacium/.config/quickshell/ii/services/hyprlandAntiFlashbangShader/anti-flashbang.glsl
+/home/hitacium/.config/quickshell/ii/services/hyprlandAntiFlashbangShader/anti-flashbang-weak.glsl
 /home/hitacium/.config/quickshell/ii/services/HyprlandAntiFlashbangShader.qml
 /home/hitacium/.config/quickshell/ii/services/HyprlandConfig.qml
 /home/hitacium/.config/quickshell/ii/services/HyprlandData.qml
